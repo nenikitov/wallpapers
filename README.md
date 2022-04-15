@@ -1,405 +1,325 @@
-<details>
-   <summary>Full_Photo_SunsetPier.jpg</summary>
+# Note
 
-   ![Full_Photo_SunsetPier.jpg](img/Full_Photo_SunsetPier.jpg)
-</details>
+The wast majority of these wallpapers are taken from random web-sites all over the internet and other repositories like this with wallpapers, I did not create them. 
+The only modifications that I have done are cropping / color correction, etc. 
 
+I tried finding the sources for every image in this wallpaper pack, but it is hard. If you are the original creator and you would like me to remove your wallpaper or I gave incorrect credit, please let me know by creating a new issue.
 
-<details>
-   <summary>Sceen_Photo_SunsetForest.jpg</summary>
 
-   ![Sceen_Photo_SunsetForest.jpg](img/Sceen_Photo_SunsetForest.jpg)
-</details>
 
+# Wallpapers
 
-<details>
-   <summary>Screen_Drawn_AutumnRiver.png</summary>
+## Firewatch Cliff
 
-   ![Screen_Drawn_AutumnRiver.png](img/Screen_Drawn_AutumnRiver.png)
-</details>
+### Image
+![Firewatch Cliff](img_source/FirewatchCliff.png)
 
+## Details
 
-<details>
-   <summary>Screen_Drawn_BigBird.jpg</summary>
+* **File name**: FirewatchCliff.png
+* **Size**: ultrawide
+* **Style tag**: flat
+* **Source**: [source](FirewatchCliff.png)
 
-   ![Screen_Drawn_BigBird.jpg](img/Screen_Drawn_BigBird.jpg)
-</details>
 
+## Firewatch River Deer
 
-<details>
-   <summary>Screen_Drawn_Cave.jpg</summary>
+### Image
+![Firewatch River Deer](img_source/FirewatchRiverDeer.png)
 
-   ![Screen_Drawn_Cave.jpg](img/Screen_Drawn_Cave.jpg)
-</details>
+## Details
 
+* **File name**: FirewatchRiverDeer.png
+* **Size**: ultrawide
+* **Style tag**: flat
+* **Source**: [source](FirewatchRiverDeer.png)
 
-<details>
-   <summary>Screen_Drawn_DragonLair.jpg</summary>
 
-   ![Screen_Drawn_DragonLair.jpg](img/Screen_Drawn_DragonLair.jpg)
-</details>
+## Saturn Forest
 
+### Image
+![Saturn Forest](img_source/SaturnForest.jpg)
 
-<details>
-   <summary>Screen_Drawn_Dragons.jpg</summary>
+## Details
 
-   ![Screen_Drawn_Dragons.jpg](img/Screen_Drawn_Dragons.jpg)
-</details>
+* **File name**: SaturnForest.jpg
+* **Size**: ultrawide
+* **Style tag**: flat
+* **Source**: [source](SaturnForest.jpg)
 
 
-<details>
-   <summary>Screen_Drawn_HellIslands.jpg</summary>
+## Cave Wolf
 
-   ![Screen_Drawn_HellIslands.jpg](img/Screen_Drawn_HellIslands.jpg)
-</details>
+### Image
+![Cave Wolf](img_source/CaveWolf.png)
 
+## Details
 
-<details>
-   <summary>Screen_Drawn_HillVillage.jpg</summary>
+* **File name**: CaveWolf.png
+* **Size**: ultrawide
+* **Style tag**: flat
+* **Source**: [source](CaveWolf.png)
 
-   ![Screen_Drawn_HillVillage.jpg](img/Screen_Drawn_HillVillage.jpg)
-</details>
 
+## Lake Deers Bear
 
-<details>
-   <summary>Screen_Drawn_HorizonZeroDawn.jpg</summary>
+### Image
+![Lake Deers Bear](img_source/LakeDeersBear.png)
 
-   ![Screen_Drawn_HorizonZeroDawn.jpg](img/Screen_Drawn_HorizonZeroDawn.jpg)
-</details>
+## Details
 
+* **File name**: LakeDeersBear.png
+* **Size**: wide
+* **Style tag**: flat
+* **Source**: [source](LakeDeersBear.png)
 
-<details>
-   <summary>Screen_Drawn_HyperBeast.jpg</summary>
 
-   ![Screen_Drawn_HyperBeast.jpg](img/Screen_Drawn_HyperBeast.jpg)
-</details>
+## Foggy Valley
 
+### Image
+![Foggy Valley](img_source/FoggyValley.png)
 
-<details>
-   <summary>Screen_Drawn_MountainCastle.png</summary>
+## Details
 
-   ![Screen_Drawn_MountainCastle.png](img/Screen_Drawn_MountainCastle.png)
-</details>
+* **File name**: FoggyValley.png
+* **Size**: ultrawide
+* **Style tag**: flat
+* **Source**: [source](FoggyValley.png)
 
 
-<details>
-   <summary>Screen_Drawn_Mummy.jpg</summary>
+## Foggy Mountains
 
-   ![Screen_Drawn_Mummy.jpg](img/Screen_Drawn_Mummy.jpg)
-</details>
+### Image
+![Foggy Mountains](img_source/FoggyMountains.png)
 
+## Details
 
-<details>
-   <summary>Screen_Drawn_PurpleSunset.jpg</summary>
+* **File name**: FoggyMountains.png
+* **Size**: ultrawide
+* **Style tag**: photo
+* **Source**: [source](FoggyMountains.png)
 
-   ![Screen_Drawn_PurpleSunset.jpg](img/Screen_Drawn_PurpleSunset.jpg)
-</details>
 
+## Caracara On Capybara
 
-<details>
-   <summary>Screen_Drawn_RedBoxOnTheStreet.jpg</summary>
+### Image
+![Caracara On Capybara](img_source/CaracaraOnCapybara.jpg)
 
-   ![Screen_Drawn_RedBoxOnTheStreet.jpg](img/Screen_Drawn_RedBoxOnTheStreet.jpg)
-</details>
+## Details
 
+* **File name**: CaracaraOnCapybara.jpg
+* **Size**: wide
+* **Style tag**: photo
+* **Source**: [source](CaracaraOnCapybara.jpg)
 
-<details>
-   <summary>Screen_Drawn_RedCave.jpg</summary>
 
-   ![Screen_Drawn_RedCave.jpg](img/Screen_Drawn_RedCave.jpg)
-</details>
+## Hyper Beast
 
+### Image
+![Hyper Beast](img_source/HyperBeast.jpg)
 
-<details>
-   <summary>Screen_Drawn_RedCave.png</summary>
+## Details
 
-   ![Screen_Drawn_RedCave.png](img/Screen_Drawn_RedCave.png)
-</details>
+* **File name**: HyperBeast.jpg
+* **Size**: wide
+* **Style tag**: drawing
+* **Source**: [source](HyperBeast.jpg)
 
 
-<details>
-   <summary>Screen_Drawn_RooftopHouses.jpg</summary>
+## Dragons
 
-   ![Screen_Drawn_RooftopHouses.jpg](img/Screen_Drawn_RooftopHouses.jpg)
-</details>
+### Image
+![Dragons](img_source/Dragons.jpg)
 
+## Details
 
-<details>
-   <summary>Screen_Drawn_Skyship.jpg</summary>
+* **File name**: Dragons.jpg
+* **Size**: wide
+* **Style tag**: drawing
+* **Source**: [source](Dragons.jpg)
 
-   ![Screen_Drawn_Skyship.jpg](img/Screen_Drawn_Skyship.jpg)
-</details>
 
+## Carmine Rock
 
-<details>
-   <summary>Screen_Drawn_Spooktober.jpg</summary>
+### Image
+![Carmine Rock](img_source/CarmineRock.png)
 
-   ![Screen_Drawn_Spooktober.jpg](img/Screen_Drawn_Spooktober.jpg)
-</details>
+## Details
 
+* **File name**: CarmineRock.png
+* **Size**: wide
+* **Style tag**: drawing
+* **Source**: [source](CarmineRock.png)
 
-<details>
-   <summary>Screen_Drawn_TreeWhale.jpg</summary>
 
-   ![Screen_Drawn_TreeWhale.jpg](img/Screen_Drawn_TreeWhale.jpg)
-</details>
+## Fishermans Shack
 
+### Image
+![Fishermans Shack](img_source/FishermansShack.jpg)
 
-<details>
-   <summary>Screen_Drawn_WarriorWaterfall.jpg</summary>
+## Details
 
-   ![Screen_Drawn_WarriorWaterfall.jpg](img/Screen_Drawn_WarriorWaterfall.jpg)
-</details>
+* **File name**: FishermansShack.jpg
+* **Size**: wide
+* **Style tag**: drawing
+* **Source**: [source](FishermansShack.jpg)
 
 
-<details>
-   <summary>Screen_Drawn_Witcher.jpg</summary>
+## Silent Hill Toluca
 
-   ![Screen_Drawn_Witcher.jpg](img/Screen_Drawn_Witcher.jpg)
-</details>
+### Image
+![Silent Hill Toluca](img_source/SilentHillToluca.jpg)
 
+## Details
 
-<details>
-   <summary>Screen_Flat_BlueStrips.png</summary>
+* **File name**: SilentHillToluca.jpg
+* **Size**: wide
+* **Style tag**: sketch
+* **Source**: [source](SilentHillToluca.jpg)
 
-   ![Screen_Flat_BlueStrips.png](img/Screen_Flat_BlueStrips.png)
-</details>
 
+## Silent Hill Otherworld
 
-<details>
-   <summary>Screen_Flat_CloudyLandscape.jpg</summary>
+### Image
+![Silent Hill Otherworld](img_source/SilentHillOtherworld.jpg)
 
-   ![Screen_Flat_CloudyLandscape.jpg](img/Screen_Flat_CloudyLandscape.jpg)
-</details>
+## Details
 
+* **File name**: SilentHillOtherworld.jpg
+* **Size**: wide
+* **Style tag**: sketch
+* **Source**: [source](SilentHillOtherworld.jpg)
 
-<details>
-   <summary>Screen_Flat_LakeCity.png</summary>
 
-   ![Screen_Flat_LakeCity.png](img/Screen_Flat_LakeCity.png)
-</details>
+## Dusk Vendigo Church
 
+### Image
+![Dusk Vendigo Church](img_source/DuskVendigoChurch.png)
 
-<details>
-   <summary>Screen_Flat_Moon.jpg</summary>
+## Details
 
-   ![Screen_Flat_Moon.jpg](img/Screen_Flat_Moon.jpg)
-</details>
+* **File name**: DuskVendigoChurch.png
+* **Size**: wide
+* **Style tag**: painting
+* **Source**: [source](DuskVendigoChurch.png)
 
 
-<details>
-   <summary>Screen_Flat_MountainRiver.jpg</summary>
+## Shadowlands
 
-   ![Screen_Flat_MountainRiver.jpg](img/Screen_Flat_MountainRiver.jpg)
-</details>
+### Image
+![Shadowlands](img_source/Shadowlands.jpg)
 
+## Details
 
-<details>
-   <summary>Screen_Flat_NeonNight.png</summary>
+* **File name**: Shadowlands.jpg
+* **Size**: wide
+* **Style tag**: drawing
+* **Source**: [source](Shadowlands.jpg)
+* **Notes**: I cropped it
 
-   ![Screen_Flat_NeonNight.png](img/Screen_Flat_NeonNight.png)
-</details>
 
+## El Capitan Yosemite Fog
 
-<details>
-   <summary>Screen_Flat_PurpleLines.jpg</summary>
+### Image
+![El Capitan Yosemite Fog](img_source/ElCapitanYosemiteFog.jpg)
 
-   ![Screen_Flat_PurpleLines.jpg](img/Screen_Flat_PurpleLines.jpg)
-</details>
+## Details
 
+* **File name**: ElCapitanYosemiteFog.jpg
+* **Size**: square
+* **Style tag**: photo
+* **Source**: [source](ElCapitanYosemiteFog.jpg)
 
-<details>
-   <summary>Screen_Flat_Rocket.jpg</summary>
 
-   ![Screen_Flat_Rocket.jpg](img/Screen_Flat_Rocket.jpg)
-</details>
+## El Capitan Yosemite Autumn
 
+### Image
+![El Capitan Yosemite Autumn](img_source/ElCapitanYosemiteAutumn.jpg)
 
-<details>
-   <summary>Screen_Flat_ShootingStar.png</summary>
+## Details
 
-   ![Screen_Flat_ShootingStar.png](img/Screen_Flat_ShootingStar.png)
-</details>
+* **File name**: ElCapitanYosemiteAutumn.jpg
+* **Size**: wide
+* **Style tag**: photo
+* **Source**: [source](ElCapitanYosemiteAutumn.jpg)
 
 
-<details>
-   <summary>Screen_Flat_SquirrelInAForest.jpg</summary>
+## World Of Horror
 
-   ![Screen_Flat_SquirrelInAForest.jpg](img/Screen_Flat_SquirrelInAForest.jpg)
-</details>
+### Image
+![World Of Horror](img_source/WorldOfHorror.png)
 
+## Details
 
-<details>
-   <summary>Screen_Paint_AutumnTree.jpg</summary>
+* **File name**: WorldOfHorror.png
+* **Size**: wide
+* **Style tag**: pixel
+* **Source**: [source](WorldOfHorror.png)
+* **Notes**: I extended the sky and colored the image with the palette from the game
 
-   ![Screen_Paint_AutumnTree.jpg](img/Screen_Paint_AutumnTree.jpg)
-</details>
 
+## Abandoned Japanese Village
 
-<details>
-   <summary>Screen_Paint_CarInTheNight.png</summary>
+### Image
+![Abandoned Japanese Village](img_source/AbandonedJapaneseVillage.png)
 
-   ![Screen_Paint_CarInTheNight.png](img/Screen_Paint_CarInTheNight.png)
-</details>
+## Details
 
+* **File name**: AbandonedJapaneseVillage.png
+* **Size**: ultrawide
+* **Style tag**: pixel
+* **Source**: [source](AbandonedJapaneseVillage.png)
 
-<details>
-   <summary>Screen_Paint_Deer.png</summary>
 
-   ![Screen_Paint_Deer.png](img/Screen_Paint_Deer.png)
-</details>
+## Magic Swamp
 
+### Image
+![Magic Swamp](img_source/MagicSwamp.png)
 
-<details>
-   <summary>Screen_Paint_DuskGameChurch.png</summary>
+## Details
 
-   ![Screen_Paint_DuskGameChurch.png](img/Screen_Paint_DuskGameChurch.png)
-</details>
+* **File name**: MagicSwamp.png
+* **Size**: ultrawide
+* **Style tag**: pixel
+* **Source**: [source](MagicSwamp.png)
 
 
-<details>
-   <summary>Screen_Paint_FireDoggo.jpg</summary>
+## Foggy Forest Road
 
-   ![Screen_Paint_FireDoggo.jpg](img/Screen_Paint_FireDoggo.jpg)
-</details>
+### Image
+![Foggy Forest Road](img_source/FoggyForestRoad.jpg)
 
+## Details
 
-<details>
-   <summary>Screen_Paint_Forest.jpg</summary>
+* **File name**: FoggyForestRoad.jpg
+* **Size**: wide
+* **Style tag**: pixel
+* **Source**: [source](FoggyForestRoad.jpg)
+* **Notes**: I cropped it
 
-   ![Screen_Paint_Forest.jpg](img/Screen_Paint_Forest.jpg)
-</details>
 
+## Samurai Sky Lanterns
 
-<details>
-   <summary>Screen_Paint_HangingCrow.jpg</summary>
+### Image
+![Samurai Sky Lanterns](img_source/SamuraiSkyLanterns.jpg)
 
-   ![Screen_Paint_HangingCrow.jpg](img/Screen_Paint_HangingCrow.jpg)
-</details>
+## Details
 
+* **File name**: SamuraiSkyLanterns.jpg
+* **Size**: wide
+* **Style tag**: painting
+* **Source**: [source](SamuraiSkyLanterns.jpg)
 
-<details>
-   <summary>Screen_Paint_HouseOnTheTree.jpg</summary>
 
-   ![Screen_Paint_HouseOnTheTree.jpg](img/Screen_Paint_HouseOnTheTree.jpg)
-</details>
+## Counter Play Sky Lanterns
 
+### Image
+![Counter Play Sky Lanterns](img_source/CounterPlaySkyLanterns.jpg)
 
-<details>
-   <summary>Screen_Paint_LakeCabin.jpg</summary>
+## Details
 
-   ![Screen_Paint_LakeCabin.jpg](img/Screen_Paint_LakeCabin.jpg)
-</details>
-
-
-<details>
-   <summary>Screen_Paint_Lanterns.jpg</summary>
-
-   ![Screen_Paint_Lanterns.jpg](img/Screen_Paint_Lanterns.jpg)
-</details>
-
-
-<details>
-   <summary>Screen_Paint_Samurai.png</summary>
-
-   ![Screen_Paint_Samurai.png](img/Screen_Paint_Samurai.png)
-</details>
-
-
-<details>
-   <summary>Screen_Paint_SunsetDesert.jpg</summary>
-
-   ![Screen_Paint_SunsetDesert.jpg](img/Screen_Paint_SunsetDesert.jpg)
-</details>
-
-
-<details>
-   <summary>Screen_Photo_AutumnMountains.jpg</summary>
-
-   ![Screen_Photo_AutumnMountains.jpg](img/Screen_Photo_AutumnMountains.jpg)
-</details>
-
-
-<details>
-   <summary>Screen_Photo_ChineseSign.jpg</summary>
-
-   ![Screen_Photo_ChineseSign.jpg](img/Screen_Photo_ChineseSign.jpg)
-</details>
-
-
-<details>
-   <summary>Screen_Photo_FoggyForest.jpg</summary>
-
-   ![Screen_Photo_FoggyForest.jpg](img/Screen_Photo_FoggyForest.jpg)
-</details>
-
-
-<details>
-   <summary>Screen_Photo_FoggyMountains.jpg</summary>
-
-   ![Screen_Photo_FoggyMountains.jpg](img/Screen_Photo_FoggyMountains.jpg)
-</details>
-
-
-<details>
-   <summary>Screen_Photo_ForestRoad.jpg</summary>
-
-   ![Screen_Photo_ForestRoad.jpg](img/Screen_Photo_ForestRoad.jpg)
-</details>
-
-
-<details>
-   <summary>Screen_Photo_NightDeer.jpg</summary>
-
-   ![Screen_Photo_NightDeer.jpg](img/Screen_Photo_NightDeer.jpg)
-</details>
-
-
-<details>
-   <summary>Screen_Photo_RedMoon.jpg</summary>
-
-   ![Screen_Photo_RedMoon.jpg](img/Screen_Photo_RedMoon.jpg)
-</details>
-
-
-<details>
-   <summary>Screen_Photo_Waterfall.jpg</summary>
-
-   ![Screen_Photo_Waterfall.jpg](img/Screen_Photo_Waterfall.jpg)
-</details>
-
-
-<details>
-   <summary>Screen_Pixel_AbandonedVillage.png</summary>
-
-   ![Screen_Pixel_AbandonedVillage.png](img/Screen_Pixel_AbandonedVillage.png)
-</details>
-
-
-<details>
-   <summary>Screen_Pixel_RedCity.png</summary>
-
-   ![Screen_Pixel_RedCity.png](img/Screen_Pixel_RedCity.png)
-</details>
-
-
-<details>
-   <summary>Screen_Pixel_Swamp.png</summary>
-
-   ![Screen_Pixel_Swamp.png](img/Screen_Pixel_Swamp.png)
-</details>
-
-
-<details>
-   <summary>Screen_Pixel_WorldOfHorrorGame.png</summary>
-
-   ![Screen_Pixel_WorldOfHorrorGame.png](img/Screen_Pixel_WorldOfHorrorGame.png)
-</details>
-
-
-<details>
-   <summary>Screen_Sketch_SilentHill2.jpg</summary>
-
-   ![Screen_Sketch_SilentHill2.jpg](img/Screen_Sketch_SilentHill2.jpg)
-</details>
+* **File name**: CounterPlaySkyLanterns.jpg
+* **Size**: wide
+* **Style tag**: painting
+* **Source**: [source](CounterPlaySkyLanterns.jpg)
 
