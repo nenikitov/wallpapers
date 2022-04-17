@@ -403,3 +403,110 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **Notes**: Image taken from [here](https://wallpx.com/wallpaper/landscape-sunrise-vr-games-field-artwork-catan-vr/)
 
 
+
+## Witcher On The Trail
+
+### Image
+![Witcher On The Trail](img_source/WitcherOnTheTrail.jpg)
+
+
+### Details
+
+* **File name**: WitcherOnTheTrail.jpg
+* **Size**: Wide
+* **Style tag**: Drawning
+* **Source**: [link](WitcherOnTheTrail.jpg)
+
+
+
+## Arikara1
+
+### Image
+![Arikara1](img_source/Arikara1.jpg)
+
+
+### Details
+
+* **File name**: Arikara1.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](Arikara1.jpg)
+
+
+
+## Arikara2
+
+### Image
+![Arikara2](img_source/Arikara2.jpg)
+
+
+### Details
+
+* **File name**: Arikara2.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](Arikara2.jpg)
+
+
+
+## Reload Brewing
+
+### Image
+![Reload Brewing](img_source/ReloadBrewing.jpg)
+
+
+### Details
+
+* **File name**: ReloadBrewing.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](ReloadBrewing.jpg)
+
+
+
+## Revenge Brewing
+
+### Image
+![Revenge Brewing](img_source/RevengeBrewing.jpg)
+
+
+### Details
+
+* **File name**: RevengeBrewing.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](RevengeBrewing.jpg)
+
+
+
+## Ancient Tree Shrine
+
+### Image
+![Ancient Tree Shrine](img_source/AncientTreeShrine.png)
+
+
+### Details
+
+* **File name**: AncientTreeShrine.png
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](AncientTreeShrine.png)
+* **Notes**: I cropped it
+
+
+
+## Ancient Artifact
+
+### Image
+![Ancient Artifact](img_source/AncientArtifact.jpg)
+
+
+### Details
+
+* **File name**: AncientArtifact.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](AncientArtifact.jpg)
+* **Notes**: I cropped it
+
+
