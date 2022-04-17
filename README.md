@@ -372,3 +372,34 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **Source**: [link](CounterPlaySkyLanterns.jpg)
 
 
+
+## Squirrel In Forest
+
+### Image
+![Squirrel In Forest](img_source/SquirrelInForest.png)
+
+
+### Details
+
+* **File name**: SquirrelInForest.png
+* **Size**: Wide
+* **Style tag**: Flat
+* **Source**: [link](SquirrelInForest.png)
+
+
+
+## Catan
+
+### Image
+![Catan](img_source/Catan.png)
+
+
+### Details
+
+* **File name**: Catan.png
+* **Size**: Wide
+* **Style tag**: Drawning
+* **Source**: [link](Catan.png)
+* **Notes**: Image taken from [here](https://wallpx.com/wallpaper/landscape-sunrise-vr-games-field-artwork-catan-vr/)
+
+
