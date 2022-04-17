@@ -196,7 +196,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Details
 
 * **File name**: FishermansShack.jpg
-* **Size**: Cinema
+* **Size**: Imax
 * **Style tag**: Drawing
 * **Source**: [link](FishermansShack.jpg)
 
@@ -488,7 +488,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Details
 
 * **File name**: ReloadBrewing.jpg
-* **Size**: Ultrawide
+* **Size**: Imax
 * **Style tag**: Drawing
 * **Source**: [link](ReloadBrewing.jpg)
 
@@ -504,7 +504,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Details
 
 * **File name**: RevengeBrewing.jpg
-* **Size**: Ultrawide
+* **Size**: Imax
 * **Style tag**: Drawing
 * **Source**: [link](RevengeBrewing.jpg)
 
@@ -603,7 +603,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Details
 
 * **File name**: AutumnForestCabins.jpg
-* **Size**: Cinema
+* **Size**: Imax
 * **Style tag**: Drawing
 * **Source**: [link](AutumnForestCabins.jpg)
 
@@ -619,7 +619,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Details
 
 * **File name**: SecretRuinedPlace.jpg
-* **Size**: Cinema
+* **Size**: Cinematic
 * **Style tag**: Painting
 * **Source**: [link](SecretRuinedPlace.jpg)
 
@@ -715,7 +715,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Details
 
 * **File name**: BlueLagoon.jpg
-* **Size**: Cinema
+* **Size**: Cinematic
 * **Style tag**: Drawing
 * **Source**: [link](BlueLagoon.jpg)
 
@@ -731,7 +731,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Details
 
 * **File name**: AutumnPuddle.jpg
-* **Size**: Cinema
+* **Size**: Cinematic
 * **Style tag**: Drawing
 * **Source**: [link](AutumnPuddle.jpg)
 
@@ -747,7 +747,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Details
 
 * **File name**: Fall.jpg
-* **Size**: Ultrawide
+* **Size**: Imax
 * **Style tag**: Drawing
 * **Source**: [link](Fall.jpg)
 
@@ -763,7 +763,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Details
 
 * **File name**: Jungle.jpg
-* **Size**: Cinema
+* **Size**: Cinematic
 * **Style tag**: Drawing
 * **Source**: [link](Jungle.jpg)
 

@@ -4,15 +4,16 @@ from colorthief import ColorThief
 from PIL import Image
 
 class AspectRatio(Enum):
-    NARROW        = 0.5
-    SQUARE        = 1      # 1/1
-    CLASSIC       = 1.33   # 4/3
-    WIDE          = 1.78   # 16/9
-    CINEMA        = 1.85   # 37/20
-    ULTRAWIDE     = 2      # 2/1
-    DOUBLE        = 3.56   # 32/9
-    TRIPLE        = 5.34   # 48/9
-    SUPERWIDE     = 7
+    NARROW     = 0.5
+    SQUARE     = 1      # 1/1
+    CLASSIC    = 1.33   # 4/3
+    WIDE       = 1.78   # 16/9
+    CINEMATIC  = 1.85   # 37/20
+    IMAX       = 1.9    # 19/10
+    ULTRAWIDE  = 2.33   # 21/9
+    DOUBLE     = 3.56   # 32/9
+    TRIPLE     = 5.34   # 48/9
+    SUPERWIDE  = 7
 
 
 class ImageTags:
