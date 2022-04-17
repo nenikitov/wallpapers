@@ -33,6 +33,7 @@ readme('I tried finding the sources for every image in this wallpaper pack, but 
 readme('')
 readme('')
 readme('')
+readme('')
 readme('# Wallpapers')
 readme('')
 #endregion
@@ -53,23 +54,28 @@ with open(info_file_path) as info_file:
             style = img['style']
             note  = img['note']
             link  = img['link']
+
             # Write to readme
             readme(f'## {name}')
-            readme(f'')
+            readme('')
             readme(f'### Image')
             readme(f'![{name}](img_source/{file})')
-            readme(f'')
-            readme(f'## Details')
-            readme(f'')
+            readme('')
+            readme('')
+            readme('### Details')
+            readme('')
             readme(f'* **File name**: {file}')
-            readme(f'* **Size**: {size}')
-            readme(f'* **Style tag**: {style}')
-            readme(f'* **Source**: [source]({file})')
+            readme(f'* **Size**: {size.capitalize()}')
+            readme(f'* **Style tag**: {style.capitalize()}')
+            readme(f'* **Source**: [link]({file})')
             if note:
                 readme(f'* **Notes**: {note}')
-            readme(f'')
-            readme(f'')
+            readme('')
+            readme('')
+            readme('')
+
             # Tag and copy the file
+            # TODO
 #endregion
 #endregion
 

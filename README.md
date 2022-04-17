@@ -7,6 +7,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 
 
 
+
 # Wallpapers
 
 ## Firewatch Cliff
@@ -14,12 +15,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Firewatch Cliff](img_source/FirewatchCliff.png)
 
-## Details
+
+### Details
 
 * **File name**: FirewatchCliff.png
-* **Size**: ultrawide
-* **Style tag**: flat
-* **Source**: [source](FirewatchCliff.png)
+* **Size**: Ultrawide
+* **Style tag**: Flat
+* **Source**: [link](FirewatchCliff.png)
+
 
 
 ## Firewatch River Deer
@@ -27,12 +30,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Firewatch River Deer](img_source/FirewatchRiverDeer.png)
 
-## Details
+
+### Details
 
 * **File name**: FirewatchRiverDeer.png
-* **Size**: ultrawide
-* **Style tag**: flat
-* **Source**: [source](FirewatchRiverDeer.png)
+* **Size**: Ultrawide
+* **Style tag**: Flat
+* **Source**: [link](FirewatchRiverDeer.png)
+
 
 
 ## Saturn Forest
@@ -40,12 +45,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Saturn Forest](img_source/SaturnForest.jpg)
 
-## Details
+
+### Details
 
 * **File name**: SaturnForest.jpg
-* **Size**: ultrawide
-* **Style tag**: flat
-* **Source**: [source](SaturnForest.jpg)
+* **Size**: Ultrawide
+* **Style tag**: Flat
+* **Source**: [link](SaturnForest.jpg)
+
 
 
 ## Cave Wolf
@@ -53,12 +60,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Cave Wolf](img_source/CaveWolf.png)
 
-## Details
+
+### Details
 
 * **File name**: CaveWolf.png
-* **Size**: ultrawide
-* **Style tag**: flat
-* **Source**: [source](CaveWolf.png)
+* **Size**: Ultrawide
+* **Style tag**: Flat
+* **Source**: [link](CaveWolf.png)
+
 
 
 ## Lake Deers Bear
@@ -66,12 +75,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Lake Deers Bear](img_source/LakeDeersBear.png)
 
-## Details
+
+### Details
 
 * **File name**: LakeDeersBear.png
-* **Size**: wide
-* **Style tag**: flat
-* **Source**: [source](LakeDeersBear.png)
+* **Size**: Wide
+* **Style tag**: Flat
+* **Source**: [link](LakeDeersBear.png)
+
 
 
 ## Foggy Valley
@@ -79,12 +90,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Foggy Valley](img_source/FoggyValley.png)
 
-## Details
+
+### Details
 
 * **File name**: FoggyValley.png
-* **Size**: ultrawide
-* **Style tag**: flat
-* **Source**: [source](FoggyValley.png)
+* **Size**: Ultrawide
+* **Style tag**: Flat
+* **Source**: [link](FoggyValley.png)
+
 
 
 ## Foggy Mountains
@@ -92,12 +105,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Foggy Mountains](img_source/FoggyMountains.png)
 
-## Details
+
+### Details
 
 * **File name**: FoggyMountains.png
-* **Size**: ultrawide
-* **Style tag**: photo
-* **Source**: [source](FoggyMountains.png)
+* **Size**: Ultrawide
+* **Style tag**: Photo
+* **Source**: [link](FoggyMountains.png)
+
 
 
 ## Caracara On Capybara
@@ -105,12 +120,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Caracara On Capybara](img_source/CaracaraOnCapybara.jpg)
 
-## Details
+
+### Details
 
 * **File name**: CaracaraOnCapybara.jpg
-* **Size**: wide
-* **Style tag**: photo
-* **Source**: [source](CaracaraOnCapybara.jpg)
+* **Size**: Wide
+* **Style tag**: Photo
+* **Source**: [link](CaracaraOnCapybara.jpg)
+
 
 
 ## Hyper Beast
@@ -118,12 +135,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Hyper Beast](img_source/HyperBeast.jpg)
 
-## Details
+
+### Details
 
 * **File name**: HyperBeast.jpg
-* **Size**: wide
-* **Style tag**: drawing
-* **Source**: [source](HyperBeast.jpg)
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](HyperBeast.jpg)
+
 
 
 ## Dragons
@@ -131,12 +150,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Dragons](img_source/Dragons.jpg)
 
-## Details
+
+### Details
 
 * **File name**: Dragons.jpg
-* **Size**: wide
-* **Style tag**: drawing
-* **Source**: [source](Dragons.jpg)
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](Dragons.jpg)
+
 
 
 ## Carmine Rock
@@ -144,12 +165,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Carmine Rock](img_source/CarmineRock.png)
 
-## Details
+
+### Details
 
 * **File name**: CarmineRock.png
-* **Size**: wide
-* **Style tag**: drawing
-* **Source**: [source](CarmineRock.png)
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](CarmineRock.png)
+
 
 
 ## Fishermans Shack
@@ -157,12 +180,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Fishermans Shack](img_source/FishermansShack.jpg)
 
-## Details
+
+### Details
 
 * **File name**: FishermansShack.jpg
-* **Size**: wide
-* **Style tag**: drawing
-* **Source**: [source](FishermansShack.jpg)
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](FishermansShack.jpg)
+
 
 
 ## Silent Hill Toluca
@@ -170,12 +195,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Silent Hill Toluca](img_source/SilentHillToluca.jpg)
 
-## Details
+
+### Details
 
 * **File name**: SilentHillToluca.jpg
-* **Size**: wide
-* **Style tag**: sketch
-* **Source**: [source](SilentHillToluca.jpg)
+* **Size**: Wide
+* **Style tag**: Sketch
+* **Source**: [link](SilentHillToluca.jpg)
+
 
 
 ## Silent Hill Otherworld
@@ -183,12 +210,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Silent Hill Otherworld](img_source/SilentHillOtherworld.jpg)
 
-## Details
+
+### Details
 
 * **File name**: SilentHillOtherworld.jpg
-* **Size**: wide
-* **Style tag**: sketch
-* **Source**: [source](SilentHillOtherworld.jpg)
+* **Size**: Wide
+* **Style tag**: Sketch
+* **Source**: [link](SilentHillOtherworld.jpg)
+
 
 
 ## Dusk Vendigo Church
@@ -196,12 +225,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Dusk Vendigo Church](img_source/DuskVendigoChurch.png)
 
-## Details
+
+### Details
 
 * **File name**: DuskVendigoChurch.png
-* **Size**: wide
-* **Style tag**: painting
-* **Source**: [source](DuskVendigoChurch.png)
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](DuskVendigoChurch.png)
+
 
 
 ## Shadowlands
@@ -209,13 +240,15 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Shadowlands](img_source/Shadowlands.jpg)
 
-## Details
+
+### Details
 
 * **File name**: Shadowlands.jpg
-* **Size**: wide
-* **Style tag**: drawing
-* **Source**: [source](Shadowlands.jpg)
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](Shadowlands.jpg)
 * **Notes**: I cropped it
+
 
 
 ## El Capitan Yosemite Fog
@@ -223,12 +256,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![El Capitan Yosemite Fog](img_source/ElCapitanYosemiteFog.jpg)
 
-## Details
+
+### Details
 
 * **File name**: ElCapitanYosemiteFog.jpg
-* **Size**: square
-* **Style tag**: photo
-* **Source**: [source](ElCapitanYosemiteFog.jpg)
+* **Size**: Square
+* **Style tag**: Photo
+* **Source**: [link](ElCapitanYosemiteFog.jpg)
+
 
 
 ## El Capitan Yosemite Autumn
@@ -236,12 +271,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![El Capitan Yosemite Autumn](img_source/ElCapitanYosemiteAutumn.jpg)
 
-## Details
+
+### Details
 
 * **File name**: ElCapitanYosemiteAutumn.jpg
-* **Size**: wide
-* **Style tag**: photo
-* **Source**: [source](ElCapitanYosemiteAutumn.jpg)
+* **Size**: Wide
+* **Style tag**: Photo
+* **Source**: [link](ElCapitanYosemiteAutumn.jpg)
+
 
 
 ## World Of Horror
@@ -249,13 +286,15 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![World Of Horror](img_source/WorldOfHorror.png)
 
-## Details
+
+### Details
 
 * **File name**: WorldOfHorror.png
-* **Size**: wide
-* **Style tag**: pixel
-* **Source**: [source](WorldOfHorror.png)
+* **Size**: Wide
+* **Style tag**: Pixel
+* **Source**: [link](WorldOfHorror.png)
 * **Notes**: I extended the sky and colored the image with the palette from the game
+
 
 
 ## Abandoned Japanese Village
@@ -263,12 +302,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Abandoned Japanese Village](img_source/AbandonedJapaneseVillage.png)
 
-## Details
+
+### Details
 
 * **File name**: AbandonedJapaneseVillage.png
-* **Size**: ultrawide
-* **Style tag**: pixel
-* **Source**: [source](AbandonedJapaneseVillage.png)
+* **Size**: Ultrawide
+* **Style tag**: Pixel
+* **Source**: [link](AbandonedJapaneseVillage.png)
+
 
 
 ## Magic Swamp
@@ -276,12 +317,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Magic Swamp](img_source/MagicSwamp.png)
 
-## Details
+
+### Details
 
 * **File name**: MagicSwamp.png
-* **Size**: ultrawide
-* **Style tag**: pixel
-* **Source**: [source](MagicSwamp.png)
+* **Size**: Ultrawide
+* **Style tag**: Pixel
+* **Source**: [link](MagicSwamp.png)
+
 
 
 ## Foggy Forest Road
@@ -289,13 +332,15 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Foggy Forest Road](img_source/FoggyForestRoad.jpg)
 
-## Details
+
+### Details
 
 * **File name**: FoggyForestRoad.jpg
-* **Size**: wide
-* **Style tag**: pixel
-* **Source**: [source](FoggyForestRoad.jpg)
+* **Size**: Wide
+* **Style tag**: Pixel
+* **Source**: [link](FoggyForestRoad.jpg)
 * **Notes**: I cropped it
+
 
 
 ## Samurai Sky Lanterns
@@ -303,12 +348,14 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Samurai Sky Lanterns](img_source/SamuraiSkyLanterns.jpg)
 
-## Details
+
+### Details
 
 * **File name**: SamuraiSkyLanterns.jpg
-* **Size**: wide
-* **Style tag**: painting
-* **Source**: [source](SamuraiSkyLanterns.jpg)
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](SamuraiSkyLanterns.jpg)
+
 
 
 ## Counter Play Sky Lanterns
@@ -316,10 +363,12 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 ### Image
 ![Counter Play Sky Lanterns](img_source/CounterPlaySkyLanterns.jpg)
 
-## Details
+
+### Details
 
 * **File name**: CounterPlaySkyLanterns.jpg
-* **Size**: wide
-* **Style tag**: painting
-* **Source**: [source](CounterPlaySkyLanterns.jpg)
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](CounterPlaySkyLanterns.jpg)
+
 
