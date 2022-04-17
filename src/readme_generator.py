@@ -1,9 +1,13 @@
 import csv
 import glob
+from msilib.schema import Error
 import os
 import re
+from image_tags import ImageTags
 
 from path import from_root
+from fancy_print import fancy_print as f_print, MessageType
+
 
 #region Set up
 # Paths
@@ -15,11 +19,14 @@ readme_text = []
 def readme(line):
     readme_text.append(line)
 def split_camel(text):
-    return ' '.join(re.sub('([A-Z][a-z]+)', r' \1', re.sub('([A-Z]+)', r' \1', text)).split())
+    return ' '.join(re.sub('([A-Z0-9][a-z]+)', r' \1', re.sub('([A-Z0-9]+)', r' \1', text)).split())
 def readme_save():
     with open(from_root('README.md'), 'w') as readme_file:
         readme_file.write('\n'.join(readme_text))
 #endregion
+
+
+f_print('Image tagger and README generator', MessageType.HEADER)
 
 
 #region Read info file, generate readme
@@ -39,33 +46,54 @@ readme('')
 #endregion
 
 #region Wallpapers
+wallpapers_found = []
+wallpapers_missing = []
+
 with open(info_file_path) as info_file:
     info = csv.DictReader(info_file)
 
     for img in info:
-        file = glob.glob(from_root('img_source', f'{img["name"]}.*'))
+        # Print header
+        name = img['name']
+        f_print(name, MessageType.SECTION)
+
+        # Find the file
+        file = glob.glob(from_root('img_source', f'{name}.*'))
         if len(file) != 1:
-            print(f'!!! Image with {img["name"]} was not found')
+            # File not found
+            wallpapers_missing.append(name)
+            f_print(f'{name} was not found, skipping', MessageType.ERROR, 1)
         else:
+            # File was found
+            f_print(f'{name} was found', MessageType.SUCCESS, 1)
+            file = file[0]
+            wallpapers_found.append(os.path.basename(file))
+
             # Get info
-            file  = os.path.basename(file[0])
+            f_print(f'Getting tags', MessageType.INFO, 2)
+            tags  = ImageTags(file)
+            file  = os.path.basename(file)
             name  = split_camel(img['name'])
-            size  = img['size']
+            ratio = tags.ratio
+            # color = tags.color
             style = img['style']
             note  = img['note']
             link  = img['link']
+            # print(tags.get_color())
 
             # Write to readme
+            f_print(f'Writing to readme', MessageType.INFO, 2)
             readme(f'## {name}')
             readme('')
-            readme(f'### Image')
+            readme('### Image')
+            readme('')
             readme(f'![{name}](img_source/{file})')
             readme('')
             readme('')
             readme('### Details')
             readme('')
             readme(f'* **File name**: {file}')
-            readme(f'* **Size**: {size.capitalize()}')
+            readme(f'* **Size**: {ratio}')
             readme(f'* **Style tag**: {style.capitalize()}')
             readme(f'* **Source**: [link]({file})')
             if note:
@@ -76,10 +104,29 @@ with open(info_file_path) as info_file:
 
             # Tag and copy the file
             # TODO
+            f_print(f'Saving the tagged file as {"TODO"}', MessageType.INFO, 2)
 #endregion
 #endregion
 
 
 #region Save readme
 readme_save()
+#endregion
+
+#region Find files that have no tags
+wallpapers_unknown = set(wallpapers_found).symmetric_difference(set(os.listdir(img_source_path)))
+#endregion
+
+#region End report
+f_print('Report', MessageType.HEADER)
+if len(wallpapers_missing):
+    f_print('Files in info file not found', MessageType.ERROR, 1)
+    for missing in wallpapers_missing:
+        f_print(f'* {missing}', MessageType.NORMAL, 1)
+if len(wallpapers_unknown):
+    f_print('Files not in the info file', MessageType.WARNING, 1)
+    for unknown in wallpapers_unknown:
+        f_print(f'* {unknown}', MessageType.NORMAL, 1)
+if not len(wallpapers_missing) and not len(wallpapers_unknown):
+    f_print('All good', MessageType.SUCCESS, 1)
 #endregion
