@@ -1,5 +1,5 @@
 from enum import Enum
-from colorama import Fore, Style, init as colorama_init
+from colorama import Fore, Style, init as colorama_init, deinit as colorama_deinit
 
 
 class MessageType(Enum):
@@ -61,29 +61,35 @@ class MessageType(Enum):
     }
 
 
-def fancy_print(message, type=MessageType.NORMAL, indent=0):
-    t = type.value
-    space = ' ' * 2 * indent
-    left = t['left'] if t['left'] else ''
-    right = t['right'] if t['right'] else ''
-    text = f'{left}{message}{right}'
+class FancyPrint():
+    def __init__(self):
+        colorama_init()
+    
+    def __del__(self):
+        colorama_deinit()
 
-    # Set the style
-    colorama_init()
-    print(Style.RESET_ALL, end='')
-    print(''.join(t['style']), end='')
+    def put(self, message, type=MessageType.NORMAL, indent=0):
+        t = type.value
+        space = ' ' * 2 * indent
+        left = t['left'] if t['left'] else ''
+        right = t['right'] if t['right'] else ''
+        text = f'{left}{message}{right}'
 
-    # Add spacing
-    print('\n' * t['spacing'], end='')
+        # Set the style
+        print(Style.RESET_ALL, end='')
+        print(''.join(t['style']), end='')
 
-    # Top
-    if t['top']:
-        print(space + t['top'] * len(text))
-    # Middle
-    print(space + text)
-    # Bottom
-    if t['bottom']:
-        print(space + t['bottom'] * len(text))
+        # Add spacing
+        print('\n' * t['spacing'], end='')
 
-    # Reset style
-    print(Style.RESET_ALL, end='')
+        # Top
+        if t['top']:
+            print(space + t['top'] * len(text))
+        # Middle
+        print(space + text)
+        # Bottom
+        if t['bottom']:
+            print(space + t['bottom'] * len(text))
+
+        # Reset style
+        print(Style.RESET_ALL, end='')

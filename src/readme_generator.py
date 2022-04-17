@@ -1,12 +1,11 @@
 import csv
 import glob
-from msilib.schema import Error
 import os
 import re
 from image_tags import ImageTags
 
 from path import from_root
-from fancy_print import fancy_print as f_print, MessageType
+from fancy_print import FancyPrint, MessageType
 
 
 #region Set up
@@ -23,10 +22,12 @@ def split_camel(text):
 def readme_save():
     with open(from_root('README.md'), 'w') as readme_file:
         readme_file.write('\n'.join(readme_text))
+# Printer
+fp = FancyPrint()
 #endregion
 
 
-f_print('Image tagger and README generator', MessageType.HEADER)
+fp.put('Image tagger and README generator', MessageType.HEADER)
 
 
 #region Read info file, generate readme
@@ -55,22 +56,22 @@ with open(info_file_path) as info_file:
     for img in info:
         # Print header
         name = img['name']
-        f_print(name, MessageType.SECTION)
+        fp.put(name, MessageType.SECTION)
 
         # Find the file
         file = glob.glob(from_root('img_source', f'{name}.*'))
         if len(file) != 1:
             # File not found
             wallpapers_missing.append(name)
-            f_print(f'{name} was not found, skipping', MessageType.ERROR, 1)
+            fp.put(f'{name} was not found, skipping', MessageType.ERROR, 1)
         else:
             # File was found
-            f_print(f'{name} was found', MessageType.SUCCESS, 1)
+            fp.put(f'{name} was found', MessageType.SUCCESS, 1)
             file = file[0]
             wallpapers_found.append(os.path.basename(file))
 
             # Get info
-            f_print(f'Getting tags', MessageType.INFO, 2)
+            fp.put(f'Getting tags', MessageType.INFO, 2)
             tags  = ImageTags(file)
             file  = os.path.basename(file)
             name  = split_camel(img['name'])
@@ -82,7 +83,7 @@ with open(info_file_path) as info_file:
             # print(tags.get_color())
 
             # Write to readme
-            f_print(f'Writing to readme', MessageType.INFO, 2)
+            fp.put(f'Writing to readme', MessageType.INFO, 2)
             readme(f'## {name}')
             readme('')
             readme('### Image')
@@ -104,7 +105,7 @@ with open(info_file_path) as info_file:
 
             # Tag and copy the file
             # TODO
-            f_print(f'Saving the tagged file as {"TODO"}', MessageType.INFO, 2)
+            fp.put(f'Saving the tagged file as {"TODO"}', MessageType.INFO, 2)
 #endregion
 #endregion
 
@@ -118,15 +119,15 @@ wallpapers_unknown = set(wallpapers_found).symmetric_difference(set(os.listdir(i
 #endregion
 
 #region End report
-f_print('Report', MessageType.HEADER)
+fp.put('Report', MessageType.HEADER)
 if len(wallpapers_missing):
-    f_print('Files in info file not found', MessageType.ERROR, 1)
+    fp.put('Files in info file not found', MessageType.ERROR, 1)
     for missing in wallpapers_missing:
-        f_print(f'* {missing}', MessageType.NORMAL, 1)
+        fp.put(f'* {missing}', MessageType.NORMAL, 1)
 if len(wallpapers_unknown):
-    f_print('Files not in the info file', MessageType.WARNING, 1)
+    fp.put('Files not in the info file', MessageType.WARNING, 1)
     for unknown in wallpapers_unknown:
-        f_print(f'* {unknown}', MessageType.NORMAL, 1)
+        fp.put(f'* {unknown}', MessageType.NORMAL, 1)
 if not len(wallpapers_missing) and not len(wallpapers_unknown):
-    f_print('All good', MessageType.SUCCESS, 1)
+    fp.put('All good', MessageType.SUCCESS, 1)
 #endregion
