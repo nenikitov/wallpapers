@@ -398,9 +398,9 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 
 * **File name**: Catan.png
 * **Size**: Wide
-* **Style tag**: Drawning
+* **Style tag**: Drawing
 * **Source**: [link](Catan.png)
-* **Notes**: Image taken from [here](https://wallpx.com/wallpaper/landscape-sunrise-vr-games-field-artwork-catan-vr/)
+* **Notes**: Taken from [here](https://wallpx.com/wallpaper/landscape-sunrise-vr-games-field-artwork-catan-vr/)
 
 
 
@@ -414,7 +414,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 
 * **File name**: WitcherOnTheTrail.jpg
 * **Size**: Wide
-* **Style tag**: Drawning
+* **Style tag**: Drawing
 * **Source**: [link](WitcherOnTheTrail.jpg)
 
 
@@ -508,5 +508,231 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **Style tag**: Drawing
 * **Source**: [link](AncientArtifact.jpg)
 * **Notes**: I cropped it
+
+
+
+## River Camping
+
+### Image
+![River Camping](img_source/RiverCamping.jpg)
+
+
+### Details
+
+* **File name**: RiverCamping.jpg
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](RiverCamping.jpg)
+
+
+
+## Falling Warmth
+
+### Image
+![Falling Warmth](img_source/FallingWarmth.jpeg)
+
+
+### Details
+
+* **File name**: FallingWarmth.jpeg
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](FallingWarmth.jpeg)
+* **Notes**: Taken from [here](https://imgur.com/gallery/yMQl5)
+
+
+
+## Lake Cabin
+
+### Image
+![Lake Cabin](img_source/LakeCabin.jpg)
+
+
+### Details
+
+* **File name**: LakeCabin.jpg
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](LakeCabin.jpg)
+
+
+
+## Autumn Forest Cabins
+
+### Image
+![Autumn Forest Cabins](img_source/AutumnForestCabins.jpg)
+
+
+### Details
+
+* **File name**: AutumnForestCabins.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](AutumnForestCabins.jpg)
+
+
+
+## Secret Ruined Place
+
+### Image
+![Secret Ruined Place](img_source/SecretRuinedPlace.jpg)
+
+
+### Details
+
+* **File name**: SecretRuinedPlace.jpg
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](SecretRuinedPlace.jpg)
+
+
+
+## Red Fury
+
+### Image
+![Red Fury](img_source/RedFury.jpg)
+
+
+### Details
+
+* **File name**: RedFury.jpg
+* **Size**: Ultrawide
+* **Style tag**: Drawing
+* **Source**: [link](RedFury.jpg)
+
+
+
+## Spark In The Darkness
+
+### Image
+![Spark In The Darkness](img_source/SparkInTheDarkness.jpg)
+
+
+### Details
+
+* **File name**: SparkInTheDarkness.jpg
+* **Size**: Square
+* **Style tag**: Drawing
+* **Source**: [link](SparkInTheDarkness.jpg)
+
+
+
+## Dark Rider
+
+### Image
+![Dark Rider](img_source/DarkRider.jpg)
+
+
+### Details
+
+* **File name**: DarkRider.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](DarkRider.jpg)
+
+
+
+## 2b Iron Giant
+
+### Image
+![2b Iron Giant](img_source/2bIronGiant.jpg)
+
+
+### Details
+
+* **File name**: 2bIronGiant.jpg
+* **Size**: Classic
+* **Style tag**: Painting
+* **Source**: [link](2bIronGiant.jpg)
+
+
+
+## First Day Of The Work
+
+### Image
+![First Day Of The Work](img_source/FirstDayOfTheWork.jpg)
+
+
+### Details
+
+* **File name**: FirstDayOfTheWork.jpg
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](FirstDayOfTheWork.jpg)
+
+
+
+## Blue Lagoon
+
+### Image
+![Blue Lagoon](img_source/BlueLagoon.jpg)
+
+
+### Details
+
+* **File name**: BlueLagoon.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](BlueLagoon.jpg)
+
+
+
+## Autumn Puddle
+
+### Image
+![Autumn Puddle](img_source/AutumnPuddle.jpg)
+
+
+### Details
+
+* **File name**: AutumnPuddle.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](AutumnPuddle.jpg)
+
+
+
+## Fall
+
+### Image
+![Fall](img_source/Fall.jpg)
+
+
+### Details
+
+* **File name**: Fall.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](Fall.jpg)
+
+
+
+## Jungle
+
+### Image
+![Jungle](img_source/Jungle.jpg)
+
+
+### Details
+
+* **File name**: Jungle.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](Jungle.jpg)
+
+
+
+## Skull Temple
+
+### Image
+![Skull Temple](img_source/SkullTemple.jpg)
+
+
+### Details
+
+* **File name**: SkullTemple.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](SkullTemple.jpg)
 
 
