@@ -22,7 +22,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: FirewatchCliff.png
 * **Size**: Wide
 * **Style tag**: Flat
-* **Source**: [link](FirewatchCliff.png)
+* **Source**: [link](https://mocah.org/1048987-fantasy-art-sunset-sunrise-looking-into-the-distance-firewatch-dusk-olly-moss-mountain-dawn-plain-sc.html)
 
 
 
@@ -38,7 +38,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: FirewatchRiverDeer.png
 * **Size**: Ultrawide
 * **Style tag**: Flat
-* **Source**: [link](FirewatchRiverDeer.png)
+* **Source**: [link](https://4kwallpapers.com/nature/lakeside-evening-deer-minimal-art-landscape-scenic-panorama-4585.html)
 
 
 
@@ -54,7 +54,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: SaturnForest.jpg
 * **Size**: Double
 * **Style tag**: Flat
-* **Source**: [link](SaturnForest.jpg)
+* **Source**: [link](https://www.deviantart.com/rmradev/art/Commission-888769508)
 
 
 
@@ -70,7 +70,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: CaveWolf.png
 * **Size**: Ultrawide
 * **Style tag**: Flat
-* **Source**: [link](CaveWolf.png)
+* **Source**: [link](https://dribbble.com/shots/10200111-Slumber/attachments/2121502?mode=media)
 
 
 
@@ -86,7 +86,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: LakeDeersBear.png
 * **Size**: Wide
 * **Style tag**: Flat
-* **Source**: [link](LakeDeersBear.png)
+* **Source**: [link](https://dribbble.com/shots/3200530-Sunrise-wallpaper/attachments/682349?mode=media)
 
 
 
@@ -102,7 +102,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: FoggyValley.png
 * **Size**: Ultrawide
 * **Style tag**: Flat
-* **Source**: [link](FoggyValley.png)
+* **Source**: [link](https://dribbble.com/shots/12078823-The-Valley)
 
 
 
@@ -118,7 +118,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: FoggyMountains.png
 * **Size**: Ultrawide
 * **Style tag**: Photo
-* **Source**: [link](FoggyMountains.png)
+* **Source**: [link](https://commons.wikimedia.org/wiki/File:Rhythm_of_the_mountains.jpg)
 
 
 
@@ -134,7 +134,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: CaracaraOnCapybara.jpg
 * **Size**: Classic
 * **Style tag**: Photo
-* **Source**: [link](CaracaraOnCapybara.jpg)
+* **Source**: [link](https://en.wikipedia.org/wiki/File:Yellow-headed_caracara_(Milvago_chimachima)_on_capybara_(Hydrochoeris_hydrochaeris).JPG)
 
 
 
@@ -150,7 +150,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: HyperBeast.jpg
 * **Size**: Wide
 * **Style tag**: Drawing
-* **Source**: [link](HyperBeast.jpg)
+* **Source**: [link](https://brockhoferart.com/hyper-beast)
 
 
 
@@ -166,7 +166,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: Dragons.jpg
 * **Size**: Wide
 * **Style tag**: Drawing
-* **Source**: [link](Dragons.jpg)
+* **Source**: [link](https://brockhoferart.com)
 
 
 
@@ -182,7 +182,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: CarmineRock.png
 * **Size**: Wide
 * **Style tag**: Drawing
-* **Source**: [link](CarmineRock.png)
+* **Source**: [link](https://www.artstation.com/artwork/awOPk)
 
 
 
@@ -198,7 +198,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: FishermansShack.jpg
 * **Size**: Imax
 * **Style tag**: Drawing
-* **Source**: [link](FishermansShack.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/G88dkW)
 
 
 
@@ -214,7 +214,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: SilentHillToluca.jpg
 * **Size**: Wide
 * **Style tag**: Sketch
-* **Source**: [link](SilentHillToluca.jpg)
+* **Source**: [link](https://eliottsontot.artstation.com/projects/ZG0GK0?album_id=4719001)
 
 
 
@@ -230,7 +230,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: SilentHillOtherworld.jpg
 * **Size**: Classic
 * **Style tag**: Sketch
-* **Source**: [link](SilentHillOtherworld.jpg)
+* **Source**: [link](https://eliottsontot.artstation.com/projects/B1LZ2A?album_id=4719001)
 
 
 
@@ -246,7 +246,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: DuskVendigoChurch.png
 * **Size**: Wide
 * **Style tag**: Painting
-* **Source**: [link](DuskVendigoChurch.png)
+* **Source**: [link](https://store.steampowered.com/app/1846130/DUSK__The_Goodies/)
 
 
 
@@ -262,7 +262,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: Shadowlands.jpg
 * **Size**: Wide
 * **Style tag**: Drawing
-* **Source**: [link](Shadowlands.jpg)
+* **Source**: [link](https://www.reddit.com/r/wallpapers/comments/pzcnwe/shadowlands_by_me/)
 * **Notes**: I cropped it
 
 
@@ -279,7 +279,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: ElCapitanYosemiteFog.jpg
 * **Size**: Square
 * **Style tag**: Photo
-* **Source**: [link](ElCapitanYosemiteFog.jpg)
+* **Source**: [link](https://unsplash.com/photos/YLYfwyPJl-o)
 
 
 
@@ -295,7 +295,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: ElCapitanYosemiteAutumn.jpg
 * **Size**: Wide
 * **Style tag**: Photo
-* **Source**: [link](ElCapitanYosemiteAutumn.jpg)
+* **Source**: [link](https://imgur.com/a/EyzZD)
 
 
 
@@ -311,7 +311,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: WorldOfHorror.png
 * **Size**: Wide
 * **Style tag**: Pixel
-* **Source**: [link](WorldOfHorror.png)
+* **Source**: [link](https://twitter.com/panstasz/status/829470971878838272/photo/1)
 * **Notes**: I extended the sky and colored the image with the palette from the game
 
 
@@ -328,7 +328,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: AbandonedJapaneseVillage.png
 * **Size**: Ultrawide
 * **Style tag**: Pixel
-* **Source**: [link](AbandonedJapaneseVillage.png)
+* **Source**: [link](https://33.media.tumblr.com/69bdc6308edaad4e8a73e54681b40b6f/tumblr_np9esuAJ0W1sslvquo1_1280.gif)
 
 
 
@@ -344,7 +344,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: MagicSwamp.png
 * **Size**: Ultrawide
 * **Style tag**: Pixel
-* **Source**: [link](MagicSwamp.png)
+* **Source**: [link](https://imgur.com/zTzuw)
 
 
 
@@ -360,7 +360,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: FoggyForestRoad.jpg
 * **Size**: Wide
 * **Style tag**: Pixel
-* **Source**: [link](FoggyForestRoad.jpg)
+* **Source**: [link](https://unsplash.com/photos/Jr-FXzWqCk0)
 * **Notes**: I cropped it
 
 
@@ -377,7 +377,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: SamuraiSkyLanterns.jpg
 * **Size**: Wide
 * **Style tag**: Painting
-* **Source**: [link](SamuraiSkyLanterns.jpg)
+* **Source**: [link](https://www.deviantart.com/wlop/art/Sky-Lanterns-442002652)
 
 
 
@@ -393,7 +393,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: CounterPlaySkyLanterns.jpg
 * **Size**: Wide
 * **Style tag**: Painting
-* **Source**: [link](CounterPlaySkyLanterns.jpg)
+* **Source**: [link](https://www.counterplaygames.com/#counterplaygames-home)
 
 
 
@@ -409,7 +409,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: SquirrelInForest.png
 * **Size**: Wide
 * **Style tag**: Flat
-* **Source**: [link](SquirrelInForest.png)
+* **Source**: [link](https://imgur.com/U8r1J84)
 
 
 
@@ -425,7 +425,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: Catan.png
 * **Size**: Wide
 * **Style tag**: Drawing
-* **Source**: [link](Catan.png)
+* **Source**: [link](http://www.experiment7.com/catanvr)
 * **Notes**: Taken from [here](https://wallpx.com/wallpaper/landscape-sunrise-vr-games-field-artwork-catan-vr/)
 
 
@@ -442,7 +442,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: WitcherOnTheTrail.jpg
 * **Size**: Wide
 * **Style tag**: Drawing
-* **Source**: [link](WitcherOnTheTrail.jpg)
+* **Source**: [link](https://dekades8.artstation.com/projects/9mAeJa)
 
 
 
@@ -458,7 +458,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: Arikara1.jpg
 * **Size**: Wide
 * **Style tag**: Drawing
-* **Source**: [link](Arikara1.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/q9Qr6a)
 
 
 
@@ -474,7 +474,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: Arikara2.jpg
 * **Size**: Wide
 * **Style tag**: Drawing
-* **Source**: [link](Arikara2.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/q9Qr6a)
 
 
 
@@ -490,7 +490,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: ReloadBrewing.jpg
 * **Size**: Imax
 * **Style tag**: Drawing
-* **Source**: [link](ReloadBrewing.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/Bm1rX9)
 
 
 
@@ -506,7 +506,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: RevengeBrewing.jpg
 * **Size**: Imax
 * **Style tag**: Drawing
-* **Source**: [link](RevengeBrewing.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/YaekX3)
 
 
 
@@ -522,7 +522,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: AncientTreeShrine.png
 * **Size**: Wide
 * **Style tag**: Drawing
-* **Source**: [link](AncientTreeShrine.png)
+* **Source**: [link](https://www.artstation.com/artwork/rqbbG)
 * **Notes**: I cropped it
 
 
@@ -539,7 +539,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: AncientArtifact.jpg
 * **Size**: Wide
 * **Style tag**: Drawing
-* **Source**: [link](AncientArtifact.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/2enXv)
 * **Notes**: I cropped it
 
 
@@ -556,7 +556,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: RiverCamping.jpg
 * **Size**: Wide
 * **Style tag**: Painting
-* **Source**: [link](RiverCamping.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/xOX81)
 
 
 
@@ -572,7 +572,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: FallingWarmth.jpeg
 * **Size**: Wide
 * **Style tag**: Painting
-* **Source**: [link](FallingWarmth.jpeg)
+* **Source**: [link](https://www.deviantart.com/chibionpu/art/Falling-Warmth-491264246)
 * **Notes**: Taken from [here](https://imgur.com/gallery/yMQl5)
 
 
@@ -589,7 +589,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: LakeCabin.jpg
 * **Size**: Wide
 * **Style tag**: Painting
-* **Source**: [link](LakeCabin.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/gR48E)
 
 
 
@@ -605,7 +605,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: AutumnForestCabins.jpg
 * **Size**: Imax
 * **Style tag**: Drawing
-* **Source**: [link](AutumnForestCabins.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/lxeX8J)
 
 
 
@@ -621,7 +621,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: SecretRuinedPlace.jpg
 * **Size**: Cinematic
 * **Style tag**: Painting
-* **Source**: [link](SecretRuinedPlace.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/0ew55)
 
 
 
@@ -637,7 +637,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: RedFury.jpg
 * **Size**: Ultrawide
 * **Style tag**: Drawing
-* **Source**: [link](RedFury.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/ZePXbZ)
 
 
 
@@ -653,7 +653,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: SparkInTheDarkness.jpg
 * **Size**: Classic
 * **Style tag**: Drawing
-* **Source**: [link](SparkInTheDarkness.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/q8kqL)
 
 
 
@@ -669,7 +669,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: DarkRider.jpg
 * **Size**: Wide
 * **Style tag**: Drawing
-* **Source**: [link](DarkRider.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/W2YgQD)
 
 
 
@@ -685,7 +685,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: 2bIronGiant.jpg
 * **Size**: Classic
 * **Style tag**: Painting
-* **Source**: [link](2bIronGiant.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/8QnB6)
 
 
 
@@ -701,7 +701,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: FirstDayOfTheWork.jpg
 * **Size**: Wide
 * **Style tag**: Painting
-* **Source**: [link](FirstDayOfTheWork.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/0WbOw)
 
 
 
@@ -717,7 +717,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: BlueLagoon.jpg
 * **Size**: Cinematic
 * **Style tag**: Drawing
-* **Source**: [link](BlueLagoon.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/rAYL62)
 
 
 
@@ -733,7 +733,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: AutumnPuddle.jpg
 * **Size**: Cinematic
 * **Style tag**: Drawing
-* **Source**: [link](AutumnPuddle.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/rAX3qL)
 
 
 
@@ -749,7 +749,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: Fall.jpg
 * **Size**: Imax
 * **Style tag**: Drawing
-* **Source**: [link](Fall.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/oAxYDO)
 
 
 
@@ -765,7 +765,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: Jungle.jpg
 * **Size**: Cinematic
 * **Style tag**: Drawing
-* **Source**: [link](Jungle.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/KaYNWG)
 
 
 
@@ -781,7 +781,7 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: SkullTemple.jpg
 * **Size**: Wide
 * **Style tag**: Drawing
-* **Source**: [link](SkullTemple.jpg)
+* **Source**: [link](https://www.artstation.com/artwork/W2aywX)
 
 
 
@@ -797,6 +797,6 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **File name**: ForestAtNight.jpg
 * **Size**: Classic
 * **Style tag**: Photo
-* **Source**: [link](ForestAtNight.jpg)
+* **Source**: [link](https://www.pexels.com/photo/forest-at-night-2080963/)
 
 

@@ -96,7 +96,7 @@ with open(info_file_path) as info_file:
             readme(f'* **File name**: {file}')
             readme(f'* **Size**: {ratio}')
             readme(f'* **Style tag**: {style.capitalize()}')
-            readme(f'* **Source**: [link]({file})')
+            readme(f'* **Source**: [link]({link})')
             if note:
                 readme(f'* **Notes**: {note}')
             readme('')
