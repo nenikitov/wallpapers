@@ -28,7 +28,7 @@ class ImageTags:
             ratios = [ e.value for e in AspectRatio ]
             closest_ratio = min(ratios, key=lambda x:abs(aspect - x))
             return AspectRatio(closest_ratio).name.capitalize()
-    
+
     @property
     def color(self):
         thief = ColorThief(self.__img)
