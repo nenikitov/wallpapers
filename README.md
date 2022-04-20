@@ -800,3 +800,83 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **Source**: [link](https://www.pexels.com/photo/forest-at-night-2080963/)
 
 
+
+## Cloudy Sea
+
+### Image
+
+![Cloudy Sea](img_source/CloudySea.jpg)
+
+
+### Details
+
+* **File name**: CloudySea.jpg
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/gYQam)
+
+
+
+## Creek
+
+### Image
+
+![Creek](img_source/Creek.jpg)
+
+
+### Details
+
+* **File name**: Creek.jpg
+* **Size**: Cinematic
+* **Style tag**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/eEVxw)
+
+
+
+## Dead Giant
+
+### Image
+
+![Dead Giant](img_source/DeadGiant.jpg)
+
+
+### Details
+
+* **File name**: DeadGiant.jpg
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/bEyWv)
+
+
+
+## After
+
+### Image
+
+![After](img_source/After.jpg)
+
+
+### Details
+
+* **File name**: After.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/L0ZNA)
+
+
+
+## Companions
+
+### Image
+
+![Companions](img_source/Companions.jpg)
+
+
+### Details
+
+* **File name**: Companions.jpg
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/dNv3K)
+
+
