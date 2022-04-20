@@ -880,3 +880,179 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **Source**: [link](https://www.artstation.com/artwork/dNv3K)
 
 
+
+## Spine Of The World
+
+### Image
+
+![Spine Of The World](img_source/SpineOfTheWorld.jpg)
+
+
+### Details
+
+* **File name**: SpineOfTheWorld.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.deviantart.com/joeyjazz/art/Spine-of-the-World-905172672)
+
+
+
+## The Pilgrim
+
+### Image
+
+![The Pilgrim](img_source/ThePilgrim.jpg)
+
+
+### Details
+
+* **File name**: ThePilgrim.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.deviantart.com/joeyjazz/art/The-Pilgrim-904251780)
+
+
+
+## Long Way To Eden
+
+### Image
+
+![Long Way To Eden](img_source/LongWayToEden.jpg)
+
+
+### Details
+
+* **File name**: LongWayToEden.jpg
+* **Size**: Ultrawide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.deviantart.com/joeyjazz/art/Long-Way-to-Eden-885804027)
+
+
+
+## The Lesson
+
+### Image
+
+![The Lesson](img_source/TheLesson.jpg)
+
+
+### Details
+
+* **File name**: TheLesson.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.deviantart.com/joeyjazz/art/The-Lesson-860310673)
+
+
+
+## Reflective Moments
+
+### Image
+
+![Reflective Moments](img_source/ReflectiveMoments.jpg)
+
+
+### Details
+
+* **File name**: ReflectiveMoments.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.deviantart.com/joeyjazz/art/Reflective-Moments-831598974)
+
+
+
+## I Of The Trident
+
+### Image
+
+![I Of The Trident](img_source/IOfTheTrident.jpg)
+
+
+### Details
+
+* **File name**: IOfTheTrident.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.deviantart.com/joeyjazz/art/I-of-the-Trident-814933262)
+
+
+
+## At Autumns Door
+
+### Image
+
+![At Autumns Door](img_source/AtAutumnsDoor.jpg)
+
+
+### Details
+
+* **File name**: AtAutumnsDoor.jpg
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](https://www.deviantart.com/joeyjazz/art/At-Autumn-s-Door-813813455)
+
+
+
+## Of Elves And Greenlands
+
+### Image
+
+![Of Elves And Greenlands](img_source/OfElvesAndGreenlands.png)
+
+
+### Details
+
+* **File name**: OfElvesAndGreenlands.png
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.deviantart.com/joeyjazz/art/Of-Elves-and-Greenlands-805431365)
+
+
+
+## Of Men And Castles
+
+### Image
+
+![Of Men And Castles](img_source/OfMenAndCastles.png)
+
+
+### Details
+
+* **File name**: OfMenAndCastles.png
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.deviantart.com/joeyjazz/art/Of-Men-and-Castles-805665913)
+
+
+
+## Eye See You
+
+### Image
+
+![Eye See You](img_source/EyeSeeYou.png)
+
+
+### Details
+
+* **File name**: EyeSeeYou.png
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](https://www.deviantart.com/joeyjazz/art/Eye-See-You-786504133)
+
+
+
+## Times Long Gone
+
+### Image
+
+![Times Long Gone](img_source/TimesLongGone.jpg)
+
+
+### Details
+
+* **File name**: TimesLongGone.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.deviantart.com/joeyjazz/art/Times-Long-Gone-784335842)
+
+
