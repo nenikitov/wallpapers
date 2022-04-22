@@ -1,7 +1,7 @@
 # Note
 
 The wast majority of these wallpapers are taken from random web-sites all over the internet and other repositories like this with wallpapers, I did not create them. 
-The only modifications that I have done are cropping / color correction, etc. 
+The only modifications that I have done are cropping, color correction, noise reduction, upscaling, etc. 
 
 I tried finding the sources for every image in this wallpaper pack, but it is hard. If you are the original creator and you would like me to remove your wallpaper or I gave incorrect credit, please let me know by creating a new issue.
 
@@ -1054,5 +1054,85 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **Size**: Wide
 * **Style tag**: Drawing
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Times-Long-Gone-784335842)
+
+
+
+## The Loneliness Of Swahn
+
+### Image
+
+![The Loneliness Of Swahn](img_source/TheLonelinessOfSwahn.jpg)
+
+
+### Details
+
+* **File name**: TheLonelinessOfSwahn.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/w8amx9)
+
+
+
+## I Just Want To Be Happy
+
+### Image
+
+![I Just Want To Be Happy](img_source/IJustWantToBeHappy.jpg)
+
+
+### Details
+
+* **File name**: IJustWantToBeHappy.jpg
+* **Size**: Classic
+* **Style tag**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/rAGoB5)
+
+
+
+## White Tower
+
+### Image
+
+![White Tower](img_source/WhiteTower.jpg)
+
+
+### Details
+
+* **File name**: WhiteTower.jpg
+* **Size**: Imax
+* **Style tag**: Painting
+* **Source**: [link](https://somartist.artstation.com/projects/GXxzlW)
+
+
+
+## Kerevel Corridor
+
+### Image
+
+![Kerevel Corridor](img_source/KerevelCorridor.jpg)
+
+
+### Details
+
+* **File name**: KerevelCorridor.jpg
+* **Size**: Ultrawide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/OoQv5g)
+
+
+
+## Cathedral Of Tharnas
+
+### Image
+
+![Cathedral Of Tharnas](img_source/CathedralOfTharnas.jpg)
+
+
+### Details
+
+* **File name**: CathedralOfTharnas.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/oAaLoW)
 
 
