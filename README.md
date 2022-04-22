@@ -1136,3 +1136,83 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **Source**: [link](https://www.artstation.com/artwork/oAaLoW)
 
 
+
+## Temple Ruin
+
+### Image
+
+![Temple Ruin](img_source/TempleRuin.jpg)
+
+
+### Details
+
+* **File name**: TempleRuin.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/W2LrG3)
+
+
+
+## Valley Of The Gods
+
+### Image
+
+![Valley Of The Gods](img_source/ValleyOfTheGods.jpg)
+
+
+### Details
+
+* **File name**: ValleyOfTheGods.jpg
+* **Size**: Imax
+* **Style tag**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/5Xvw9P)
+
+
+
+## The Source
+
+### Image
+
+![The Source](img_source/TheSource.jpg)
+
+
+### Details
+
+* **File name**: TheSource.jpg
+* **Size**: Imax
+* **Style tag**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/oOLPoz)
+
+
+
+## Landscape
+
+### Image
+
+![Landscape](img_source/Landscape.jpg)
+
+
+### Details
+
+* **File name**: Landscape.jpg
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/PoEqd4)
+
+
+
+## Forest
+
+### Image
+
+![Forest](img_source/Forest.jpg)
+
+
+### Details
+
+* **File name**: Forest.jpg
+* **Size**: Classic
+* **Style tag**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/aGGd89)
+
+
