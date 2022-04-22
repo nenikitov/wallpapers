@@ -42,6 +42,7 @@ readme('')
 readme('')
 readme('')
 readme('')
+readme('')
 readme('# Wallpapers')
 readme('')
 #endregion
@@ -102,6 +103,7 @@ with open(info_file_path) as info_file:
             readme('')
             readme('')
             readme('')
+            readme('')
 
             # Tag and copy the file
             # TODO
@@ -111,6 +113,7 @@ with open(info_file_path) as info_file:
 
 
 #region Save readme
+readme_text = readme_text[:-3]
 readme_save()
 #endregion
 
