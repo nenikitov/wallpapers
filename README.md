@@ -1216,3 +1216,35 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **Source**: [link](https://www.artstation.com/artwork/aGGd89)
 
 
+
+## Forest Flowering Season
+
+### Image
+
+![Forest Flowering Season](img_source/ForestFloweringSeason.jpg)
+
+
+### Details
+
+* **File name**: ForestFloweringSeason.jpg
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/05avY)
+
+
+
+## Blind Warden
+
+### Image
+
+![Blind Warden](img_source/BlindWarden.jpg)
+
+
+### Details
+
+* **File name**: BlindWarden.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/yvOz8)
+
+
