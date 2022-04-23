@@ -1,6 +1,6 @@
 from enum import Enum
 
-from colorthief import ColorThief
+import fast_colorthief as fc
 from PIL import Image
 
 class AspectRatio(Enum):
@@ -31,6 +31,5 @@ class ImageTags:
 
     @property
     def color(self):
-        thief = ColorThief(self.__img)
-        color = thief.get_color(quality=10)
+        color = fc.get_dominant_color(self.__img, quality=1)
         return color

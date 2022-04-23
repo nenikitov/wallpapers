@@ -72,19 +72,19 @@ with open(info_file_path) as info_file:
             wallpapers_found.append(os.path.basename(file))
 
             # Get info
-            fp.put(f'Getting tags', MessageType.INFO, 2)
+            fp.put('Getting tags', MessageType.INFO, 2)
             tags  = ImageTags(file)
             file  = os.path.basename(file)
+            base  = os.path.splitext(file)[0]
             name  = split_camel(img['name'])
             ratio = tags.ratio
-            # color = tags.color
+            color = tags.color
             style = img['style']
             note  = img['note']
             link  = img['link']
-            # print(tags.get_color())
 
             # Write to readme
-            fp.put(f'Writing to readme', MessageType.INFO, 2)
+            fp.put('Writing to readme', MessageType.INFO, 2)
             readme(f'## {name}')
             readme('')
             readme('### Image')
@@ -105,9 +105,12 @@ with open(info_file_path) as info_file:
             readme('')
             readme('')
 
-            # Tag and copy the file
-            # TODO
-            fp.put(f'Saving the tagged file as {"TODO"}', MessageType.INFO, 2)
+            # TODO Tag and copy the file
+            tagged = f'{base}_tag.png'
+            fp.put(f'Saving the tagged file as {tagged}', MessageType.INFO, 2)
+            from PIL import Image
+            img = Image.new('RGB', (128, 128), color)
+            img.save(from_root('img_tag', tagged))
 #endregion
 #endregion
 
@@ -123,14 +126,14 @@ wallpapers_unknown = set(wallpapers_found).symmetric_difference(set(os.listdir(i
 
 #region End report
 fp.put('Report', MessageType.HEADER)
-if len(wallpapers_missing):
+if len(wallpapers_missing) != 0:
     fp.put('Files in info file not found', MessageType.ERROR, 1)
     for missing in wallpapers_missing:
         fp.put(f'* {missing}', MessageType.NORMAL, 1)
-if len(wallpapers_unknown):
+if len(wallpapers_unknown) != 0:
     fp.put('Files not in the info file', MessageType.WARNING, 1)
     for unknown in wallpapers_unknown:
         fp.put(f'* {unknown}', MessageType.NORMAL, 1)
-if not len(wallpapers_missing) and not len(wallpapers_unknown):
+if len(wallpapers_missing) == 0 and len(wallpapers_unknown) == 0:
     fp.put('All good', MessageType.SUCCESS, 1)
 #endregion
