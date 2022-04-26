@@ -28,16 +28,16 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 
 
 
-## Firewatch River Deer
+## Lakeside
 
 ### Image
 
-![Firewatch River Deer](img_source/FirewatchRiverDeer.png)
+![Lakeside](img_source/Lakeside.png)
 
 
 ### Details
 
-* **File name**: FirewatchRiverDeer.png
+* **File name**: Lakeside.png
 * **Size**: Ultrawide
 * **Style tag**: Flat
 * **Source**: [link](https://www.artstation.com/artwork/xzn6xE)
@@ -1323,3 +1323,105 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **Size**: Wide
 * **Style tag**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/yvOz8)
+
+
+
+
+## Small Memory
+
+### Image
+
+![Small Memory](img_source/SmallMemory.png)
+
+
+### Details
+
+* **File name**: SmallMemory.png
+* **Size**: Wide
+* **Style tag**: Flat
+* **Source**: [link](https://dribbble.com/shots/3713646-Small-Memory)
+
+
+
+
+## Ravens Gate
+
+### Image
+
+![Ravens Gate](img_source/RavensGate.jpg)
+
+
+### Details
+
+* **File name**: RavensGate.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/2xBlde)
+
+
+
+
+## Night Rider
+
+### Image
+
+![Night Rider](img_source/NightRider.png)
+
+
+### Details
+
+* **File name**: NightRider.png
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](https://www.deviantart.com/bisbiswas/art/Night-Rider-878358780)
+
+
+
+
+## Red Trees Mountains
+
+### Image
+
+![Red Trees Mountains](img_source/RedTreesMountains.jpg)
+
+
+### Details
+
+* **File name**: RedTreesMountains.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/mDKZQE)
+
+
+
+
+## Red Fishes Among Red Trees
+
+### Image
+
+![Red Fishes Among Red Trees](img_source/RedFishesAmongRedTrees.png)
+
+
+### Details
+
+* **File name**: RedFishesAmongRedTrees.png
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.deviantart.com/skyrawathi/art/Red-fishes-among-the-red-trees-765783469)
+
+
+
+
+## Blossoms
+
+### Image
+
+![Blossoms](img_source/Blossoms.png)
+
+
+### Details
+
+* **File name**: Blossoms.png
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](https://www.deviantart.com/tacosauceninja/art/Blossoms-762704280)
