@@ -1476,3 +1476,54 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **Size**: Wide
 * **Style tag**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/2x6z3a)
+
+
+
+
+## Late Evening
+
+### Image
+
+![Late Evening](img_source/LateEvening.jpg)
+
+
+### Details
+
+* **File name**: LateEvening.jpg
+* **Size**: Wide
+* **Style tag**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/lV6adk)
+
+
+
+
+## Sky Light
+
+### Image
+
+![Sky Light](img_source/SkyLight.jpg)
+
+
+### Details
+
+* **File name**: SkyLight.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.deviantart.com/bisbiswas/art/Sky-light-852835379)
+
+
+
+
+## Strangers In A Strange World
+
+### Image
+
+![Strangers In A Strange World](img_source/StrangersInAStrangeWorld.jpg)
+
+
+### Details
+
+* **File name**: StrangersInAStrangeWorld.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/OyNl5k)
