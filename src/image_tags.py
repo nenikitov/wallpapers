@@ -1,4 +1,5 @@
 from enum import Enum
+import re
 
 import fast_colorthief as fc
 from PIL import Image
@@ -17,8 +18,10 @@ class AspectRatio(Enum):
 
 
 class ImageTags:
-    def __init__(self, img):
+    def __init__(self, img, csv):
         self.__img = img
+        self.__csv = csv
+
 
     @property
     def ratio(self):
@@ -33,3 +36,23 @@ class ImageTags:
     def color(self):
         color = fc.get_dominant_color(self.__img, quality=1)
         return color
+
+    @property
+    def name(self):
+        return ImageTags.__split_camel(self.__csv['name'])
+
+    @property
+    def style(self):
+        return self.__csv['style'].capitalize()
+
+    @property
+    def note(self):
+        return self.__csv['note']
+
+    @property
+    def link(self):
+        return self.__csv['link']
+
+
+    def __split_camel(text):
+        return ' '.join(re.sub('([A-Z0-9][a-z]+)', r' \1', re.sub('([A-Z0-9]+)', r' \1', text)).split())

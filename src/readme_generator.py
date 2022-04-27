@@ -1,7 +1,6 @@
 import csv
 import glob
 import os
-import re
 from image_tags import ImageTags
 
 from path import from_root
@@ -17,8 +16,6 @@ info_file_path = from_root('info.csv')
 readme_text = []
 def readme(line):
     readme_text.append(line)
-def split_camel(text):
-    return ' '.join(re.sub('([A-Z0-9][a-z]+)', r' \1', re.sub('([A-Z0-9]+)', r' \1', text)).split())
 def readme_save():
     with open(from_root('README.md'), 'w') as readme_file:
         readme_file.write('\n'.join(readme_text))
@@ -34,10 +31,11 @@ fp.put('Image tagger and README generator', MessageType.HEADER)
 #region Note
 readme('# Note')
 readme('')
-readme('The wast majority of these wallpapers are taken from random web-sites all over the internet and other repositories like this with wallpapers, I did not create them. ')
-readme('The only modifications that I have done are cropping, color correction, noise reduction, upscaling, etc. ')
+readme('The wast majority of these wallpapers are taken from random web-sites all over the internet and other repositories with wallpapers, I did not create them.')
+readme('The only modifications that I have done are cropping, color correction, noise reduction, upscaling, etc.')
 readme('')
-readme('I tried finding the sources for every image in this wallpaper pack, but it is hard. If you are the original creator and you would like me to remove your wallpaper or I gave incorrect credit, please let me know by creating a new issue.')
+readme('I tried finding the sources for every image in this wallpaper pack, but it is hard.')
+readme('If you are the original creator and you would like me to remove your wallpaper from the repository or I gave incorrect credit, please let me know by creating a new issue.')
 readme('')
 readme('')
 readme('')
@@ -64,7 +62,7 @@ with open(info_file_path) as info_file:
         if len(file) != 1:
             # File not found
             wallpapers_missing.append(name)
-            fp.put(f'{name} was not found, skipping', MessageType.ERROR, 1)
+            fp.put(f'{name} was not found or matched multiple files, skipping', MessageType.ERROR, 1)
         else:
             # File was found
             fp.put(f'{name} was found', MessageType.SUCCESS, 1)
@@ -73,43 +71,37 @@ with open(info_file_path) as info_file:
 
             # Get info
             fp.put('Getting tags', MessageType.INFO, 2)
-            tags  = ImageTags(file)
-            file  = os.path.basename(file)
-            base  = os.path.splitext(file)[0]
-            name  = split_camel(img['name'])
-            ratio = tags.ratio
-            color = tags.color
-            style = img['style']
-            note  = img['note']
-            link  = img['link']
+            tags = ImageTags(file, img)
+            file_name = os.path.basename(file)
 
             # Write to readme
             fp.put('Writing to readme', MessageType.INFO, 2)
-            readme(f'## {name}')
+            readme(f'## {tags.name}')
             readme('')
             readme('### Image')
             readme('')
-            readme(f'![{name}](img_source/{file})')
+            readme(f'![{tags.name}](img_source/{file_name})')
             readme('')
             readme('')
             readme('### Details')
             readme('')
-            readme(f'* **File name**: {file}')
-            readme(f'* **Size**: {ratio}')
-            readme(f'* **Style tag**: {style.capitalize()}')
-            readme(f'* **Source**: [link]({link})')
-            if note:
-                readme(f'* **Notes**: {note}')
+            readme(f'* **File name**: {file_name}')
+            readme(f'* **Size**: {tags.ratio}')
+            readme(f'* **Style tag**: {tags.style}')
+            readme(f'* **Source**: [link]({tags.link})')
+            if len(tags.note) != 0:
+                readme(f'* **Notes**: {tags.note}')
             readme('')
             readme('')
             readme('')
             readme('')
 
             # TODO Tag and copy the file
-            tagged = f'{base}_tag.png'
+            no_extension = os.path.splitext(file_name)[0]
+            tagged = f'{no_extension}_tag.png'
             fp.put(f'Saving the tagged file as {tagged}', MessageType.INFO, 2)
             from PIL import Image
-            img = Image.new('RGB', (128, 128), color)
+            img = Image.new('RGB', (128, 128), tags.color)
             img.save(from_root('img_tag', tagged))
 #endregion
 #endregion

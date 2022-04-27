@@ -1,9 +1,10 @@
 # Note
 
-The wast majority of these wallpapers are taken from random web-sites all over the internet and other repositories like this with wallpapers, I did not create them. 
-The only modifications that I have done are cropping, color correction, noise reduction, upscaling, etc. 
+The wast majority of these wallpapers are taken from random web-sites all over the internet and other repositories with wallpapers, I did not create them.
+The only modifications that I have done are cropping, color correction, noise reduction, upscaling, etc.
 
-I tried finding the sources for every image in this wallpaper pack, but it is hard. If you are the original creator and you would like me to remove your wallpaper or I gave incorrect credit, please let me know by creating a new issue.
+I tried finding the sources for every image in this wallpaper pack, but it is hard.
+If you are the original creator and you would like me to remove your wallpaper from the repository or I gave incorrect credit, please let me know by creating a new issue.
 
 
 
