@@ -1425,3 +1425,54 @@ I tried finding the sources for every image in this wallpaper pack, but it is ha
 * **Size**: Wide
 * **Style tag**: Painting
 * **Source**: [link](https://www.deviantart.com/tacosauceninja/art/Blossoms-762704280)
+
+
+
+
+## Meteor Shower
+
+### Image
+
+![Meteor Shower](img_source/MeteorShower.jpg)
+
+
+### Details
+
+* **File name**: MeteorShower.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/Ar253o)
+
+
+
+
+## Arrival
+
+### Image
+
+![Arrival](img_source/Arrival.jpg)
+
+
+### Details
+
+* **File name**: Arrival.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/28ex6v)
+
+
+
+
+## Under The Night Sky
+
+### Image
+
+![Under The Night Sky](img_source/UnderTheNightSky.jpg)
+
+
+### Details
+
+* **File name**: UnderTheNightSky.jpg
+* **Size**: Wide
+* **Style tag**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/2x6z3a)
