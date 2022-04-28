@@ -10,6 +10,14 @@ If you are the original creator and you would like me to remove your wallpaper f
 
 
 
+# Usage
+
+Run the python script `wallpaper_update.py` to regenerate the `README.md` file and tag all the images.
+
+
+
+
+
 # Wallpapers
 
 ## Firewatch Cliff
