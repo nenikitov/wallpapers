@@ -86,12 +86,14 @@ with open(info_file_path) as info_file:
             # File was found
             fp.put(f'{name} was found', MessageType.SUCCESS, 1)
             file = file[0]
-            wallpapers_found.append(os.path.basename(file))
+            file_name = os.path.basename(file)
+            wallpapers_found.append(file_name)
 
             # Get info
             fp.put('Getting tags', MessageType.INFO, 2)
             tags = ImageTags(file, img)
-            file_name = os.path.basename(file)
+            extension = os.path.splitext(file_name)[1]
+            tag_name = f'{tags.file_name}_{tags.combined}{extension}'
 
             # Write to readme
             fp.put('Writing to readme', MessageType.INFO, 2)
@@ -104,9 +106,10 @@ with open(info_file_path) as info_file:
             readme('')
             readme('### Details')
             readme('')
-            readme(f'* **File name**: {file_name}')
+            readme(f'* **File name**: `{file_name}`')
+            readme(f'* **Tagged name**: `{tag_name}`')
             readme(f'* **Size**: {tags.ratio}')
-            readme(f'* **Style tag**: {tags.style}')
+            readme(f'* **Style**: {tags.style}')
             readme(f'* **Source**: [link]({tags.link})')
             if len(tags.note) != 0:
                 readme(f'* **Notes**: {tags.note}')
@@ -116,10 +119,8 @@ with open(info_file_path) as info_file:
             readme('')
 
             # TODO Tag and copy the file
-            no_extension, extension = os.path.splitext(file_name)
-            tagged = f'{no_extension}_{tags.combined}{extension}'
-            fp.put(f'Saving the tagged file as {tagged}', MessageType.INFO, 2)
-            shutil.copy2(file, img_tag_path + tagged)
+            fp.put(f'Saving the tagged file as {tag_name}', MessageType.INFO, 2)
+            shutil.copy2(file, img_tag_path + tag_name)
 #endregion
 #endregion
 

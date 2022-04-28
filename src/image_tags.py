@@ -38,8 +38,13 @@ class ImageTags:
         return color
 
     @property
+    def file_name(self):
+        return self.__csv['name']
+
+
+    @property
     def name(self):
-        return ImageTags.__split_camel(self.__csv['name'])
+        return ImageTags.__split_camel(self.file_name)
 
     @property
     def style(self):

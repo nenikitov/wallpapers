@@ -29,9 +29,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: FirewatchCliff.png
+* **File name**: `FirewatchCliff.png`
+* **Tagged name**: `FirewatchCliff_Wide_Flat.png`
 * **Size**: Wide
-* **Style tag**: Flat
+* **Style**: Flat
 * **Source**: [link](https://mocah.org/1048987-fantasy-art-sunset-sunrise-looking-into-the-distance-firewatch-dusk-olly-moss-mountain-dawn-plain-sc.html)
 
 
@@ -46,9 +47,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: Lakeside.png
+* **File name**: `Lakeside.png`
+* **Tagged name**: `Lakeside_Ultrawide_Flat.png`
 * **Size**: Ultrawide
-* **Style tag**: Flat
+* **Style**: Flat
 * **Source**: [link](https://www.artstation.com/artwork/xzn6xE)
 
 
@@ -63,9 +65,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: SaturnForest.jpg
+* **File name**: `SaturnForest.jpg`
+* **Tagged name**: `SaturnForest_Double_Flat.jpg`
 * **Size**: Double
-* **Style tag**: Flat
+* **Style**: Flat
 * **Source**: [link](https://www.deviantart.com/rmradev/art/Commission-888769508)
 
 
@@ -80,9 +83,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: CaveWolf.png
+* **File name**: `CaveWolf.png`
+* **Tagged name**: `CaveWolf_Ultrawide_Flat.png`
 * **Size**: Ultrawide
-* **Style tag**: Flat
+* **Style**: Flat
 * **Source**: [link](https://dribbble.com/shots/10200111-Slumber/attachments/2121502?mode=media)
 
 
@@ -97,9 +101,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: LakeDeersBear.png
+* **File name**: `LakeDeersBear.png`
+* **Tagged name**: `LakeDeersBear_Wide_Flat.png`
 * **Size**: Wide
-* **Style tag**: Flat
+* **Style**: Flat
 * **Source**: [link](https://dribbble.com/shots/3200530-Sunrise-wallpaper/attachments/682349?mode=media)
 
 
@@ -114,9 +119,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: FoggyValley.png
+* **File name**: `FoggyValley.png`
+* **Tagged name**: `FoggyValley_Ultrawide_Flat.png`
 * **Size**: Ultrawide
-* **Style tag**: Flat
+* **Style**: Flat
 * **Source**: [link](https://dribbble.com/shots/12078823-The-Valley)
 
 
@@ -131,9 +137,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: FoggyMountains.png
+* **File name**: `FoggyMountains.png`
+* **Tagged name**: `FoggyMountains_Ultrawide_Photo.png`
 * **Size**: Ultrawide
-* **Style tag**: Photo
+* **Style**: Photo
 * **Source**: [link](https://commons.wikimedia.org/wiki/File:Rhythm_of_the_mountains.jpg)
 
 
@@ -148,9 +155,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: CaracaraOnCapybara.jpg
+* **File name**: `CaracaraOnCapybara.jpg`
+* **Tagged name**: `CaracaraOnCapybara_Classic_Photo.jpg`
 * **Size**: Classic
-* **Style tag**: Photo
+* **Style**: Photo
 * **Source**: [link](https://en.wikipedia.org/wiki/File:Yellow-headed_caracara_(Milvago_chimachima)_on_capybara_(Hydrochoeris_hydrochaeris).JPG)
 
 
@@ -165,9 +173,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: HyperBeast.jpg
+* **File name**: `HyperBeast.jpg`
+* **Tagged name**: `HyperBeast_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://brockhoferart.com/hyper-beast)
 
 
@@ -182,9 +191,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: Dragons.jpg
+* **File name**: `Dragons.jpg`
+* **Tagged name**: `Dragons_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://brockhoferart.com)
 
 
@@ -199,9 +209,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: CarmineRock.png
+* **File name**: `CarmineRock.png`
+* **Tagged name**: `CarmineRock_Wide_Drawing.png`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/awOPk)
 
 
@@ -216,9 +227,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: FishermansShack.jpg
+* **File name**: `FishermansShack.jpg`
+* **Tagged name**: `FishermansShack_Imax_Drawing.jpg`
 * **Size**: Imax
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/G88dkW)
 
 
@@ -233,9 +245,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: SilentHillToluca.jpg
+* **File name**: `SilentHillToluca.jpg`
+* **Tagged name**: `SilentHillToluca_Wide_Sketch.jpg`
 * **Size**: Wide
-* **Style tag**: Sketch
+* **Style**: Sketch
 * **Source**: [link](https://eliottsontot.artstation.com/projects/ZG0GK0?album_id=4719001)
 
 
@@ -250,9 +263,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: SilentHillOtherworld.jpg
+* **File name**: `SilentHillOtherworld.jpg`
+* **Tagged name**: `SilentHillOtherworld_Classic_Sketch.jpg`
 * **Size**: Classic
-* **Style tag**: Sketch
+* **Style**: Sketch
 * **Source**: [link](https://eliottsontot.artstation.com/projects/B1LZ2A?album_id=4719001)
 
 
@@ -267,9 +281,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: DuskVendigoChurch.png
+* **File name**: `DuskVendigoChurch.png`
+* **Tagged name**: `DuskVendigoChurch_Wide_Painting.png`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://store.steampowered.com/app/1846130/DUSK__The_Goodies/)
 
 
@@ -284,9 +299,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: Shadowlands.jpg
+* **File name**: `Shadowlands.jpg`
+* **Tagged name**: `Shadowlands_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.reddit.com/r/wallpapers/comments/pzcnwe/shadowlands_by_me/)
 * **Notes**: I cropped it
 
@@ -302,9 +318,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: ElCapitanYosemiteFog.jpg
+* **File name**: `ElCapitanYosemiteFog.jpg`
+* **Tagged name**: `ElCapitanYosemiteFog_Square_Photo.jpg`
 * **Size**: Square
-* **Style tag**: Photo
+* **Style**: Photo
 * **Source**: [link](https://unsplash.com/photos/YLYfwyPJl-o)
 
 
@@ -319,9 +336,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: ElCapitanYosemiteAutumn.jpg
+* **File name**: `ElCapitanYosemiteAutumn.jpg`
+* **Tagged name**: `ElCapitanYosemiteAutumn_Wide_Photo.jpg`
 * **Size**: Wide
-* **Style tag**: Photo
+* **Style**: Photo
 * **Source**: [link](https://imgur.com/a/EyzZD)
 
 
@@ -336,9 +354,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: WorldOfHorror.png
+* **File name**: `WorldOfHorror.png`
+* **Tagged name**: `WorldOfHorror_Wide_Pixel.png`
 * **Size**: Wide
-* **Style tag**: Pixel
+* **Style**: Pixel
 * **Source**: [link](https://twitter.com/panstasz/status/829470971878838272/photo/1)
 * **Notes**: I extended the sky and colored the image with the palette from the game
 
@@ -354,9 +373,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: AbandonedJapaneseVillage.png
+* **File name**: `AbandonedJapaneseVillage.png`
+* **Tagged name**: `AbandonedJapaneseVillage_Ultrawide_Pixel.png`
 * **Size**: Ultrawide
-* **Style tag**: Pixel
+* **Style**: Pixel
 * **Source**: [link](https://33.media.tumblr.com/69bdc6308edaad4e8a73e54681b40b6f/tumblr_np9esuAJ0W1sslvquo1_1280.gif)
 
 
@@ -371,9 +391,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: MagicSwamp.png
+* **File name**: `MagicSwamp.png`
+* **Tagged name**: `MagicSwamp_Ultrawide_Pixel.png`
 * **Size**: Ultrawide
-* **Style tag**: Pixel
+* **Style**: Pixel
 * **Source**: [link](https://imgur.com/zTzuw)
 
 
@@ -388,9 +409,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: FoggyForestRoad.jpg
+* **File name**: `FoggyForestRoad.jpg`
+* **Tagged name**: `FoggyForestRoad_Wide_Pixel.jpg`
 * **Size**: Wide
-* **Style tag**: Pixel
+* **Style**: Pixel
 * **Source**: [link](https://unsplash.com/photos/Jr-FXzWqCk0)
 * **Notes**: I cropped it
 
@@ -406,9 +428,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: SamuraiSkyLanterns.jpg
+* **File name**: `SamuraiSkyLanterns.jpg`
+* **Tagged name**: `SamuraiSkyLanterns_Wide_Painting.jpg`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.deviantart.com/wlop/art/Sky-Lanterns-442002652)
 
 
@@ -423,9 +446,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: CounterPlaySkyLanterns.jpg
+* **File name**: `CounterPlaySkyLanterns.jpg`
+* **Tagged name**: `CounterPlaySkyLanterns_Wide_Painting.jpg`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.counterplaygames.com/#counterplaygames-home)
 
 
@@ -440,9 +464,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: SquirrelInForest.png
+* **File name**: `SquirrelInForest.png`
+* **Tagged name**: `SquirrelInForest_Wide_Flat.png`
 * **Size**: Wide
-* **Style tag**: Flat
+* **Style**: Flat
 * **Source**: [link](https://imgur.com/U8r1J84)
 
 
@@ -457,9 +482,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: Catan.png
+* **File name**: `Catan.png`
+* **Tagged name**: `Catan_Wide_Drawing.png`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](http://www.experiment7.com/catanvr)
 * **Notes**: Taken from [here](https://wallpx.com/wallpaper/landscape-sunrise-vr-games-field-artwork-catan-vr/)
 
@@ -475,9 +501,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: WitcherOnTheTrail.jpg
+* **File name**: `WitcherOnTheTrail.jpg`
+* **Tagged name**: `WitcherOnTheTrail_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://dekades8.artstation.com/projects/9mAeJa)
 
 
@@ -492,9 +519,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: Arikara1.jpg
+* **File name**: `Arikara1.jpg`
+* **Tagged name**: `Arikara1_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/q9Qr6a)
 
 
@@ -509,9 +537,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: Arikara2.jpg
+* **File name**: `Arikara2.jpg`
+* **Tagged name**: `Arikara2_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/q9Qr6a)
 
 
@@ -526,9 +555,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: ReloadBrewing.jpg
+* **File name**: `ReloadBrewing.jpg`
+* **Tagged name**: `ReloadBrewing_Imax_Drawing.jpg`
 * **Size**: Imax
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/Bm1rX9)
 
 
@@ -543,9 +573,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: RevengeBrewing.jpg
+* **File name**: `RevengeBrewing.jpg`
+* **Tagged name**: `RevengeBrewing_Imax_Drawing.jpg`
 * **Size**: Imax
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/YaekX3)
 
 
@@ -560,9 +591,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: AncientTreeShrine.png
+* **File name**: `AncientTreeShrine.png`
+* **Tagged name**: `AncientTreeShrine_Wide_Drawing.png`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/rqbbG)
 * **Notes**: I cropped it
 
@@ -578,9 +610,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: AncientArtifact.jpg
+* **File name**: `AncientArtifact.jpg`
+* **Tagged name**: `AncientArtifact_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/2enXv)
 * **Notes**: I cropped it
 
@@ -596,9 +629,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: RiverCamping.jpg
+* **File name**: `RiverCamping.jpg`
+* **Tagged name**: `RiverCamping_Wide_Painting.jpg`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/xOX81)
 
 
@@ -613,9 +647,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: FallingWarmth.jpeg
+* **File name**: `FallingWarmth.jpeg`
+* **Tagged name**: `FallingWarmth_Wide_Painting.jpeg`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.deviantart.com/chibionpu/art/Falling-Warmth-491264246)
 * **Notes**: Taken from [here](https://imgur.com/gallery/yMQl5)
 
@@ -631,9 +666,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: LakeCabin.jpg
+* **File name**: `LakeCabin.jpg`
+* **Tagged name**: `LakeCabin_Wide_Painting.jpg`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/gR48E)
 
 
@@ -648,9 +684,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: AutumnForestCabins.jpg
+* **File name**: `AutumnForestCabins.jpg`
+* **Tagged name**: `AutumnForestCabins_Imax_Drawing.jpg`
 * **Size**: Imax
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/lxeX8J)
 
 
@@ -665,9 +702,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: SecretRuinedPlace.jpg
+* **File name**: `SecretRuinedPlace.jpg`
+* **Tagged name**: `SecretRuinedPlace_Cinematic_Painting.jpg`
 * **Size**: Cinematic
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/0ew55)
 
 
@@ -682,9 +720,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: RedFury.jpg
+* **File name**: `RedFury.jpg`
+* **Tagged name**: `RedFury_Ultrawide_Drawing.jpg`
 * **Size**: Ultrawide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/ZePXbZ)
 
 
@@ -699,9 +738,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: SparkInTheDarkness.jpg
+* **File name**: `SparkInTheDarkness.jpg`
+* **Tagged name**: `SparkInTheDarkness_Classic_Drawing.jpg`
 * **Size**: Classic
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/q8kqL)
 
 
@@ -716,9 +756,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: DarkRider.jpg
+* **File name**: `DarkRider.jpg`
+* **Tagged name**: `DarkRider_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/W2YgQD)
 
 
@@ -733,9 +774,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: 2bIronGiant.jpg
+* **File name**: `2bIronGiant.jpg`
+* **Tagged name**: `2bIronGiant_Classic_Painting.jpg`
 * **Size**: Classic
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/8QnB6)
 
 
@@ -750,9 +792,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: FirstDayOfTheWork.jpg
+* **File name**: `FirstDayOfTheWork.jpg`
+* **Tagged name**: `FirstDayOfTheWork_Wide_Painting.jpg`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/0WbOw)
 
 
@@ -767,9 +810,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: BlueLagoon.jpg
+* **File name**: `BlueLagoon.jpg`
+* **Tagged name**: `BlueLagoon_Cinematic_Drawing.jpg`
 * **Size**: Cinematic
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/rAYL62)
 
 
@@ -784,9 +828,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: AutumnPuddle.jpg
+* **File name**: `AutumnPuddle.jpg`
+* **Tagged name**: `AutumnPuddle_Cinematic_Drawing.jpg`
 * **Size**: Cinematic
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/rAX3qL)
 
 
@@ -801,9 +846,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: Fall.jpg
+* **File name**: `Fall.jpg`
+* **Tagged name**: `Fall_Imax_Drawing.jpg`
 * **Size**: Imax
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/oAxYDO)
 
 
@@ -818,9 +864,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: Jungle.jpg
+* **File name**: `Jungle.jpg`
+* **Tagged name**: `Jungle_Cinematic_Drawing.jpg`
 * **Size**: Cinematic
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/KaYNWG)
 
 
@@ -835,9 +882,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: SkullTemple.jpg
+* **File name**: `SkullTemple.jpg`
+* **Tagged name**: `SkullTemple_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/W2aywX)
 
 
@@ -852,9 +900,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: ForestAtNight.jpg
+* **File name**: `ForestAtNight.jpg`
+* **Tagged name**: `ForestAtNight_Classic_Photo.jpg`
 * **Size**: Classic
-* **Style tag**: Photo
+* **Style**: Photo
 * **Source**: [link](https://www.pexels.com/photo/forest-at-night-2080963/)
 
 
@@ -869,9 +918,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: CloudySea.jpg
+* **File name**: `CloudySea.jpg`
+* **Tagged name**: `CloudySea_Wide_Painting.jpg`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/gYQam)
 
 
@@ -886,9 +936,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: Creek.jpg
+* **File name**: `Creek.jpg`
+* **Tagged name**: `Creek_Cinematic_Painting.jpg`
 * **Size**: Cinematic
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/eEVxw)
 
 
@@ -903,9 +954,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: DeadGiant.jpg
+* **File name**: `DeadGiant.jpg`
+* **Tagged name**: `DeadGiant_Wide_Painting.jpg`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/bEyWv)
 
 
@@ -920,9 +972,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: After.jpg
+* **File name**: `After.jpg`
+* **Tagged name**: `After_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/L0ZNA)
 
 
@@ -937,9 +990,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: Companions.jpg
+* **File name**: `Companions.jpg`
+* **Tagged name**: `Companions_Wide_Painting.jpg`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/dNv3K)
 
 
@@ -954,9 +1008,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: SpineOfTheWorld.jpg
+* **File name**: `SpineOfTheWorld.jpg`
+* **Tagged name**: `SpineOfTheWorld_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Spine-of-the-World-905172672)
 
 
@@ -971,9 +1026,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: ThePilgrim.jpg
+* **File name**: `ThePilgrim.jpg`
+* **Tagged name**: `ThePilgrim_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/The-Pilgrim-904251780)
 
 
@@ -988,9 +1044,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: LongWayToEden.jpg
+* **File name**: `LongWayToEden.jpg`
+* **Tagged name**: `LongWayToEden_Ultrawide_Drawing.jpg`
 * **Size**: Ultrawide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Long-Way-to-Eden-885804027)
 
 
@@ -1005,9 +1062,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: TheLesson.jpg
+* **File name**: `TheLesson.jpg`
+* **Tagged name**: `TheLesson_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/The-Lesson-860310673)
 
 
@@ -1022,9 +1080,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: ReflectiveMoments.jpg
+* **File name**: `ReflectiveMoments.jpg`
+* **Tagged name**: `ReflectiveMoments_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Reflective-Moments-831598974)
 
 
@@ -1039,9 +1098,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: IOfTheTrident.jpg
+* **File name**: `IOfTheTrident.jpg`
+* **Tagged name**: `IOfTheTrident_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/I-of-the-Trident-814933262)
 
 
@@ -1056,9 +1116,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: AtAutumnsDoor.jpg
+* **File name**: `AtAutumnsDoor.jpg`
+* **Tagged name**: `AtAutumnsDoor_Wide_Painting.jpg`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/At-Autumn-s-Door-813813455)
 
 
@@ -1073,9 +1134,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: OfElvesAndGreenlands.png
+* **File name**: `OfElvesAndGreenlands.png`
+* **Tagged name**: `OfElvesAndGreenlands_Wide_Drawing.png`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Of-Elves-and-Greenlands-805431365)
 
 
@@ -1090,9 +1152,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: OfMenAndCastles.png
+* **File name**: `OfMenAndCastles.png`
+* **Tagged name**: `OfMenAndCastles_Wide_Drawing.png`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Of-Men-and-Castles-805665913)
 
 
@@ -1107,9 +1170,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: EyeSeeYou.png
+* **File name**: `EyeSeeYou.png`
+* **Tagged name**: `EyeSeeYou_Wide_Painting.png`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Eye-See-You-786504133)
 
 
@@ -1124,9 +1188,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: TimesLongGone.jpg
+* **File name**: `TimesLongGone.jpg`
+* **Tagged name**: `TimesLongGone_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Times-Long-Gone-784335842)
 
 
@@ -1141,9 +1206,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: TheLonelinessOfSwahn.jpg
+* **File name**: `TheLonelinessOfSwahn.jpg`
+* **Tagged name**: `TheLonelinessOfSwahn_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/w8amx9)
 
 
@@ -1158,9 +1224,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: IJustWantToBeHappy.jpg
+* **File name**: `IJustWantToBeHappy.jpg`
+* **Tagged name**: `IJustWantToBeHappy_Classic_Drawing.jpg`
 * **Size**: Classic
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/rAGoB5)
 
 
@@ -1175,9 +1242,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: WhiteTower.jpg
+* **File name**: `WhiteTower.jpg`
+* **Tagged name**: `WhiteTower_Imax_Painting.jpg`
 * **Size**: Imax
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://somartist.artstation.com/projects/GXxzlW)
 
 
@@ -1192,9 +1260,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: KerevelCorridor.jpg
+* **File name**: `KerevelCorridor.jpg`
+* **Tagged name**: `KerevelCorridor_Ultrawide_Drawing.jpg`
 * **Size**: Ultrawide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/OoQv5g)
 
 
@@ -1209,9 +1278,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: CathedralOfTharnas.jpg
+* **File name**: `CathedralOfTharnas.jpg`
+* **Tagged name**: `CathedralOfTharnas_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/oAaLoW)
 
 
@@ -1226,9 +1296,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: TempleRuin.jpg
+* **File name**: `TempleRuin.jpg`
+* **Tagged name**: `TempleRuin_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/W2LrG3)
 
 
@@ -1243,9 +1314,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: ValleyOfTheGods.jpg
+* **File name**: `ValleyOfTheGods.jpg`
+* **Tagged name**: `ValleyOfTheGods_Imax_Painting.jpg`
 * **Size**: Imax
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/5Xvw9P)
 
 
@@ -1260,9 +1332,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: TheSource.jpg
+* **File name**: `TheSource.jpg`
+* **Tagged name**: `TheSource_Imax_Painting.jpg`
 * **Size**: Imax
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/oOLPoz)
 
 
@@ -1277,9 +1350,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: Landscape.jpg
+* **File name**: `Landscape.jpg`
+* **Tagged name**: `Landscape_Wide_Painting.jpg`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/PoEqd4)
 
 
@@ -1294,9 +1368,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: Forest.jpg
+* **File name**: `Forest.jpg`
+* **Tagged name**: `Forest_Classic_Painting.jpg`
 * **Size**: Classic
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/aGGd89)
 
 
@@ -1311,9 +1386,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: ForestFloweringSeason.jpg
+* **File name**: `ForestFloweringSeason.jpg`
+* **Tagged name**: `ForestFloweringSeason_Wide_Painting.jpg`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/05avY)
 
 
@@ -1328,9 +1404,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: BlindWarden.jpg
+* **File name**: `BlindWarden.jpg`
+* **Tagged name**: `BlindWarden_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/yvOz8)
 
 
@@ -1345,9 +1422,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: SmallMemory.png
+* **File name**: `SmallMemory.png`
+* **Tagged name**: `SmallMemory_Wide_Flat.png`
 * **Size**: Wide
-* **Style tag**: Flat
+* **Style**: Flat
 * **Source**: [link](https://dribbble.com/shots/3713646-Small-Memory)
 
 
@@ -1362,9 +1440,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: RavensGate.jpg
+* **File name**: `RavensGate.jpg`
+* **Tagged name**: `RavensGate_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/2xBlde)
 
 
@@ -1379,9 +1458,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: NightRider.png
+* **File name**: `NightRider.png`
+* **Tagged name**: `NightRider_Wide_Painting.png`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.deviantart.com/bisbiswas/art/Night-Rider-878358780)
 
 
@@ -1396,9 +1476,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: RedTreesMountains.jpg
+* **File name**: `RedTreesMountains.jpg`
+* **Tagged name**: `RedTreesMountains_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/mDKZQE)
 
 
@@ -1413,9 +1494,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: RedFishesAmongRedTrees.png
+* **File name**: `RedFishesAmongRedTrees.png`
+* **Tagged name**: `RedFishesAmongRedTrees_Wide_Drawing.png`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.deviantart.com/skyrawathi/art/Red-fishes-among-the-red-trees-765783469)
 
 
@@ -1430,9 +1512,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: Blossoms.png
+* **File name**: `Blossoms.png`
+* **Tagged name**: `Blossoms_Wide_Painting.png`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.deviantart.com/tacosauceninja/art/Blossoms-762704280)
 
 
@@ -1447,9 +1530,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: MeteorShower.jpg
+* **File name**: `MeteorShower.jpg`
+* **Tagged name**: `MeteorShower_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/Ar253o)
 
 
@@ -1464,9 +1548,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: Arrival.jpg
+* **File name**: `Arrival.jpg`
+* **Tagged name**: `Arrival_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/28ex6v)
 
 
@@ -1481,9 +1566,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: UnderTheNightSky.jpg
+* **File name**: `UnderTheNightSky.jpg`
+* **Tagged name**: `UnderTheNightSky_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/2x6z3a)
 
 
@@ -1498,9 +1584,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: LateEvening.jpg
+* **File name**: `LateEvening.jpg`
+* **Tagged name**: `LateEvening_Wide_Painting.jpg`
 * **Size**: Wide
-* **Style tag**: Painting
+* **Style**: Painting
 * **Source**: [link](https://www.artstation.com/artwork/lV6adk)
 
 
@@ -1515,9 +1602,10 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: SkyLight.jpg
+* **File name**: `SkyLight.jpg`
+* **Tagged name**: `SkyLight_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.deviantart.com/bisbiswas/art/Sky-light-852835379)
 
 
@@ -1532,7 +1620,8 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 
 ### Details
 
-* **File name**: StrangersInAStrangeWorld.jpg
+* **File name**: `StrangersInAStrangeWorld.jpg`
+* **Tagged name**: `StrangersInAStrangeWorld_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style tag**: Drawing
+* **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/OyNl5k)

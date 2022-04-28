@@ -1,6 +1,6 @@
-from os import path
+from os import path, PathLike
 
-class ProjectPath(str):
+class ProjectPath(PathLike):
     __root_folder = path.abspath(path.join(path.dirname( __file__ ), '..'))
 
     def __init__(self, *paths):
@@ -21,3 +21,6 @@ class ProjectPath(str):
 
     def __str__(self):
         return self.__path
+
+    def __fspath__(self):
+        return self.__str__()
