@@ -10,13 +10,13 @@ class ProjectPath(str):
     def __add__(self, other):
         return path.join(self.__path, other)
     def __iadd__(self, other):
-        return self.__add__(other)
+        self.__path = self.__add__(other)
 
 
     def __sub__(self, other):
         return self.__add__(other * '..')
     def __isub__(self, other):
-        return self.__sub__(other)
+        self.__path = self.__sub__(other)
 
 
     def __str__(self):
