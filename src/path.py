@@ -1,6 +1,23 @@
 from os import path
 
-root_folder = path.abspath(path.join(path.dirname( __file__ ), '..'))
+class ProjectPath(str):
+    __root_folder = path.abspath(path.join(path.dirname( __file__ ), '..'))
 
-def from_root(*paths):
-    return path.abspath(path.join(root_folder, *paths))
+    def __init__(self, *paths):
+        self.__path = path.abspath(path.join(ProjectPath.__root_folder, *paths))
+
+
+    def __add__(self, other):
+        return path.join(self.__path, other)
+    def __iadd__(self, other):
+        return self.__add__(other)
+
+
+    def __sub__(self, other):
+        return self.__add__(other * '..')
+    def __isub__(self, other):
+        return self.__sub__(other)
+
+
+    def __str__(self):
+        return self.__path

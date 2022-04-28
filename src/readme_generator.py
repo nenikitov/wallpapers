@@ -1,23 +1,27 @@
 import csv
 import glob
 import os
-from image_tags import ImageTags
+import shutil
 
-from path import from_root
 from fancy_print import FancyPrint, MessageType
+from image_tags import ImageTags
+from path import ProjectPath as ProjectPath
 
 
 #region Set up
 # Paths
-img_source_path = from_root('img_source')
-img_tag_path = from_root('img_tag')
-info_file_path = from_root('info.csv')
+img_source_name  = 'img_source'
+img_tag_name     = 'img_tag'
+img_source_path  = ProjectPath(img_source_name)
+img_tag_path     = ProjectPath(img_tag_name)
+info_file_path   = ProjectPath('info.csv')
+readme_file_path = ProjectPath('README.md')
 # Readme file
 readme_text = []
 def readme(line):
     readme_text.append(line)
 def readme_save():
-    with open(from_root('README.md'), 'w') as readme_file:
+    with open(readme_file_path, 'w') as readme_file:
         readme_file.write('\n'.join(readme_text))
 # Printer
 fp = FancyPrint()
@@ -45,6 +49,13 @@ readme('# Wallpapers')
 readme('')
 #endregion
 
+
+#region Clean tagged directory
+shutil.rmtree(img_tag_path)
+os.mkdir(img_tag_path)
+#endregion
+
+
 #region Wallpapers
 wallpapers_found = []
 wallpapers_missing = []
@@ -58,7 +69,7 @@ with open(info_file_path) as info_file:
         fp.put(name, MessageType.SECTION)
 
         # Find the file
-        file = glob.glob(from_root('img_source', f'{name}.*'))
+        file = glob.glob(img_source_path + f'{name}.*')
         if len(file) != 1:
             # File not found
             wallpapers_missing.append(name)
@@ -80,7 +91,7 @@ with open(info_file_path) as info_file:
             readme('')
             readme('### Image')
             readme('')
-            readme(f'![{tags.name}](img_source/{file_name})')
+            readme(f'![{tags.name}]({img_source_name}/{file_name})')
             readme('')
             readme('')
             readme('### Details')
@@ -97,12 +108,10 @@ with open(info_file_path) as info_file:
             readme('')
 
             # TODO Tag and copy the file
-            no_extension = os.path.splitext(file_name)[0]
-            tagged = f'{no_extension}_tag.png'
+            no_extension, extension = os.path.splitext(file_name)
+            tagged = f'{no_extension}_{tags.combined}{extension}'
             fp.put(f'Saving the tagged file as {tagged}', MessageType.INFO, 2)
-            from PIL import Image
-            img = Image.new('RGB', (128, 128), tags.color)
-            img.save(from_root('img_tag', tagged))
+            shutil.copy2(file, img_tag_path + tagged)
 #endregion
 #endregion
 

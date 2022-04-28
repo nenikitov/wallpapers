@@ -53,6 +53,10 @@ class ImageTags:
     def link(self):
         return self.__csv['link']
 
+    @property
+    def combined(self):
+        return f'{self.ratio}_{self.style}'
+
 
     def __split_camel(text):
         return ' '.join(re.sub('([A-Z0-9][a-z]+)', r' \1', re.sub('([A-Z0-9]+)', r' \1', text)).split())
