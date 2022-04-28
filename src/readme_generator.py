@@ -51,7 +51,7 @@ readme('')
 
 
 #region Clean tagged directory
-shutil.rmtree(img_tag_path)
+shutil.rmtree(img_tag_path, ignore_errors=True)
 os.mkdir(img_tag_path)
 #endregion
 
