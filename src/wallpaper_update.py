@@ -131,7 +131,8 @@ readme_save()
 #endregion
 
 #region Find files that have no tags
-wallpapers_unknown = set(wallpapers_found).symmetric_difference(set(os.listdir(img_source_path)))
+img_sources = os.listdir((img_source_path))
+wallpapers_unknown = set(wallpapers_found) ^ set(img_sources)
 #endregion
 
 #region End report
