@@ -1625,3 +1625,60 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 * **Size**: Wide
 * **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/OyNl5k)
+
+
+
+
+## White Blue Red Clouds
+
+### Image
+
+![White Blue Red Clouds](img_source/WhiteBlueRedClouds.jpg)
+
+
+### Details
+
+* **File name**: `WhiteBlueRedClouds.jpg`
+* **Tagged name**: `WhiteBlueRedClouds_Wide_Drawing.jpg`
+* **Size**: Wide
+* **Style**: Drawing
+* **Source**: [link](https://www.deviantart.com/hangmoon/art/White-Blue-Red-Clouds-719909350)
+* **Notes**: Taken from [here](https://github.com/mut-ex/wallpapers/blob/master/landscapebright.jpg)
+
+
+
+
+## Listen To Your Heart
+
+### Image
+
+![Listen To Your Heart](img_source/ListenToYourHeart.png)
+
+
+### Details
+
+* **File name**: `ListenToYourHeart.png`
+* **Tagged name**: `ListenToYourHeart_Ultrawide_Drawing.png`
+* **Size**: Ultrawide
+* **Style**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/oqR1W)
+* **Notes**: Taken from [here](https://i.imgur.com/XSQSo0O.png)
+
+
+
+
+## Mercy
+
+### Image
+
+![Mercy](img_source/Mercy.jpg)
+
+
+### Details
+
+* **File name**: `Mercy.jpg`
+* **Tagged name**: `Mercy_Wide_Drawing.jpg`
+* **Size**: Wide
+* **Style**: Drawing
+* **Source**: [link](https://www.deviantart.com/joeyjazz/art/Mercy-Wallpaper-541981768)
+* **Notes**: Taken from [here](https://github.com/mut-ex/wallpapers/blob/master/whale.jpg)
