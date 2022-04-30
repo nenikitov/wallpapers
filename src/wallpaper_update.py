@@ -12,8 +12,10 @@ from path import ProjectPath as ProjectPath
 #region Parse arguments
 argv = sys.argv[1::]
 if (len(argv) > 1):
-    print('Usage: "python wallpaper_update" or "python wallpaper_update MODE"')
-    print('Try "python wallpaper_update --help" for more information.')
+    print('Usage:')
+    print('  python wallpaper_update')
+    print('  python wallpaper_update MODE')
+    print('Try "python wallpaper_update -h" for more information.')
     sys.exit(2)
 
 mode = ''
@@ -25,7 +27,9 @@ else:
     mode = argv[0]
 
 if mode == '-h' or mode == '--help':
-    print('Usage: python wallpaper_update MODE')
+    print('Usage:')
+    print('  python wallpaper_update')
+    print('  python wallpaper_update MODE')
     print('Regenerate README from csv file / tag and save images.')
     print('')
     print('Modes:')
@@ -48,8 +52,10 @@ elif mode == '-b' or mode == '--both':
     save_readme = True
     save_tag    = True
 else:
-    print('Usage: "python wallpaper_update" or "python wallpaper_update MODE"')
-    print('Try "python wallpaper_update --help" for more information.')
+    print('Usage:')
+    print('  python wallpaper_update')
+    print('  python wallpaper_update MODE')
+    print('Try "python wallpaper_update -h" for more information.')
     sys.exit(2)
 #endregion
 
@@ -96,7 +102,7 @@ if save_readme:
     readme('Run the python script `wallpaper_update.py` to regenerate the `README.md` file and tag all the images.')
     readme('* Use `-r` option if you only want to regenerate the `README.md`')
     readme('* Use `-t` option if you only want to tag and save images')
-    readme('* Use `-h` option if you are not sure how to use it')
+    readme('* Use `-h` option if you need more help running the script')
     readme('')
     readme('')
     readme('')

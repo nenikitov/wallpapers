@@ -15,7 +15,7 @@ If you are the original creator and you would like me to remove your wallpaper f
 Run the python script `wallpaper_update.py` to regenerate the `README.md` file and tag all the images.
 * Use `-r` option if you only want to regenerate the `README.md`
 * Use `-t` option if you only want to tag and save images
-* Use `-h` option if you are not sure how to use it
+* Use `-h` option if you need more help running the script
 
 
 
