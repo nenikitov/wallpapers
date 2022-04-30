@@ -1682,3 +1682,75 @@ Run the python script `wallpaper_update.py` to regenerate the `README.md` file a
 * **Style**: Drawing
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Mercy-Wallpaper-541981768)
 * **Notes**: Taken from [here](https://github.com/mut-ex/wallpapers/blob/master/whale.jpg)
+
+
+
+
+## Clouds
+
+### Image
+
+![Clouds](img_source/Clouds.png)
+
+
+### Details
+
+* **File name**: `Clouds.png`
+* **Tagged name**: `Clouds_Wide_Flat.png`
+* **Size**: Wide
+* **Style**: Flat
+* **Source**: [link](https://www.newgrounds.com/art/view/souredapple/clouds)
+
+
+
+
+## Desert Flames
+
+### Image
+
+![Desert Flames](img_source/DesertFlames.jpg)
+
+
+### Details
+
+* **File name**: `DesertFlames.jpg`
+* **Tagged name**: `DesertFlames_Imax_Drawing.jpg`
+* **Size**: Imax
+* **Style**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/NXZmP)
+
+
+
+
+## The Neon Shallows
+
+### Image
+
+![The Neon Shallows](img_source/TheNeonShallows.png)
+
+
+### Details
+
+* **File name**: `TheNeonShallows.png`
+* **Tagged name**: `TheNeonShallows_Wide_Flat.png`
+* **Size**: Wide
+* **Style**: Flat
+* **Source**: [link](https://www.deviantart.com/leikoi/art/The-Neon-Shallows-823330548)
+
+
+
+
+## Horizon Zero Dawn
+
+### Image
+
+![Horizon Zero Dawn](img_source/HorizonZeroDawn.jpg)
+
+
+### Details
+
+* **File name**: `HorizonZeroDawn.jpg`
+* **Tagged name**: `HorizonZeroDawn_Wide_Flat.jpg`
+* **Size**: Wide
+* **Style**: Flat
+* **Source**: [link](https://www.flickr.com/photos/playstationblog/50279384777/in/photostream/)
