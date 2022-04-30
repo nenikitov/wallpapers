@@ -16,12 +16,17 @@ You can use the files in the `img_source/` folder as they are.
 
 However, if you want to have the images to be tagged, use the script included in the `src/` directory. The tagged files will end up in `img_tag/` directory.
 ```bash
+# (These instructions assume that the current working directory is the root of the repo)
+
+# Ensure that all python modules are installed
+pip install -r requirements.txt
+# Run the script itself
+#   No options if you want both the README and the tagged images folder to be updated
+#   Add "-r" option if you only want to regenerate the `README.md`
+#   Add "-t" option if you only want to tag and save images
+#   Add "-h" option if you need more help running the script
 src/wallpaper_update.py
 ```
-* Use the `-r` option if you only want to regenerate the `README.md`
-* Use the `-t` option if you only want to tag and save images
-* Use the `-h` option if you need more help running the script
-* Do not use any options if you want both the `README` and the tagged images folder to be updated
 
 
 
