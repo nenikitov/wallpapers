@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import csv
 import glob
 import os
@@ -13,8 +15,8 @@ from path import ProjectPath as ProjectPath
 argv = sys.argv[1::]
 if (len(argv) > 1):
     print('Usage:')
-    print('  python wallpaper_update')
-    print('  python wallpaper_update MODE')
+    print('  wallpaper_update')
+    print('  wallpaper_update MODE')
     print('Try "python wallpaper_update -h" for more information.')
     sys.exit(2)
 
@@ -28,8 +30,8 @@ else:
 
 if mode == '-h' or mode == '--help':
     print('Usage:')
-    print('  python wallpaper_update')
-    print('  python wallpaper_update MODE')
+    print('  wallpaper_update')
+    print('  wallpaper_update MODE')
     print('Regenerate README from csv file / tag and save images.')
     print('')
     print('Modes:')
@@ -40,7 +42,7 @@ if mode == '-h' or mode == '--help':
     print('  -r, --readme')
     print('     Regenerate README only')
     print('  -t, --tag')
-    print('     Tag and save images only')
+    print('     Tag and save images only. The images will end up in the "img_tag/" directory')
     sys.exit()
 elif mode == '-r' or mode == '--readme':
     save_readme = True
@@ -53,8 +55,8 @@ elif mode == '-b' or mode == '--both':
     save_tag    = True
 else:
     print('Usage:')
-    print('  python wallpaper_update')
-    print('  python wallpaper_update MODE')
+    print('  wallpaper_update')
+    print('  wallpaper_update MODE')
     print('Try "python wallpaper_update -h" for more information.')
     sys.exit(2)
 #endregion
@@ -99,10 +101,16 @@ if save_readme:
     readme('')
     readme('# Usage')
     readme('')
-    readme('Run the python script `wallpaper_update.py` to regenerate the `README.md` file and tag all the images.')
-    readme('* Use `-r` option if you only want to regenerate the `README.md`')
-    readme('* Use `-t` option if you only want to tag and save images')
-    readme('* Use `-h` option if you need more help running the script')
+    readme('You can use the files in the `img_source/` folder as they are.')
+    readme('')
+    readme('However, if you want to have the images to be tagged, use the script included in the `src/` directory. The tagged files will end up in `img_tag/` directory.')
+    readme('```bash')
+    readme('src/wallpaper_update.py')
+    readme('```')
+    readme('* Use the `-r` option if you only want to regenerate the `README.md`')
+    readme('* Use the `-t` option if you only want to tag and save images')
+    readme('* Use the `-h` option if you need more help running the script')
+    readme('* Do not use any options if you want both the `README` and the tagged images folder to be updated')
     readme('')
     readme('')
     readme('')

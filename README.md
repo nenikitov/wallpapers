@@ -12,10 +12,16 @@ If you are the original creator and you would like me to remove your wallpaper f
 
 # Usage
 
-Run the python script `wallpaper_update.py` to regenerate the `README.md` file and tag all the images.
-* Use `-r` option if you only want to regenerate the `README.md`
-* Use `-t` option if you only want to tag and save images
-* Use `-h` option if you need more help running the script
+You can use the files in the `img_source/` folder as they are.
+
+However, if you want to have the images to be tagged, use the script included in the `src/` directory. The tagged files will end up in `img_tag/` directory.
+```bash
+src/wallpaper_update.py
+```
+* Use the `-r` option if you only want to regenerate the `README.md`
+* Use the `-t` option if you only want to tag and save images
+* Use the `-h` option if you need more help running the script
+* Do not use any options if you want both the `README` and the tagged images folder to be updated
 
 
 
