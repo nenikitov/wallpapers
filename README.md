@@ -1768,3 +1768,39 @@ src/wallpaper_update.py
 * **Size**: Wide
 * **Style**: Flat
 * **Source**: [link](https://www.flickr.com/photos/playstationblog/50279384777/in/photostream/)
+
+
+
+
+## The Secret Of The Blue Planet
+
+### Image
+
+![The Secret Of The Blue Planet](img_source/TheSecretOfTheBluePlanet.jpg)
+
+
+### Details
+
+* **File name**: `TheSecretOfTheBluePlanet.jpg`
+* **Tagged name**: `TheSecretOfTheBluePlanet_Imax_Painting.jpg`
+* **Size**: Imax
+* **Style**: Painting
+* **Source**: [link](https://evakosmos.myportfolio.com/the-secret-of-the-blue-planet)
+
+
+
+
+## Away From The Herd
+
+### Image
+
+![Away From The Herd](img_source/AwayFromTheHerd.jpg)
+
+
+### Details
+
+* **File name**: `AwayFromTheHerd.jpg`
+* **Tagged name**: `AwayFromTheHerd_Classic_Painting.jpg`
+* **Size**: Classic
+* **Style**: Painting
+* **Source**: [link](https://evakosmos.myportfolio.com/away-from-the-herd)
