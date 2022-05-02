@@ -1804,3 +1804,21 @@ src/wallpaper_update.py
 * **Size**: Classic
 * **Style**: Painting
 * **Source**: [link](https://evakosmos.myportfolio.com/away-from-the-herd)
+
+
+
+
+## Amaazing
+
+### Image
+
+![Amaazing](img_source/Amaazing.png)
+
+
+### Details
+
+* **File name**: `Amaazing.png`
+* **Tagged name**: `Amaazing_Wide_Drawing.png`
+* **Size**: Wide
+* **Style**: Drawing
+* **Source**: [link](https://www.deviantart.com/emregursoz/art/Amaazing-459834468)
