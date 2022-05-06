@@ -12,7 +12,7 @@ If you are the original creator and you would like me to remove your wallpaper f
 
 # Usage
 
-You can use the files in the `img_source/` folder as they are.
+You can use the files in the `img/` folder as they are.
 
 However, if you want to have the images to be tagged, use the script included in the `src/` directory. The tagged files will end up in `img_tag/` directory.
 ```bash
@@ -38,7 +38,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Firewatch Cliff](img_source/FirewatchCliff.png)
+![Firewatch Cliff](img/FirewatchCliff.png)
 
 
 ### Details
@@ -56,7 +56,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Lakeside](img_source/Lakeside.png)
+![Lakeside](img/Lakeside.png)
 
 
 ### Details
@@ -74,7 +74,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Saturn Forest](img_source/SaturnForest.jpg)
+![Saturn Forest](img/SaturnForest.jpg)
 
 
 ### Details
@@ -92,7 +92,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Cave Wolf](img_source/CaveWolf.png)
+![Cave Wolf](img/CaveWolf.png)
 
 
 ### Details
@@ -110,7 +110,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Lake Deers Bear](img_source/LakeDeersBear.png)
+![Lake Deers Bear](img/LakeDeersBear.png)
 
 
 ### Details
@@ -128,7 +128,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Foggy Valley](img_source/FoggyValley.png)
+![Foggy Valley](img/FoggyValley.png)
 
 
 ### Details
@@ -146,7 +146,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Foggy Mountains](img_source/FoggyMountains.png)
+![Foggy Mountains](img/FoggyMountains.png)
 
 
 ### Details
@@ -164,7 +164,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Caracara On Capybara](img_source/CaracaraOnCapybara.jpg)
+![Caracara On Capybara](img/CaracaraOnCapybara.jpg)
 
 
 ### Details
@@ -182,7 +182,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Hyper Beast](img_source/HyperBeast.jpg)
+![Hyper Beast](img/HyperBeast.jpg)
 
 
 ### Details
@@ -200,7 +200,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Dragons](img_source/Dragons.jpg)
+![Dragons](img/Dragons.jpg)
 
 
 ### Details
@@ -218,7 +218,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Carmine Rock](img_source/CarmineRock.png)
+![Carmine Rock](img/CarmineRock.png)
 
 
 ### Details
@@ -236,7 +236,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Fishermans Shack](img_source/FishermansShack.jpg)
+![Fishermans Shack](img/FishermansShack.jpg)
 
 
 ### Details
@@ -254,7 +254,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Silent Hill Toluca](img_source/SilentHillToluca.jpg)
+![Silent Hill Toluca](img/SilentHillToluca.jpg)
 
 
 ### Details
@@ -272,7 +272,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Silent Hill Otherworld](img_source/SilentHillOtherworld.jpg)
+![Silent Hill Otherworld](img/SilentHillOtherworld.jpg)
 
 
 ### Details
@@ -290,7 +290,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Dusk Vendigo Church](img_source/DuskVendigoChurch.png)
+![Dusk Vendigo Church](img/DuskVendigoChurch.png)
 
 
 ### Details
@@ -308,7 +308,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Shadowlands](img_source/Shadowlands.jpg)
+![Shadowlands](img/Shadowlands.jpg)
 
 
 ### Details
@@ -327,7 +327,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![El Capitan Yosemite Fog](img_source/ElCapitanYosemiteFog.jpg)
+![El Capitan Yosemite Fog](img/ElCapitanYosemiteFog.jpg)
 
 
 ### Details
@@ -345,7 +345,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![El Capitan Yosemite Autumn](img_source/ElCapitanYosemiteAutumn.jpg)
+![El Capitan Yosemite Autumn](img/ElCapitanYosemiteAutumn.jpg)
 
 
 ### Details
@@ -363,7 +363,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![World Of Horror](img_source/WorldOfHorror.png)
+![World Of Horror](img/WorldOfHorror.png)
 
 
 ### Details
@@ -382,7 +382,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Abandoned Japanese Village](img_source/AbandonedJapaneseVillage.png)
+![Abandoned Japanese Village](img/AbandonedJapaneseVillage.png)
 
 
 ### Details
@@ -400,7 +400,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Magic Swamp](img_source/MagicSwamp.png)
+![Magic Swamp](img/MagicSwamp.png)
 
 
 ### Details
@@ -418,7 +418,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Foggy Forest Road](img_source/FoggyForestRoad.jpg)
+![Foggy Forest Road](img/FoggyForestRoad.jpg)
 
 
 ### Details
@@ -437,7 +437,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Samurai Sky Lanterns](img_source/SamuraiSkyLanterns.jpg)
+![Samurai Sky Lanterns](img/SamuraiSkyLanterns.jpg)
 
 
 ### Details
@@ -455,7 +455,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Counter Play Sky Lanterns](img_source/CounterPlaySkyLanterns.jpg)
+![Counter Play Sky Lanterns](img/CounterPlaySkyLanterns.jpg)
 
 
 ### Details
@@ -473,7 +473,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Squirrel In Forest](img_source/SquirrelInForest.png)
+![Squirrel In Forest](img/SquirrelInForest.png)
 
 
 ### Details
@@ -491,7 +491,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Catan](img_source/Catan.png)
+![Catan](img/Catan.png)
 
 
 ### Details
@@ -510,7 +510,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Witcher On The Trail](img_source/WitcherOnTheTrail.jpg)
+![Witcher On The Trail](img/WitcherOnTheTrail.jpg)
 
 
 ### Details
@@ -528,7 +528,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Arikara 1](img_source/Arikara1.jpg)
+![Arikara 1](img/Arikara1.jpg)
 
 
 ### Details
@@ -546,7 +546,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Arikara 2](img_source/Arikara2.jpg)
+![Arikara 2](img/Arikara2.jpg)
 
 
 ### Details
@@ -564,7 +564,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Reload Brewing](img_source/ReloadBrewing.jpg)
+![Reload Brewing](img/ReloadBrewing.jpg)
 
 
 ### Details
@@ -582,7 +582,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Revenge Brewing](img_source/RevengeBrewing.jpg)
+![Revenge Brewing](img/RevengeBrewing.jpg)
 
 
 ### Details
@@ -600,7 +600,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Ancient Tree Shrine](img_source/AncientTreeShrine.png)
+![Ancient Tree Shrine](img/AncientTreeShrine.png)
 
 
 ### Details
@@ -619,7 +619,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Ancient Artifact](img_source/AncientArtifact.jpg)
+![Ancient Artifact](img/AncientArtifact.jpg)
 
 
 ### Details
@@ -638,7 +638,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![River Camping](img_source/RiverCamping.jpg)
+![River Camping](img/RiverCamping.jpg)
 
 
 ### Details
@@ -656,7 +656,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Falling Warmth](img_source/FallingWarmth.jpeg)
+![Falling Warmth](img/FallingWarmth.jpeg)
 
 
 ### Details
@@ -675,7 +675,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Lake Cabin](img_source/LakeCabin.jpg)
+![Lake Cabin](img/LakeCabin.jpg)
 
 
 ### Details
@@ -693,7 +693,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Autumn Forest Cabins](img_source/AutumnForestCabins.jpg)
+![Autumn Forest Cabins](img/AutumnForestCabins.jpg)
 
 
 ### Details
@@ -711,7 +711,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Secret Ruined Place](img_source/SecretRuinedPlace.jpg)
+![Secret Ruined Place](img/SecretRuinedPlace.jpg)
 
 
 ### Details
@@ -729,7 +729,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Red Fury](img_source/RedFury.jpg)
+![Red Fury](img/RedFury.jpg)
 
 
 ### Details
@@ -747,7 +747,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Spark In The Darkness](img_source/SparkInTheDarkness.jpg)
+![Spark In The Darkness](img/SparkInTheDarkness.jpg)
 
 
 ### Details
@@ -765,7 +765,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Dark Rider](img_source/DarkRider.jpg)
+![Dark Rider](img/DarkRider.jpg)
 
 
 ### Details
@@ -783,7 +783,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![2b Iron Giant](img_source/2bIronGiant.jpg)
+![2b Iron Giant](img/2bIronGiant.jpg)
 
 
 ### Details
@@ -801,7 +801,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![First Day Of The Work](img_source/FirstDayOfTheWork.jpg)
+![First Day Of The Work](img/FirstDayOfTheWork.jpg)
 
 
 ### Details
@@ -819,7 +819,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Blue Lagoon](img_source/BlueLagoon.jpg)
+![Blue Lagoon](img/BlueLagoon.jpg)
 
 
 ### Details
@@ -837,7 +837,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Autumn Puddle](img_source/AutumnPuddle.jpg)
+![Autumn Puddle](img/AutumnPuddle.jpg)
 
 
 ### Details
@@ -855,7 +855,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Fall](img_source/Fall.jpg)
+![Fall](img/Fall.jpg)
 
 
 ### Details
@@ -873,7 +873,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Jungle](img_source/Jungle.jpg)
+![Jungle](img/Jungle.jpg)
 
 
 ### Details
@@ -891,7 +891,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Skull Temple](img_source/SkullTemple.jpg)
+![Skull Temple](img/SkullTemple.jpg)
 
 
 ### Details
@@ -909,7 +909,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Forest At Night](img_source/ForestAtNight.jpg)
+![Forest At Night](img/ForestAtNight.jpg)
 
 
 ### Details
@@ -927,7 +927,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Cloudy Sea](img_source/CloudySea.jpg)
+![Cloudy Sea](img/CloudySea.jpg)
 
 
 ### Details
@@ -945,7 +945,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Creek](img_source/Creek.jpg)
+![Creek](img/Creek.jpg)
 
 
 ### Details
@@ -963,7 +963,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Dead Giant](img_source/DeadGiant.jpg)
+![Dead Giant](img/DeadGiant.jpg)
 
 
 ### Details
@@ -981,7 +981,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![After](img_source/After.jpg)
+![After](img/After.jpg)
 
 
 ### Details
@@ -999,7 +999,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Companions](img_source/Companions.jpg)
+![Companions](img/Companions.jpg)
 
 
 ### Details
@@ -1017,7 +1017,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Spine Of The World](img_source/SpineOfTheWorld.jpg)
+![Spine Of The World](img/SpineOfTheWorld.jpg)
 
 
 ### Details
@@ -1035,7 +1035,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![The Pilgrim](img_source/ThePilgrim.jpg)
+![The Pilgrim](img/ThePilgrim.jpg)
 
 
 ### Details
@@ -1053,7 +1053,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Long Way To Eden](img_source/LongWayToEden.jpg)
+![Long Way To Eden](img/LongWayToEden.jpg)
 
 
 ### Details
@@ -1071,7 +1071,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![The Lesson](img_source/TheLesson.jpg)
+![The Lesson](img/TheLesson.jpg)
 
 
 ### Details
@@ -1089,7 +1089,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Reflective Moments](img_source/ReflectiveMoments.jpg)
+![Reflective Moments](img/ReflectiveMoments.jpg)
 
 
 ### Details
@@ -1107,7 +1107,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![I Of The Trident](img_source/IOfTheTrident.jpg)
+![I Of The Trident](img/IOfTheTrident.jpg)
 
 
 ### Details
@@ -1125,7 +1125,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![At Autumns Door](img_source/AtAutumnsDoor.jpg)
+![At Autumns Door](img/AtAutumnsDoor.jpg)
 
 
 ### Details
@@ -1143,7 +1143,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Of Elves And Greenlands](img_source/OfElvesAndGreenlands.png)
+![Of Elves And Greenlands](img/OfElvesAndGreenlands.png)
 
 
 ### Details
@@ -1161,7 +1161,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Of Men And Castles](img_source/OfMenAndCastles.png)
+![Of Men And Castles](img/OfMenAndCastles.png)
 
 
 ### Details
@@ -1179,7 +1179,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Eye See You](img_source/EyeSeeYou.png)
+![Eye See You](img/EyeSeeYou.png)
 
 
 ### Details
@@ -1197,7 +1197,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Times Long Gone](img_source/TimesLongGone.jpg)
+![Times Long Gone](img/TimesLongGone.jpg)
 
 
 ### Details
@@ -1215,7 +1215,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![The Loneliness Of Swahn](img_source/TheLonelinessOfSwahn.jpg)
+![The Loneliness Of Swahn](img/TheLonelinessOfSwahn.jpg)
 
 
 ### Details
@@ -1233,7 +1233,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![I Just Want To Be Happy](img_source/IJustWantToBeHappy.jpg)
+![I Just Want To Be Happy](img/IJustWantToBeHappy.jpg)
 
 
 ### Details
@@ -1251,7 +1251,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![White Tower](img_source/WhiteTower.jpg)
+![White Tower](img/WhiteTower.jpg)
 
 
 ### Details
@@ -1269,7 +1269,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Kerevel Corridor](img_source/KerevelCorridor.jpg)
+![Kerevel Corridor](img/KerevelCorridor.jpg)
 
 
 ### Details
@@ -1287,7 +1287,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Cathedral Of Tharnas](img_source/CathedralOfTharnas.jpg)
+![Cathedral Of Tharnas](img/CathedralOfTharnas.jpg)
 
 
 ### Details
@@ -1305,7 +1305,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Temple Ruin](img_source/TempleRuin.jpg)
+![Temple Ruin](img/TempleRuin.jpg)
 
 
 ### Details
@@ -1323,7 +1323,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Valley Of The Gods](img_source/ValleyOfTheGods.jpg)
+![Valley Of The Gods](img/ValleyOfTheGods.jpg)
 
 
 ### Details
@@ -1341,7 +1341,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![The Source](img_source/TheSource.jpg)
+![The Source](img/TheSource.jpg)
 
 
 ### Details
@@ -1359,7 +1359,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Landscape](img_source/Landscape.jpg)
+![Landscape](img/Landscape.jpg)
 
 
 ### Details
@@ -1377,7 +1377,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Forest](img_source/Forest.jpg)
+![Forest](img/Forest.jpg)
 
 
 ### Details
@@ -1395,7 +1395,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Forest Flowering Season](img_source/ForestFloweringSeason.jpg)
+![Forest Flowering Season](img/ForestFloweringSeason.jpg)
 
 
 ### Details
@@ -1413,7 +1413,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Blind Warden](img_source/BlindWarden.jpg)
+![Blind Warden](img/BlindWarden.jpg)
 
 
 ### Details
@@ -1431,7 +1431,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Small Memory](img_source/SmallMemory.png)
+![Small Memory](img/SmallMemory.png)
 
 
 ### Details
@@ -1449,7 +1449,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Ravens Gate](img_source/RavensGate.jpg)
+![Ravens Gate](img/RavensGate.jpg)
 
 
 ### Details
@@ -1467,7 +1467,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Night Rider](img_source/NightRider.png)
+![Night Rider](img/NightRider.png)
 
 
 ### Details
@@ -1485,7 +1485,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Red Trees Mountains](img_source/RedTreesMountains.jpg)
+![Red Trees Mountains](img/RedTreesMountains.jpg)
 
 
 ### Details
@@ -1503,7 +1503,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Red Fishes Among Red Trees](img_source/RedFishesAmongRedTrees.png)
+![Red Fishes Among Red Trees](img/RedFishesAmongRedTrees.png)
 
 
 ### Details
@@ -1521,7 +1521,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Blossoms](img_source/Blossoms.png)
+![Blossoms](img/Blossoms.png)
 
 
 ### Details
@@ -1539,7 +1539,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Meteor Shower](img_source/MeteorShower.jpg)
+![Meteor Shower](img/MeteorShower.jpg)
 
 
 ### Details
@@ -1557,7 +1557,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Arrival](img_source/Arrival.jpg)
+![Arrival](img/Arrival.jpg)
 
 
 ### Details
@@ -1575,7 +1575,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Under The Night Sky](img_source/UnderTheNightSky.jpg)
+![Under The Night Sky](img/UnderTheNightSky.jpg)
 
 
 ### Details
@@ -1593,7 +1593,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Late Evening](img_source/LateEvening.jpg)
+![Late Evening](img/LateEvening.jpg)
 
 
 ### Details
@@ -1611,7 +1611,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Sky Light](img_source/SkyLight.jpg)
+![Sky Light](img/SkyLight.jpg)
 
 
 ### Details
@@ -1629,7 +1629,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Strangers In A Strange World](img_source/StrangersInAStrangeWorld.jpg)
+![Strangers In A Strange World](img/StrangersInAStrangeWorld.jpg)
 
 
 ### Details
@@ -1647,7 +1647,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![White Blue Red Clouds](img_source/WhiteBlueRedClouds.jpg)
+![White Blue Red Clouds](img/WhiteBlueRedClouds.jpg)
 
 
 ### Details
@@ -1666,7 +1666,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Listen To Your Heart](img_source/ListenToYourHeart.png)
+![Listen To Your Heart](img/ListenToYourHeart.png)
 
 
 ### Details
@@ -1685,7 +1685,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Mercy](img_source/Mercy.jpg)
+![Mercy](img/Mercy.jpg)
 
 
 ### Details
@@ -1704,7 +1704,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Clouds](img_source/Clouds.png)
+![Clouds](img/Clouds.png)
 
 
 ### Details
@@ -1722,7 +1722,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Desert Flames](img_source/DesertFlames.jpg)
+![Desert Flames](img/DesertFlames.jpg)
 
 
 ### Details
@@ -1740,7 +1740,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![The Neon Shallows](img_source/TheNeonShallows.png)
+![The Neon Shallows](img/TheNeonShallows.png)
 
 
 ### Details
@@ -1758,7 +1758,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Horizon Zero Dawn](img_source/HorizonZeroDawn.jpg)
+![Horizon Zero Dawn](img/HorizonZeroDawn.jpg)
 
 
 ### Details
@@ -1776,7 +1776,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![The Secret Of The Blue Planet](img_source/TheSecretOfTheBluePlanet.jpg)
+![The Secret Of The Blue Planet](img/TheSecretOfTheBluePlanet.jpg)
 
 
 ### Details
@@ -1794,7 +1794,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Away From The Herd](img_source/AwayFromTheHerd.jpg)
+![Away From The Herd](img/AwayFromTheHerd.jpg)
 
 
 ### Details
@@ -1812,7 +1812,7 @@ src/wallpaper_update.py
 
 ### Image
 
-![Amaazing](img_source/Amaazing.png)
+![Amaazing](img/Amaazing.png)
 
 
 ### Details
@@ -1822,3 +1822,40 @@ src/wallpaper_update.py
 * **Size**: Wide
 * **Style**: Drawing
 * **Source**: [link](https://www.deviantart.com/emregursoz/art/Amaazing-459834468)
+
+
+
+
+## Beautiful Clouds Forest
+
+### Image
+
+![Beautiful Clouds Forest](img/BeautifulCloudsForest.jpg)
+
+
+### Details
+
+* **File name**: `BeautifulCloudsForest.jpg`
+* **Tagged name**: `BeautifulCloudsForest_Classic_Photo.jpg`
+* **Size**: Classic
+* **Style**: Photo
+* **Source**: [link](https://www.shutterstock.com/image-photo/beautiful-clouds-forest-1224378124?irclickid=1DUUjrQSUxyIWHvzvF38mXLrUkGSPf33XyiEyY0&irgwc=1&utm_medium=Affiliate&utm_campaign=TinEye&utm_source=77643&utm_term=&c3ch=Affiliate&c3nid=IR-77643)
+* **Notes**: Taken from [here](https://blog.csdn.net/Alone_in_/article/details/97135203)
+
+
+
+
+## Stag Night
+
+### Image
+
+![Stag Night](img/StagNight.jpg)
+
+
+### Details
+
+* **File name**: `StagNight.jpg`
+* **Tagged name**: `StagNight_Wide_Photo.jpg`
+* **Size**: Wide
+* **Style**: Photo
+* **Source**: [link](https://www.flickr.com/photos/gill-was-here/23486219036/sizes/l)

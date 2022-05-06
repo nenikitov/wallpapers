@@ -63,7 +63,7 @@ else:
 
 #region Set up
 # Paths
-img_source_name  = 'img_source'
+img_source_name  = 'img'
 img_tag_name     = 'img_tag'
 img_source_path  = ProjectPath(img_source_name)
 img_tag_path     = ProjectPath(img_tag_name)
