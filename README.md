@@ -1859,3 +1859,165 @@ src/wallpaper_update.py
 * **Size**: Wide
 * **Style**: Photo
 * **Source**: [link](https://www.flickr.com/photos/gill-was-here/23486219036/sizes/l)
+
+
+
+
+## Star Dust
+
+### Image
+
+![Star Dust](img/StarDust.jpg)
+
+
+### Details
+
+* **File name**: `StarDust.jpg`
+* **Tagged name**: `StarDust_Wide_Painting.jpg`
+* **Size**: Wide
+* **Style**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/4Xa124)
+
+
+
+
+## Wings
+
+### Image
+
+![Wings](img/Wings.jpg)
+
+
+### Details
+
+* **File name**: `Wings.jpg`
+* **Tagged name**: `Wings_Wide_Painting.jpg`
+* **Size**: Wide
+* **Style**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/68A2ZV)
+
+
+
+
+## Budapest
+
+### Image
+
+![Budapest](img/Budapest.jpg)
+
+
+### Details
+
+* **File name**: `Budapest.jpg`
+* **Tagged name**: `Budapest_Wide_Painting.jpg`
+* **Size**: Wide
+* **Style**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/0ne3ye)
+
+
+
+
+## Wait
+
+### Image
+
+![Wait](img/Wait.jpg)
+
+
+### Details
+
+* **File name**: `Wait.jpg`
+* **Tagged name**: `Wait_Wide_Painting.jpg`
+* **Size**: Wide
+* **Style**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/lVJXXe)
+
+
+
+
+## Beyond Hill And Dale
+
+### Image
+
+![Beyond Hill And Dale](img/BeyondHillAndDale.jpg)
+
+
+### Details
+
+* **File name**: `BeyondHillAndDale.jpg`
+* **Tagged name**: `BeyondHillAndDale_Wide_Painting.jpg`
+* **Size**: Wide
+* **Style**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/W2XQYN)
+
+
+
+
+## Quiet Mind
+
+### Image
+
+![Quiet Mind](img/QuietMind.jpg)
+
+
+### Details
+
+* **File name**: `QuietMind.jpg`
+* **Tagged name**: `QuietMind_Wide_Painting.jpg`
+* **Size**: Wide
+* **Style**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/Y20RX)
+
+
+
+
+## Serenity
+
+### Image
+
+![Serenity](img/Serenity.jpg)
+
+
+### Details
+
+* **File name**: `Serenity.jpg`
+* **Tagged name**: `Serenity_Wide_Painting.jpg`
+* **Size**: Wide
+* **Style**: Painting
+* **Source**: [link](https://www.artstation.com/artwork/reodm)
+
+
+
+
+## Land Lynx
+
+### Image
+
+![Land Lynx](img/LandLynx.jpg)
+
+
+### Details
+
+* **File name**: `LandLynx.jpg`
+* **Tagged name**: `LandLynx_Wide_Drawing.jpg`
+* **Size**: Wide
+* **Style**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/LZAww)
+
+
+
+
+## Mist
+
+### Image
+
+![Mist](img/Mist.jpg)
+
+
+### Details
+
+* **File name**: `Mist.jpg`
+* **Tagged name**: `Mist_Wide_Drawing.jpg`
+* **Size**: Wide
+* **Style**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/46ONY)
