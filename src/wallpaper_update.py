@@ -89,7 +89,7 @@ fp.put('Image tagger and README generator', MessageType.HEADER)
 if save_readme:
     readme('# Note')
     readme('')
-    readme('The wast majority of these wallpapers are taken from random web-sites all over the internet and other repositories with wallpapers, I did not create them.')
+    readme('The vast majority of these wallpapers are taken from random web-sites all over the internet and other repositories with wallpapers, I did not create them.')
     readme('The only modifications that I have done are cropping, color correction, noise reduction, upscaling, etc.')
     readme('')
     readme('I tried finding the sources for every image in this wallpaper pack, but it is hard.')
