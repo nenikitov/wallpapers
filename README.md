@@ -2021,3 +2021,57 @@ src/wallpaper_update.py
 * **Size**: Wide
 * **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/46ONY)
+
+
+
+
+## Towards The Sun
+
+### Image
+
+![Towards The Sun](img/TowardsTheSun.jpg)
+
+
+### Details
+
+* **File name**: `TowardsTheSun.jpg`
+* **Tagged name**: `TowardsTheSun_Wide_Flat.jpg`
+* **Size**: Wide
+* **Style**: Flat
+* **Source**: [link](https://www.deviantart.com/xlocky/art/Towards-the-sun-719827264)
+
+
+
+
+## Orion 3
+
+### Image
+
+![Orion 3](img/Orion3.jpg)
+
+
+### Details
+
+* **File name**: `Orion3.jpg`
+* **Tagged name**: `Orion3_Ultrawide_Drawing.jpg`
+* **Size**: Ultrawide
+* **Style**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/YaRdJd)
+
+
+
+
+## Train During Night Time
+
+### Image
+
+![Train During Night Time](img/TrainDuringNightTime.jpg)
+
+
+### Details
+
+* **File name**: `TrainDuringNightTime.jpg`
+* **Tagged name**: `TrainDuringNightTime_Wide_Photo.jpg`
+* **Size**: Wide
+* **Style**: Photo
+* **Source**: [link](https://unsplash.com/photos/vIoGFrIzmfo)
