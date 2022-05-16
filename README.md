@@ -2075,3 +2075,93 @@ src/wallpaper_update.py
 * **Size**: Wide
 * **Style**: Photo
 * **Source**: [link](https://unsplash.com/photos/vIoGFrIzmfo)
+
+
+
+
+## M030190804B
+
+### Image
+
+![M030190804B](img/M030190804B.jpg)
+
+
+### Details
+
+* **File name**: `M030190804B.jpg`
+* **Tagged name**: `M030190804B_Wide_Drawning.jpg`
+* **Size**: Wide
+* **Style**: Drawning
+* **Source**: [link](https://www.deviantart.com/u-joe/art/M030190804b-850875944)
+
+
+
+
+## M030190804
+
+### Image
+
+![M030190804](img/M030190804.jpg)
+
+
+### Details
+
+* **File name**: `M030190804.jpg`
+* **Tagged name**: `M030190804_Wide_Drawing.jpg`
+* **Size**: Wide
+* **Style**: Drawing
+* **Source**: [link](https://www.deviantart.com/u-joe/art/M030190804-850875886)
+
+
+
+
+## Misty Lake
+
+### Image
+
+![Misty Lake](img/MistyLake.png)
+
+
+### Details
+
+* **File name**: `MistyLake.png`
+* **Tagged name**: `MistyLake_Wide_Drawing.png`
+* **Size**: Wide
+* **Style**: Drawing
+* **Source**: [link](https://www.deviantart.com/u-joe/art/Misty-lake-for-AWA-Touhou-Scroll-Project-404645328)
+
+
+
+
+## Moriya Shrine
+
+### Image
+
+![Moriya Shrine](img/MoriyaShrine.jpg)
+
+
+### Details
+
+* **File name**: `MoriyaShrine.jpg`
+* **Tagged name**: `MoriyaShrine_Wide_Drawing.jpg`
+* **Size**: Wide
+* **Style**: Drawing
+* **Source**: [link](https://www.patreon.com/posts/m030210604-52076641)
+
+
+
+
+## Myouren Temple
+
+### Image
+
+![Myouren Temple](img/MyourenTemple.jpg)
+
+
+### Details
+
+* **File name**: `MyourenTemple.jpg`
+* **Tagged name**: `MyourenTemple_Wide_Drawing.jpg`
+* **Size**: Wide
+* **Style**: Drawing
+* **Source**: [link](https://www.patreon.com/posts/myouren-temple-49184698)
