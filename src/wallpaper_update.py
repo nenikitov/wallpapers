@@ -180,6 +180,7 @@ with open(info_file_path) as info_file:
                 readme(f'* **Tagged name**: `{tag_name}`')
                 readme(f'* **Size**: {tags.ratio}')
                 readme(f'* **Style**: {tags.style}')
+                readme(f'* **Dominant color**: `{tags.color}`')
                 readme(f'* **Source**: [link]({tags.link})')
                 if len(tags.note) != 0:
                     readme(f'* **Notes**: {tags.note}')

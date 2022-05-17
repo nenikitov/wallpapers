@@ -47,6 +47,7 @@ src/wallpaper_update.py
 * **Tagged name**: `FirewatchCliff_Wide_Flat.png`
 * **Size**: Wide
 * **Style**: Flat
+* **Dominant color**: `(251, 175, 28)`
 * **Source**: [link](https://mocah.org/1048987-fantasy-art-sunset-sunrise-looking-into-the-distance-firewatch-dusk-olly-moss-mountain-dawn-plain-sc.html)
 
 
@@ -65,6 +66,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Lakeside_Ultrawide_Flat.png`
 * **Size**: Ultrawide
 * **Style**: Flat
+* **Dominant color**: `(82, 60, 97)`
 * **Source**: [link](https://www.artstation.com/artwork/xzn6xE)
 
 
@@ -83,6 +85,7 @@ src/wallpaper_update.py
 * **Tagged name**: `SaturnForest_Double_Flat.jpg`
 * **Size**: Double
 * **Style**: Flat
+* **Dominant color**: `(55, 40, 67)`
 * **Source**: [link](https://www.deviantart.com/rmradev/art/Commission-888769508)
 
 
@@ -101,6 +104,7 @@ src/wallpaper_update.py
 * **Tagged name**: `CaveWolf_Ultrawide_Flat.png`
 * **Size**: Ultrawide
 * **Style**: Flat
+* **Dominant color**: `(200, 143, 134)`
 * **Source**: [link](https://dribbble.com/shots/10200111-Slumber/attachments/2121502?mode=media)
 
 
@@ -119,6 +123,7 @@ src/wallpaper_update.py
 * **Tagged name**: `LakeDeersBear_Wide_Flat.png`
 * **Size**: Wide
 * **Style**: Flat
+* **Dominant color**: `(68, 55, 101)`
 * **Source**: [link](https://dribbble.com/shots/3200530-Sunrise-wallpaper/attachments/682349?mode=media)
 
 
@@ -137,6 +142,7 @@ src/wallpaper_update.py
 * **Tagged name**: `FoggyValley_Ultrawide_Flat.png`
 * **Size**: Ultrawide
 * **Style**: Flat
+* **Dominant color**: `(170, 126, 173)`
 * **Source**: [link](https://dribbble.com/shots/12078823-The-Valley)
 
 
@@ -155,6 +161,7 @@ src/wallpaper_update.py
 * **Tagged name**: `FoggyMountains_Ultrawide_Photo.png`
 * **Size**: Ultrawide
 * **Style**: Photo
+* **Dominant color**: `(72, 132, 192)`
 * **Source**: [link](https://commons.wikimedia.org/wiki/File:Rhythm_of_the_mountains.jpg)
 
 
@@ -173,6 +180,7 @@ src/wallpaper_update.py
 * **Tagged name**: `CaracaraOnCapybara_Classic_Photo.jpg`
 * **Size**: Classic
 * **Style**: Photo
+* **Dominant color**: `(47, 40, 36)`
 * **Source**: [link](https://en.wikipedia.org/wiki/File:Yellow-headed_caracara_(Milvago_chimachima)_on_capybara_(Hydrochoeris_hydrochaeris).JPG)
 
 
@@ -191,6 +199,7 @@ src/wallpaper_update.py
 * **Tagged name**: `HyperBeast_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(68, 43, 84)`
 * **Source**: [link](https://brockhoferart.com/hyper-beast)
 
 
@@ -209,6 +218,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Dragons_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(57, 44, 51)`
 * **Source**: [link](https://brockhoferart.com)
 
 
@@ -227,6 +237,7 @@ src/wallpaper_update.py
 * **Tagged name**: `CarmineRock_Wide_Drawing.png`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(57, 59, 69)`
 * **Source**: [link](https://www.artstation.com/artwork/awOPk)
 
 
@@ -245,6 +256,7 @@ src/wallpaper_update.py
 * **Tagged name**: `FishermansShack_Imax_Drawing.jpg`
 * **Size**: Imax
 * **Style**: Drawing
+* **Dominant color**: `(53, 51, 57)`
 * **Source**: [link](https://www.artstation.com/artwork/G88dkW)
 
 
@@ -263,6 +275,7 @@ src/wallpaper_update.py
 * **Tagged name**: `SilentHillToluca_Wide_Sketch.jpg`
 * **Size**: Wide
 * **Style**: Sketch
+* **Dominant color**: `(139, 160, 169)`
 * **Source**: [link](https://eliottsontot.artstation.com/projects/ZG0GK0?album_id=4719001)
 
 
@@ -281,6 +294,7 @@ src/wallpaper_update.py
 * **Tagged name**: `SilentHillOtherworld_Classic_Sketch.jpg`
 * **Size**: Classic
 * **Style**: Sketch
+* **Dominant color**: `(26, 34, 38)`
 * **Source**: [link](https://eliottsontot.artstation.com/projects/B1LZ2A?album_id=4719001)
 
 
@@ -299,6 +313,7 @@ src/wallpaper_update.py
 * **Tagged name**: `DuskVendigoChurch_Wide_Painting.png`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(32, 7, 5)`
 * **Source**: [link](https://store.steampowered.com/app/1846130/DUSK__The_Goodies/)
 
 
@@ -317,6 +332,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Shadowlands_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(58, 59, 68)`
 * **Source**: [link](https://www.reddit.com/r/wallpapers/comments/pzcnwe/shadowlands_by_me/)
 * **Notes**: I cropped it
 
@@ -336,6 +352,7 @@ src/wallpaper_update.py
 * **Tagged name**: `ElCapitanYosemiteFog_Square_Photo.jpg`
 * **Size**: Square
 * **Style**: Photo
+* **Dominant color**: `(53, 54, 64)`
 * **Source**: [link](https://unsplash.com/photos/YLYfwyPJl-o)
 
 
@@ -354,6 +371,7 @@ src/wallpaper_update.py
 * **Tagged name**: `ElCapitanYosemiteAutumn_Wide_Photo.jpg`
 * **Size**: Wide
 * **Style**: Photo
+* **Dominant color**: `(45, 50, 54)`
 * **Source**: [link](https://imgur.com/a/EyzZD)
 
 
@@ -372,6 +390,7 @@ src/wallpaper_update.py
 * **Tagged name**: `WorldOfHorror_Wide_Pixel.png`
 * **Size**: Wide
 * **Style**: Pixel
+* **Dominant color**: `(4, 20, 20)`
 * **Source**: [link](https://twitter.com/panstasz/status/829470971878838272/photo/1)
 * **Notes**: I extended the sky and colored the image with the palette from the game
 
@@ -391,6 +410,7 @@ src/wallpaper_update.py
 * **Tagged name**: `AbandonedJapaneseVillage_Ultrawide_Pixel.png`
 * **Size**: Ultrawide
 * **Style**: Pixel
+* **Dominant color**: `(9, 12, 12)`
 * **Source**: [link](https://33.media.tumblr.com/69bdc6308edaad4e8a73e54681b40b6f/tumblr_np9esuAJ0W1sslvquo1_1280.gif)
 
 
@@ -409,6 +429,7 @@ src/wallpaper_update.py
 * **Tagged name**: `MagicSwamp_Ultrawide_Pixel.png`
 * **Size**: Ultrawide
 * **Style**: Pixel
+* **Dominant color**: `(32, 32, 29)`
 * **Source**: [link](https://imgur.com/zTzuw)
 
 
@@ -427,6 +448,7 @@ src/wallpaper_update.py
 * **Tagged name**: `FoggyForestRoad_Wide_Pixel.jpg`
 * **Size**: Wide
 * **Style**: Pixel
+* **Dominant color**: `(55, 58, 42)`
 * **Source**: [link](https://unsplash.com/photos/Jr-FXzWqCk0)
 * **Notes**: I cropped it
 
@@ -446,6 +468,7 @@ src/wallpaper_update.py
 * **Tagged name**: `SamuraiSkyLanterns_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(77, 68, 101)`
 * **Source**: [link](https://www.deviantart.com/wlop/art/Sky-Lanterns-442002652)
 
 
@@ -464,6 +487,7 @@ src/wallpaper_update.py
 * **Tagged name**: `CounterPlaySkyLanterns_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(54, 34, 105)`
 * **Source**: [link](https://www.counterplaygames.com/#counterplaygames-home)
 
 
@@ -482,6 +506,7 @@ src/wallpaper_update.py
 * **Tagged name**: `SquirrelInForest_Wide_Flat.png`
 * **Size**: Wide
 * **Style**: Flat
+* **Dominant color**: `(22, 17, 52)`
 * **Source**: [link](https://imgur.com/U8r1J84)
 
 
@@ -500,6 +525,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Catan_Wide_Drawing.png`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(192, 82, 59)`
 * **Source**: [link](http://www.experiment7.com/catanvr)
 * **Notes**: Taken from [here](https://wallpx.com/wallpaper/landscape-sunrise-vr-games-field-artwork-catan-vr/)
 
@@ -519,6 +545,7 @@ src/wallpaper_update.py
 * **Tagged name**: `WitcherOnTheTrail_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(40, 26, 26)`
 * **Source**: [link](https://dekades8.artstation.com/projects/9mAeJa)
 
 
@@ -537,6 +564,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Arikara1_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(69, 52, 47)`
 * **Source**: [link](https://www.artstation.com/artwork/q9Qr6a)
 
 
@@ -555,6 +583,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Arikara2_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(58, 38, 29)`
 * **Source**: [link](https://www.artstation.com/artwork/q9Qr6a)
 
 
@@ -573,6 +602,7 @@ src/wallpaper_update.py
 * **Tagged name**: `ReloadBrewing_Imax_Drawing.jpg`
 * **Size**: Imax
 * **Style**: Drawing
+* **Dominant color**: `(70, 31, 88)`
 * **Source**: [link](https://www.artstation.com/artwork/Bm1rX9)
 
 
@@ -591,6 +621,7 @@ src/wallpaper_update.py
 * **Tagged name**: `RevengeBrewing_Imax_Drawing.jpg`
 * **Size**: Imax
 * **Style**: Drawing
+* **Dominant color**: `(30, 15, 50)`
 * **Source**: [link](https://www.artstation.com/artwork/YaekX3)
 
 
@@ -609,6 +640,7 @@ src/wallpaper_update.py
 * **Tagged name**: `AncientTreeShrine_Wide_Drawing.png`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(232, 163, 137)`
 * **Source**: [link](https://www.artstation.com/artwork/rqbbG)
 * **Notes**: I cropped it
 
@@ -628,6 +660,7 @@ src/wallpaper_update.py
 * **Tagged name**: `AncientArtifact_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(64, 45, 49)`
 * **Source**: [link](https://www.artstation.com/artwork/2enXv)
 * **Notes**: I cropped it
 
@@ -647,6 +680,7 @@ src/wallpaper_update.py
 * **Tagged name**: `RiverCamping_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(11, 47, 67)`
 * **Source**: [link](https://www.artstation.com/artwork/xOX81)
 
 
@@ -665,6 +699,7 @@ src/wallpaper_update.py
 * **Tagged name**: `FallingWarmth_Wide_Painting.jpeg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(67, 59, 68)`
 * **Source**: [link](https://www.deviantart.com/chibionpu/art/Falling-Warmth-491264246)
 * **Notes**: Taken from [here](https://imgur.com/gallery/yMQl5)
 
@@ -684,6 +719,7 @@ src/wallpaper_update.py
 * **Tagged name**: `LakeCabin_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(19, 76, 69)`
 * **Source**: [link](https://www.artstation.com/artwork/gR48E)
 
 
@@ -702,6 +738,7 @@ src/wallpaper_update.py
 * **Tagged name**: `AutumnForestCabins_Imax_Drawing.jpg`
 * **Size**: Imax
 * **Style**: Drawing
+* **Dominant color**: `(98, 67, 43)`
 * **Source**: [link](https://www.artstation.com/artwork/lxeX8J)
 
 
@@ -720,6 +757,7 @@ src/wallpaper_update.py
 * **Tagged name**: `SecretRuinedPlace_Cinematic_Painting.jpg`
 * **Size**: Cinematic
 * **Style**: Painting
+* **Dominant color**: `(62, 50, 43)`
 * **Source**: [link](https://www.artstation.com/artwork/0ew55)
 
 
@@ -738,6 +776,7 @@ src/wallpaper_update.py
 * **Tagged name**: `RedFury_Ultrawide_Drawing.jpg`
 * **Size**: Ultrawide
 * **Style**: Drawing
+* **Dominant color**: `(54, 9, 8)`
 * **Source**: [link](https://www.artstation.com/artwork/ZePXbZ)
 
 
@@ -756,6 +795,7 @@ src/wallpaper_update.py
 * **Tagged name**: `SparkInTheDarkness_Classic_Drawing.jpg`
 * **Size**: Classic
 * **Style**: Drawing
+* **Dominant color**: `(70, 66, 72)`
 * **Source**: [link](https://www.artstation.com/artwork/q8kqL)
 
 
@@ -774,6 +814,7 @@ src/wallpaper_update.py
 * **Tagged name**: `DarkRider_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(55, 51, 47)`
 * **Source**: [link](https://www.artstation.com/artwork/W2YgQD)
 
 
@@ -792,6 +833,7 @@ src/wallpaper_update.py
 * **Tagged name**: `2bIronGiant_Classic_Painting.jpg`
 * **Size**: Classic
 * **Style**: Painting
+* **Dominant color**: `(29, 50, 28)`
 * **Source**: [link](https://www.artstation.com/artwork/8QnB6)
 
 
@@ -810,6 +852,7 @@ src/wallpaper_update.py
 * **Tagged name**: `FirstDayOfTheWork_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(57, 119, 149)`
 * **Source**: [link](https://www.artstation.com/artwork/0WbOw)
 
 
@@ -828,6 +871,7 @@ src/wallpaper_update.py
 * **Tagged name**: `BlueLagoon_Cinematic_Drawing.jpg`
 * **Size**: Cinematic
 * **Style**: Drawing
+* **Dominant color**: `(197, 195, 199)`
 * **Source**: [link](https://www.artstation.com/artwork/rAYL62)
 
 
@@ -846,6 +890,7 @@ src/wallpaper_update.py
 * **Tagged name**: `AutumnPuddle_Cinematic_Drawing.jpg`
 * **Size**: Cinematic
 * **Style**: Drawing
+* **Dominant color**: `(55, 56, 55)`
 * **Source**: [link](https://www.artstation.com/artwork/rAX3qL)
 
 
@@ -864,6 +909,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Fall_Imax_Drawing.jpg`
 * **Size**: Imax
 * **Style**: Drawing
+* **Dominant color**: `(48, 35, 33)`
 * **Source**: [link](https://www.artstation.com/artwork/oAxYDO)
 
 
@@ -882,6 +928,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Jungle_Cinematic_Drawing.jpg`
 * **Size**: Cinematic
 * **Style**: Drawing
+* **Dominant color**: `(22, 40, 28)`
 * **Source**: [link](https://www.artstation.com/artwork/KaYNWG)
 
 
@@ -900,6 +947,7 @@ src/wallpaper_update.py
 * **Tagged name**: `SkullTemple_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(22, 33, 41)`
 * **Source**: [link](https://www.artstation.com/artwork/W2aywX)
 
 
@@ -918,6 +966,7 @@ src/wallpaper_update.py
 * **Tagged name**: `ForestAtNight_Classic_Photo.jpg`
 * **Size**: Classic
 * **Style**: Photo
+* **Dominant color**: `(54, 44, 43)`
 * **Source**: [link](https://www.pexels.com/photo/forest-at-night-2080963/)
 
 
@@ -936,6 +985,7 @@ src/wallpaper_update.py
 * **Tagged name**: `CloudySea_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(118, 74, 107)`
 * **Source**: [link](https://www.artstation.com/artwork/gYQam)
 
 
@@ -954,6 +1004,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Creek_Cinematic_Painting.jpg`
 * **Size**: Cinematic
 * **Style**: Painting
+* **Dominant color**: `(50, 51, 31)`
 * **Source**: [link](https://www.artstation.com/artwork/eEVxw)
 
 
@@ -972,6 +1023,7 @@ src/wallpaper_update.py
 * **Tagged name**: `DeadGiant_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(64, 66, 45)`
 * **Source**: [link](https://www.artstation.com/artwork/bEyWv)
 
 
@@ -990,6 +1042,7 @@ src/wallpaper_update.py
 * **Tagged name**: `After_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(43, 31, 26)`
 * **Source**: [link](https://www.artstation.com/artwork/L0ZNA)
 
 
@@ -1008,6 +1061,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Companions_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(49, 42, 24)`
 * **Source**: [link](https://www.artstation.com/artwork/dNv3K)
 
 
@@ -1026,6 +1080,7 @@ src/wallpaper_update.py
 * **Tagged name**: `SpineOfTheWorld_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(51, 36, 32)`
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Spine-of-the-World-905172672)
 
 
@@ -1044,6 +1099,7 @@ src/wallpaper_update.py
 * **Tagged name**: `ThePilgrim_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(65, 63, 64)`
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/The-Pilgrim-904251780)
 
 
@@ -1062,6 +1118,7 @@ src/wallpaper_update.py
 * **Tagged name**: `LongWayToEden_Ultrawide_Drawing.jpg`
 * **Size**: Ultrawide
 * **Style**: Drawing
+* **Dominant color**: `(74, 54, 55)`
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Long-Way-to-Eden-885804027)
 
 
@@ -1080,6 +1137,7 @@ src/wallpaper_update.py
 * **Tagged name**: `TheLesson_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(228, 132, 63)`
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/The-Lesson-860310673)
 
 
@@ -1098,6 +1156,7 @@ src/wallpaper_update.py
 * **Tagged name**: `ReflectiveMoments_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(34, 13, 17)`
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Reflective-Moments-831598974)
 
 
@@ -1116,6 +1175,7 @@ src/wallpaper_update.py
 * **Tagged name**: `IOfTheTrident_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(26, 71, 116)`
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/I-of-the-Trident-814933262)
 
 
@@ -1134,6 +1194,7 @@ src/wallpaper_update.py
 * **Tagged name**: `AtAutumnsDoor_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(58, 98, 88)`
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/At-Autumn-s-Door-813813455)
 
 
@@ -1152,6 +1213,7 @@ src/wallpaper_update.py
 * **Tagged name**: `OfElvesAndGreenlands_Wide_Drawing.png`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(66, 75, 44)`
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Of-Elves-and-Greenlands-805431365)
 
 
@@ -1170,6 +1232,7 @@ src/wallpaper_update.py
 * **Tagged name**: `OfMenAndCastles_Wide_Drawing.png`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(157, 40, 18)`
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Of-Men-and-Castles-805665913)
 
 
@@ -1188,6 +1251,7 @@ src/wallpaper_update.py
 * **Tagged name**: `EyeSeeYou_Wide_Painting.png`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(55, 13, 4)`
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Eye-See-You-786504133)
 
 
@@ -1206,6 +1270,7 @@ src/wallpaper_update.py
 * **Tagged name**: `TimesLongGone_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(5, 18, 36)`
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Times-Long-Gone-784335842)
 
 
@@ -1224,6 +1289,7 @@ src/wallpaper_update.py
 * **Tagged name**: `TheLonelinessOfSwahn_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(51, 48, 47)`
 * **Source**: [link](https://www.artstation.com/artwork/w8amx9)
 
 
@@ -1242,6 +1308,7 @@ src/wallpaper_update.py
 * **Tagged name**: `IJustWantToBeHappy_Classic_Drawing.jpg`
 * **Size**: Classic
 * **Style**: Drawing
+* **Dominant color**: `(45, 47, 39)`
 * **Source**: [link](https://www.artstation.com/artwork/rAGoB5)
 
 
@@ -1260,6 +1327,7 @@ src/wallpaper_update.py
 * **Tagged name**: `WhiteTower_Imax_Painting.jpg`
 * **Size**: Imax
 * **Style**: Painting
+* **Dominant color**: `(47, 54, 56)`
 * **Source**: [link](https://somartist.artstation.com/projects/GXxzlW)
 
 
@@ -1278,6 +1346,7 @@ src/wallpaper_update.py
 * **Tagged name**: `KerevelCorridor_Ultrawide_Drawing.jpg`
 * **Size**: Ultrawide
 * **Style**: Drawing
+* **Dominant color**: `(52, 61, 64)`
 * **Source**: [link](https://www.artstation.com/artwork/OoQv5g)
 
 
@@ -1296,6 +1365,7 @@ src/wallpaper_update.py
 * **Tagged name**: `CathedralOfTharnas_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(48, 64, 64)`
 * **Source**: [link](https://www.artstation.com/artwork/oAaLoW)
 
 
@@ -1314,6 +1384,7 @@ src/wallpaper_update.py
 * **Tagged name**: `TempleRuin_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(22, 34, 56)`
 * **Source**: [link](https://www.artstation.com/artwork/W2LrG3)
 
 
@@ -1332,6 +1403,7 @@ src/wallpaper_update.py
 * **Tagged name**: `ValleyOfTheGods_Imax_Painting.jpg`
 * **Size**: Imax
 * **Style**: Painting
+* **Dominant color**: `(52, 36, 65)`
 * **Source**: [link](https://www.artstation.com/artwork/5Xvw9P)
 
 
@@ -1350,6 +1422,7 @@ src/wallpaper_update.py
 * **Tagged name**: `TheSource_Imax_Painting.jpg`
 * **Size**: Imax
 * **Style**: Painting
+* **Dominant color**: `(47, 54, 55)`
 * **Source**: [link](https://www.artstation.com/artwork/oOLPoz)
 
 
@@ -1368,6 +1441,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Landscape_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(34, 32, 26)`
 * **Source**: [link](https://www.artstation.com/artwork/PoEqd4)
 
 
@@ -1386,6 +1460,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Forest_Classic_Painting.jpg`
 * **Size**: Classic
 * **Style**: Painting
+* **Dominant color**: `(31, 42, 25)`
 * **Source**: [link](https://www.artstation.com/artwork/aGGd89)
 
 
@@ -1404,6 +1479,7 @@ src/wallpaper_update.py
 * **Tagged name**: `ForestFloweringSeason_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(77, 86, 114)`
 * **Source**: [link](https://www.artstation.com/artwork/05avY)
 
 
@@ -1422,6 +1498,7 @@ src/wallpaper_update.py
 * **Tagged name**: `BlindWarden_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(27, 27, 32)`
 * **Source**: [link](https://www.artstation.com/artwork/yvOz8)
 
 
@@ -1440,6 +1517,7 @@ src/wallpaper_update.py
 * **Tagged name**: `SmallMemory_Wide_Flat.png`
 * **Size**: Wide
 * **Style**: Flat
+* **Dominant color**: `(8, 41, 69)`
 * **Source**: [link](https://dribbble.com/shots/3713646-Small-Memory)
 
 
@@ -1458,6 +1536,7 @@ src/wallpaper_update.py
 * **Tagged name**: `RavensGate_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(67, 131, 132)`
 * **Source**: [link](https://www.artstation.com/artwork/2xBlde)
 
 
@@ -1476,6 +1555,7 @@ src/wallpaper_update.py
 * **Tagged name**: `NightRider_Wide_Painting.png`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(21, 33, 39)`
 * **Source**: [link](https://www.deviantart.com/bisbiswas/art/Night-Rider-878358780)
 
 
@@ -1494,6 +1574,7 @@ src/wallpaper_update.py
 * **Tagged name**: `RedTreesMountains_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(69, 71, 74)`
 * **Source**: [link](https://www.artstation.com/artwork/mDKZQE)
 
 
@@ -1512,6 +1593,7 @@ src/wallpaper_update.py
 * **Tagged name**: `RedFishesAmongRedTrees_Wide_Drawing.png`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(67, 52, 64)`
 * **Source**: [link](https://www.deviantart.com/skyrawathi/art/Red-fishes-among-the-red-trees-765783469)
 
 
@@ -1530,6 +1612,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Blossoms_Wide_Painting.png`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(65, 59, 54)`
 * **Source**: [link](https://www.deviantart.com/tacosauceninja/art/Blossoms-762704280)
 
 
@@ -1548,6 +1631,7 @@ src/wallpaper_update.py
 * **Tagged name**: `MeteorShower_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(20, 35, 43)`
 * **Source**: [link](https://www.artstation.com/artwork/Ar253o)
 
 
@@ -1566,6 +1650,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Arrival_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(33, 21, 38)`
 * **Source**: [link](https://www.artstation.com/artwork/28ex6v)
 
 
@@ -1584,6 +1669,7 @@ src/wallpaper_update.py
 * **Tagged name**: `UnderTheNightSky_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(19, 27, 61)`
 * **Source**: [link](https://www.artstation.com/artwork/2x6z3a)
 
 
@@ -1602,6 +1688,7 @@ src/wallpaper_update.py
 * **Tagged name**: `LateEvening_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(36, 32, 31)`
 * **Source**: [link](https://www.artstation.com/artwork/lV6adk)
 
 
@@ -1620,6 +1707,7 @@ src/wallpaper_update.py
 * **Tagged name**: `SkyLight_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(24, 8, 56)`
 * **Source**: [link](https://www.deviantart.com/bisbiswas/art/Sky-light-852835379)
 
 
@@ -1638,6 +1726,7 @@ src/wallpaper_update.py
 * **Tagged name**: `StrangersInAStrangeWorld_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(28, 65, 108)`
 * **Source**: [link](https://www.artstation.com/artwork/OyNl5k)
 
 
@@ -1656,6 +1745,7 @@ src/wallpaper_update.py
 * **Tagged name**: `WhiteBlueRedClouds_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(185, 199, 162)`
 * **Source**: [link](https://www.deviantart.com/hangmoon/art/White-Blue-Red-Clouds-719909350)
 * **Notes**: Taken from [here](https://github.com/mut-ex/wallpapers/blob/master/landscapebright.jpg)
 
@@ -1675,6 +1765,7 @@ src/wallpaper_update.py
 * **Tagged name**: `ListenToYourHeart_Ultrawide_Drawing.png`
 * **Size**: Ultrawide
 * **Style**: Drawing
+* **Dominant color**: `(17, 34, 56)`
 * **Source**: [link](https://www.artstation.com/artwork/oqR1W)
 * **Notes**: Taken from [here](https://i.imgur.com/XSQSo0O.png)
 
@@ -1694,6 +1785,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Mercy_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(5, 88, 99)`
 * **Source**: [link](https://www.deviantart.com/joeyjazz/art/Mercy-Wallpaper-541981768)
 * **Notes**: Taken from [here](https://github.com/mut-ex/wallpapers/blob/master/whale.jpg)
 
@@ -1713,6 +1805,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Clouds_Wide_Flat.png`
 * **Size**: Wide
 * **Style**: Flat
+* **Dominant color**: `(29, 32, 73)`
 * **Source**: [link](https://www.newgrounds.com/art/view/souredapple/clouds)
 
 
@@ -1731,6 +1824,7 @@ src/wallpaper_update.py
 * **Tagged name**: `DesertFlames_Imax_Drawing.jpg`
 * **Size**: Imax
 * **Style**: Drawing
+* **Dominant color**: `(52, 60, 120)`
 * **Source**: [link](https://www.artstation.com/artwork/NXZmP)
 
 
@@ -1749,6 +1843,7 @@ src/wallpaper_update.py
 * **Tagged name**: `TheNeonShallows_Wide_Flat.png`
 * **Size**: Wide
 * **Style**: Flat
+* **Dominant color**: `(32, 41, 45)`
 * **Source**: [link](https://www.deviantart.com/leikoi/art/The-Neon-Shallows-823330548)
 
 
@@ -1767,6 +1862,7 @@ src/wallpaper_update.py
 * **Tagged name**: `HorizonZeroDawn_Wide_Flat.jpg`
 * **Size**: Wide
 * **Style**: Flat
+* **Dominant color**: `(35, 47, 42)`
 * **Source**: [link](https://www.flickr.com/photos/playstationblog/50279384777/in/photostream/)
 
 
@@ -1785,6 +1881,7 @@ src/wallpaper_update.py
 * **Tagged name**: `TheSecretOfTheBluePlanet_Imax_Painting.jpg`
 * **Size**: Imax
 * **Style**: Painting
+* **Dominant color**: `(78, 86, 104)`
 * **Source**: [link](https://evakosmos.myportfolio.com/the-secret-of-the-blue-planet)
 
 
@@ -1803,6 +1900,7 @@ src/wallpaper_update.py
 * **Tagged name**: `AwayFromTheHerd_Classic_Painting.jpg`
 * **Size**: Classic
 * **Style**: Painting
+* **Dominant color**: `(109, 109, 145)`
 * **Source**: [link](https://evakosmos.myportfolio.com/away-from-the-herd)
 
 
@@ -1821,6 +1919,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Amaazing_Wide_Drawing.png`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(223, 94, 50)`
 * **Source**: [link](https://www.deviantart.com/emregursoz/art/Amaazing-459834468)
 
 
@@ -1839,6 +1938,7 @@ src/wallpaper_update.py
 * **Tagged name**: `BeautifulCloudsForest_Classic_Photo.jpg`
 * **Size**: Classic
 * **Style**: Photo
+* **Dominant color**: `(36, 66, 91)`
 * **Source**: [link](https://www.shutterstock.com/image-photo/beautiful-clouds-forest-1224378124)
 * **Notes**: Taken from [here](https://blog.csdn.net/Alone_in_/article/details/97135203)
 
@@ -1858,6 +1958,7 @@ src/wallpaper_update.py
 * **Tagged name**: `StagNight_Wide_Photo.jpg`
 * **Size**: Wide
 * **Style**: Photo
+* **Dominant color**: `(45, 70, 72)`
 * **Source**: [link](https://www.flickr.com/photos/gill-was-here/23486219036/sizes/l)
 
 
@@ -1876,6 +1977,7 @@ src/wallpaper_update.py
 * **Tagged name**: `StarDust_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(45, 89, 135)`
 * **Source**: [link](https://www.artstation.com/artwork/4Xa124)
 
 
@@ -1894,6 +1996,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Wings_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(86, 104, 136)`
 * **Source**: [link](https://www.artstation.com/artwork/68A2ZV)
 
 
@@ -1912,6 +2015,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Budapest_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(71, 79, 93)`
 * **Source**: [link](https://www.artstation.com/artwork/0ne3ye)
 
 
@@ -1930,6 +2034,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Wait_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(59, 99, 126)`
 * **Source**: [link](https://www.artstation.com/artwork/lVJXXe)
 
 
@@ -1948,6 +2053,7 @@ src/wallpaper_update.py
 * **Tagged name**: `BeyondHillAndDale_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(37, 78, 101)`
 * **Source**: [link](https://www.artstation.com/artwork/W2XQYN)
 
 
@@ -1966,6 +2072,7 @@ src/wallpaper_update.py
 * **Tagged name**: `QuietMind_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(128, 184, 193)`
 * **Source**: [link](https://www.artstation.com/artwork/Y20RX)
 
 
@@ -1984,6 +2091,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Serenity_Wide_Painting.jpg`
 * **Size**: Wide
 * **Style**: Painting
+* **Dominant color**: `(39, 37, 42)`
 * **Source**: [link](https://www.artstation.com/artwork/reodm)
 
 
@@ -2002,6 +2110,7 @@ src/wallpaper_update.py
 * **Tagged name**: `LandLynx_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(11, 69, 66)`
 * **Source**: [link](https://www.artstation.com/artwork/LZAww)
 
 
@@ -2020,6 +2129,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Mist_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(139, 143, 152)`
 * **Source**: [link](https://www.artstation.com/artwork/46ONY)
 
 
@@ -2038,6 +2148,7 @@ src/wallpaper_update.py
 * **Tagged name**: `TowardsTheSun_Wide_Flat.jpg`
 * **Size**: Wide
 * **Style**: Flat
+* **Dominant color**: `(34, 36, 68)`
 * **Source**: [link](https://www.deviantart.com/xlocky/art/Towards-the-sun-719827264)
 
 
@@ -2056,6 +2167,7 @@ src/wallpaper_update.py
 * **Tagged name**: `Orion3_Ultrawide_Drawing.jpg`
 * **Size**: Ultrawide
 * **Style**: Drawing
+* **Dominant color**: `(20, 37, 42)`
 * **Source**: [link](https://www.artstation.com/artwork/YaRdJd)
 
 
@@ -2074,6 +2186,7 @@ src/wallpaper_update.py
 * **Tagged name**: `TrainDuringNightTime_Wide_Photo.jpg`
 * **Size**: Wide
 * **Style**: Photo
+* **Dominant color**: `(12, 24, 29)`
 * **Source**: [link](https://unsplash.com/photos/vIoGFrIzmfo)
 
 
@@ -2092,6 +2205,7 @@ src/wallpaper_update.py
 * **Tagged name**: `M030190804B_Wide_Drawning.jpg`
 * **Size**: Wide
 * **Style**: Drawning
+* **Dominant color**: `(49, 48, 63)`
 * **Source**: [link](https://www.deviantart.com/u-joe/art/M030190804b-850875944)
 
 
@@ -2110,6 +2224,7 @@ src/wallpaper_update.py
 * **Tagged name**: `M030190804_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(59, 76, 63)`
 * **Source**: [link](https://www.deviantart.com/u-joe/art/M030190804-850875886)
 
 
@@ -2128,6 +2243,7 @@ src/wallpaper_update.py
 * **Tagged name**: `MistyLake_Wide_Drawing.png`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(121, 114, 109)`
 * **Source**: [link](https://www.deviantart.com/u-joe/art/Misty-lake-for-AWA-Touhou-Scroll-Project-404645328)
 
 
@@ -2146,6 +2262,7 @@ src/wallpaper_update.py
 * **Tagged name**: `MoriyaShrine_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(106, 36, 18)`
 * **Source**: [link](https://www.patreon.com/posts/m030210604-52076641)
 
 
@@ -2164,6 +2281,7 @@ src/wallpaper_update.py
 * **Tagged name**: `MyourenTemple_Wide_Drawing.jpg`
 * **Size**: Wide
 * **Style**: Drawing
+* **Dominant color**: `(38, 40, 52)`
 * **Source**: [link](https://www.patreon.com/posts/myouren-temple-49184698)
 
 
@@ -2182,6 +2300,7 @@ src/wallpaper_update.py
 * **Tagged name**: `TheBell_Imax_Drawing.jpg`
 * **Size**: Imax
 * **Style**: Drawing
+* **Dominant color**: `(37, 56, 62)`
 * **Source**: [link](https://www.artstation.com/artwork/rR84na)
 
 
@@ -2200,6 +2319,7 @@ src/wallpaper_update.py
 * **Tagged name**: `SandRuins_Ultrawide_Drawing.jpg`
 * **Size**: Ultrawide
 * **Style**: Drawing
+* **Dominant color**: `(186, 195, 196)`
 * **Source**: [link](https://www.artstation.com/artwork/EVZ2b4)
 
 
@@ -2218,5 +2338,6 @@ src/wallpaper_update.py
 * **Tagged name**: `HockingHillsStatePark_Imax_Photo.jpg`
 * **Size**: Imax
 * **Style**: Photo
+* **Dominant color**: `(42, 34, 18)`
 * **Source**: [link](https://stock.adobe.com/images/sunlight-through-the-forest/439455711)
 * **Notes**: Taken from [here](https://www.wallpaperup.com/991640/Waterfalls_USA_Crag_Trees_Hocking_Hills_State_Park_Ohio_Nature.html)
