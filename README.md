@@ -2165,3 +2165,39 @@ src/wallpaper_update.py
 * **Size**: Wide
 * **Style**: Drawing
 * **Source**: [link](https://www.patreon.com/posts/myouren-temple-49184698)
+
+
+
+
+## The Bell
+
+### Image
+
+![The Bell](img/TheBell.jpg)
+
+
+### Details
+
+* **File name**: `TheBell.jpg`
+* **Tagged name**: `TheBell_Imax_Drawing.jpg`
+* **Size**: Imax
+* **Style**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/rR84na)
+
+
+
+
+## Sand Ruins
+
+### Image
+
+![Sand Ruins](img/SandRuins.jpg)
+
+
+### Details
+
+* **File name**: `SandRuins.jpg`
+* **Tagged name**: `SandRuins_Ultrawide_Drawing.jpg`
+* **Size**: Ultrawide
+* **Style**: Drawing
+* **Source**: [link](https://www.artstation.com/artwork/EVZ2b4)
