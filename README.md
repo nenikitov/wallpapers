@@ -1839,7 +1839,7 @@ src/wallpaper_update.py
 * **Tagged name**: `BeautifulCloudsForest_Classic_Photo.jpg`
 * **Size**: Classic
 * **Style**: Photo
-* **Source**: [link](https://www.shutterstock.com/image-photo/beautiful-clouds-forest-1224378124?irclickid=1DUUjrQSUxyIWHvzvF38mXLrUkGSPf33XyiEyY0&irgwc=1&utm_medium=Affiliate&utm_campaign=TinEye&utm_source=77643&utm_term=&c3ch=Affiliate&c3nid=IR-77643)
+* **Source**: [link](https://www.shutterstock.com/image-photo/beautiful-clouds-forest-1224378124)
 * **Notes**: Taken from [here](https://blog.csdn.net/Alone_in_/article/details/97135203)
 
 
@@ -2201,3 +2201,22 @@ src/wallpaper_update.py
 * **Size**: Ultrawide
 * **Style**: Drawing
 * **Source**: [link](https://www.artstation.com/artwork/EVZ2b4)
+
+
+
+
+## Hocking Hills State Park
+
+### Image
+
+![Hocking Hills State Park](img/HockingHillsStatePark.jpg)
+
+
+### Details
+
+* **File name**: `HockingHillsStatePark.jpg`
+* **Tagged name**: `HockingHillsStatePark_Imax_Photo.jpg`
+* **Size**: Imax
+* **Style**: Photo
+* **Source**: [link](https://stock.adobe.com/images/sunlight-through-the-forest/439455711)
+* **Notes**: Taken from [here](https://www.wallpaperup.com/991640/Waterfalls_USA_Crag_Trees_Hocking_Hills_State_Park_Ohio_Nature.html)
