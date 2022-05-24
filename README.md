@@ -2341,3 +2341,22 @@ src/wallpaper_update.py
 * **Dominant color**: `(42, 34, 18)`
 * **Source**: [link](https://stock.adobe.com/images/sunlight-through-the-forest/439455711)
 * **Notes**: Taken from [here](https://www.wallpaperup.com/991640/Waterfalls_USA_Crag_Trees_Hocking_Hills_State_Park_Ohio_Nature.html)
+
+
+
+
+## Capybaras
+
+### Image
+
+![Capybaras](img/Capybaras.jpg)
+
+
+### Details
+
+* **File name**: `Capybaras.jpg`
+* **Tagged name**: `Capybaras_Wide_Photo.jpg`
+* **Size**: Wide
+* **Style**: Photo
+* **Dominant color**: `(76, 61, 45)`
+* **Source**: [link](https://mobile.twitter.com/authmarensmith/status/1518994107921805313/photo/1)
