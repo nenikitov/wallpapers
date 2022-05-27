@@ -2202,9 +2202,9 @@ src/wallpaper_update.py
 ### Details
 
 * **File name**: `M030190804B.jpg`
-* **Tagged name**: `M030190804B_Wide_Drawning.jpg`
+* **Tagged name**: `M030190804B_Wide_Drawing.jpg`
 * **Size**: Wide
-* **Style**: Drawning
+* **Style**: Drawing
 * **Dominant color**: `(49, 48, 63)`
 * **Source**: [link](https://www.deviantart.com/u-joe/art/M030190804b-850875944)
 
@@ -2360,3 +2360,22 @@ src/wallpaper_update.py
 * **Style**: Photo
 * **Dominant color**: `(76, 61, 45)`
 * **Source**: [link](https://mobile.twitter.com/authmarensmith/status/1518994107921805313/photo/1)
+
+
+
+
+## Icy Peaks
+
+### Image
+
+![Icy Peaks](img/IcyPeaks.jpg)
+
+
+### Details
+
+* **File name**: `IcyPeaks.jpg`
+* **Tagged name**: `IcyPeaks_Ultrawide_Drawing.jpg`
+* **Size**: Ultrawide
+* **Style**: Drawing
+* **Dominant color**: `(103, 113, 126)`
+* **Source**: [link](https://alex_olmedo.artstation.com/projects/zkvx4?album_id=584566)
