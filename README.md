@@ -2379,3 +2379,79 @@ src/wallpaper_update.py
 * **Style**: Drawing
 * **Dominant color**: `(103, 113, 126)`
 * **Source**: [link](https://alex_olmedo.artstation.com/projects/zkvx4?album_id=584566)
+
+
+
+
+## New Horizons
+
+### Image
+
+![New Horizons](img/NewHorizons.jpg)
+
+
+### Details
+
+* **File name**: `NewHorizons.jpg`
+* **Tagged name**: `NewHorizons_Wide_Painting.jpg`
+* **Size**: Wide
+* **Style**: Painting
+* **Dominant color**: `(62, 86, 116)`
+* **Source**: [link](https://alex_olmedo.artstation.com/projects/l9BJa?album_id=584570)
+
+
+
+
+## Explorer
+
+### Image
+
+![Explorer](img/Explorer.jpg)
+
+
+### Details
+
+* **File name**: `Explorer.jpg`
+* **Tagged name**: `Explorer_Cinematic_Drawing.jpg`
+* **Size**: Cinematic
+* **Style**: Drawing
+* **Dominant color**: `(45, 56, 37)`
+* **Source**: [link](https://alex_olmedo.artstation.com/projects/6R3d6?album_id=584566)
+
+
+
+
+## The World Of Oberon
+
+### Image
+
+![The World Of Oberon](img/TheWorldOfOberon.jpg)
+
+
+### Details
+
+* **File name**: `TheWorldOfOberon.jpg`
+* **Tagged name**: `TheWorldOfOberon_Imax_Drawing.jpg`
+* **Size**: Imax
+* **Style**: Drawing
+* **Dominant color**: `(20, 54, 45)`
+* **Source**: [link](https://alex_olmedo.artstation.com/projects/nPvo?album_id=584566)
+
+
+
+
+## Forgotten Lands
+
+### Image
+
+![Forgotten Lands](img/ForgottenLands.jpg)
+
+
+### Details
+
+* **File name**: `ForgottenLands.jpg`
+* **Tagged name**: `ForgottenLands_Imax_Drawing.jpg`
+* **Size**: Imax
+* **Style**: Drawing
+* **Dominant color**: `(30, 36, 38)`
+* **Source**: [link](https://alex_olmedo.artstation.com/projects/m6Ov9?album_id=584566)
