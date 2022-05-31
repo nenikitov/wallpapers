@@ -2455,3 +2455,22 @@ src/wallpaper_update.py
 * **Style**: Drawing
 * **Dominant color**: `(30, 36, 38)`
 * **Source**: [link](https://alex_olmedo.artstation.com/projects/m6Ov9?album_id=584566)
+
+
+
+
+## Creepy House In The Hills
+
+### Image
+
+![Creepy House In The Hills](img/CreepyHouseInTheHills.jpg)
+
+
+### Details
+
+* **File name**: `CreepyHouseInTheHills.jpg`
+* **Tagged name**: `CreepyHouseInTheHills_Classic_Photo.jpg`
+* **Size**: Classic
+* **Style**: Photo
+* **Dominant color**: `(155, 152, 150)`
+* **Source**: [link](https://unsplash.com/photos/1Dod0VNRvCs)
